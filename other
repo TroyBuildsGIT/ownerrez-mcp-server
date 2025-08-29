@@ -1,0 +1,16 @@
+# OwnerRez API Configuration
+OWNERREZ_API_KEY=pt_d6mzxlclvi9mmxd3ihcn0s804tnp19vb
+OWNERREZ_EMAIL=troynowakrealty@gmail.com
+OWNERREZ_PASSWORD=Laurice2025!
+
+# OwnerRez API Endpoints
+OWNERREZ_API_BASE_URL=https://app.ownerrez.com
+OWNERREZ_API_DOCS_URL=https://www.ownerrez.com/support/articles/api-oauth-app
+OWNERREZ_API_SETTINGS_URL=https://app.ownerrez.com/settings/api
+
+# Dunedin Duo Website
+DUNEDIN_DUO_URL=https://www.dunedinduo.com
+
+# API Configuration
+OWNERREZ_API_VERSION=v2.0
+OWNERREZ_OAUTH_REDIRECT_URI=http://localhost:3000/auth/callback

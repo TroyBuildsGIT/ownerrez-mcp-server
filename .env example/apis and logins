@@ -1,0 +1,9 @@
+OWNERREZ_API_KEY - Your OwnerRez API key
+OWNERREZ_EMAIL - Your OwnerRez login email
+OWNERREZ_PASSWORD - Your OwnerRez password
+OWNERREZ_API_BASE_URL - Base URL for OwnerRez API
+OWNERREZ_API_DOCS_URL - OAuth documentation URL
+OWNERREZ_API_SETTINGS_URL - API settings page URL
+DUNEDIN_DUO_URL - Your Dunedin Duo website URL
+OWNERREZ_API_VERSION - API version (v2.0)
+OWNERREZ_OAUTH_REDIRECT_URI - OAuth callback URL for local development

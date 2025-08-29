@@ -1,172 +1,185 @@
-# Short Term Rental MCP CLI
+# 🏠 Short Term Rental CLI
 
-A comprehensive CLI tool for managing short-term rental properties through OwnerRez integration, designed to streamline property management operations directly from Cursor.
+A powerful **global CLI tool** that gives you intuitive control over your OwnerRez business directly from the command line.
 
-## 🏠 Overview
+## ✨ Features
 
-This CLI connects to your OwnerRez account to manage properties hosted on Airbnb, VRBO, and your custom website [dunedinduo.com](https://dunedinduo.com). The tool provides centralized control over pricing, settings, booking trends, utility usage, accounting, and guest communication.
+- **📊 Analytics & Reporting**: Generate insights from your rental data
+- **📅 Booking Management**: Create, update, and manage reservations
+- **💬 Guest Communication**: Send messages and manage guest interactions
+- **🏘️ Property Operations**: Manage property details and settings
+- **💰 Financial Tracking**: Monitor revenue, expenses, and profitability
+- **🔧 Workflow Automation**: Streamline repetitive tasks
+- **⚙️ Configuration Management**: Easy setup and customization
 
-## 🎯 Purpose
+## 🚀 Quick Start
 
-Built for your short-term rental team to handle common issues and automate all aspects of property management directly from Cursor, including:
-- **Accounting & Financial Management**
-- **Supply Stocking & Inventory**
-- **Guest Request Handling**
-- **Tax Payments & Compliance**
-- **Form Management & Updates**
-- **Utility Monitoring & Billing**
+### Installation
 
-## 🚀 Features
-
-### Core Functionality
-- **OwnerRez Integration**: REST API connections to your OwnerRez backend
-- **Multi-Platform Management**: Unified control over Airbnb, VRBO, and custom website listings
-- **Real-time Monitoring**: Track booking trends, pricing, and property performance
-- **Guest Communication**: Automated responses and question handling
-
-### Automation & Integration
-- **Utility Company APIs**: Direct connections to all utility providers
-- **Smart Home Integration**: Nest, Ring doorbell, and NoiseAware monitoring
-- **Playwright MCP Integration**: Automated web scraping and form filling when needed
-- **Process Automation**: Streamlined workflows for common property management tasks
-
-## 🛠 Technical Architecture
-
-### API Connections
-- OwnerRez REST API for property management
-- Utility company APIs for billing and usage monitoring
-- Smart home device APIs for monitoring and control
-
-### MCP Integration
-- **Current**: CLI tool for direct property management
-- **Future**: Custom MCP server hosted on dunedinduo.com for seamless Cursor integration
-
-### Automation Tools
-- Playwright MCP for web automation and data collection
-- Process automation for standard operating procedures
-- Contact management for maintenance and service providers
-
-## 📁 Project Structure
-
-```
-Short Term Rental MCP/
-├── README.md
-├── api/                    # REST API implementations
-├── config/                 # Configuration files
-├── processes/              # Standard operating procedures
-├── integrations/           # Third-party service connections
-├── utilities/              # Utility company integrations
-├── smart-home/            # Nest, Ring, NoiseAware integrations
-└── docs/                  # Documentation and API references
-```
-
-## 🔧 Setup & Configuration
-
-### Prerequisites
-- Node.js and npm
-- OwnerRez account credentials
-- Access to utility company accounts
-- Smart home device credentials
-
-### Environment Variables
-Configure your `.env` file with:
-- OwnerRez API keys
-- Utility company credentials
-- Smart home device tokens
-- Service provider contact information
-
-## 📚 Usage Examples
-
-### Property Management
 ```bash
-# Check booking status across all platforms
-rental-cli bookings status
+# Clone the repository
+git clone <your-repo-url>
+cd short-term-rental-cli
 
-# Update pricing for specific properties
-rental-cli pricing update --property="Beach House" --rate=250
+# Install dependencies
+npm install
 
-# Monitor utility usage
-rental-cli utilities status --property="Mountain Cabin"
+# Build the CLI tool
+npm run build
+
+# Install globally (optional)
+npm link
 ```
 
-### Guest Communication
+### Configuration
+
+Create a `.env` file in your project root:
+
 ```bash
-# Handle common guest questions
-rental-cli guest respond --question="WiFi password" --property="Beach House"
+# OwnerRez API Configuration
+OWNERREZ_API_KEY=your_api_key_here
+OWNERREZ_CLIENT_ID=your_client_id_here
+OWNERREZ_CLIENT_SECRET=your_client_secret_here
+OWNERREZ_BASE_URL=https://api.ownerrez.com
+OWNERREZ_REDIRECT_URI=http://localhost:3000/callback
 
-# Send automated check-in instructions
-rental-cli guest checkin --property="Mountain Cabin"
+# CLI Configuration
+DEFAULT_PROPERTY_ID=your_default_property_id
+OUTPUT_FORMAT=table
+DEBUG=false
 ```
 
-### Financial Management
+### Usage
+
 ```bash
-# Generate monthly accounting reports
-rental-cli accounting report --month="2024-01"
+# View all available commands
+short-term-rental --help
 
-# Process tax payments
-rental-cli taxes process --quarter="Q1"
+# Manage properties
+short-term-rental properties list
+short-term-rental properties get <id>
+
+# Handle bookings
+short-term-rental bookings list --property-id <id>
+short-term-rental bookings create --property-id <id> --check-in <date>
+
+# Guest management
+short-term-rental guests search "John Doe"
+short-term-rental guests get <id>
+
+# Financial reports
+short-term-rental financial revenue --period monthly
+short-term-rental financial expenses --property-id <id>
+
+# Analytics
+short-term-rental analytics occupancy --property-id <id> --period yearly
 ```
 
-## 🔄 Workflow Integration
+## 🛠️ Architecture
 
-### Standard Operating Procedures
-The CLI includes automated processes for:
-- **Check-in/Check-out Procedures**
-- **Maintenance Request Routing**
-- **Emergency Contact Protocols**
-- **Supply Replenishment**
-- **Cleaning Service Coordination**
+```
+src/
+├── api/           # OwnerRez API client
+├── cli/           # CLI command implementations
+├── utils/         # Configuration and utilities
+└── index.ts       # Main CLI entry point
+```
 
-### Team Collaboration
-- Shared access to property information
-- Standardized response templates
-- Automated task assignment
-- Performance tracking and reporting
+## 🔌 API Integration
 
-## 🚧 Future Development
+This CLI tool integrates with the OwnerRez API v2.0 to provide:
 
-### Phase 1: CLI Tool (Current)
-- Core property management functionality
-- Basic automation and monitoring
-- Team access and collaboration features
+- **Authentication**: OAuth 2.0 flow with API key support
+- **Rate Limiting**: Built-in request throttling
+- **Error Handling**: Comprehensive error management
+- **Data Validation**: Input/output validation
+- **Caching**: Local caching for improved performance
 
-### Phase 2: Custom MCP Server
-- Hosted on dunedinduo.com
-- Seamless Cursor integration
-- Advanced automation workflows
-- Real-time property monitoring dashboard
+## 📚 Available Commands
 
-## 🤝 Team Access
+### Properties
+- `list` - List all properties
+- `get <id>` - Get property details
+- `update <id>` - Update property information
+- `create` - Create new property
 
-This tool is designed for your entire short-term rental team to:
-- Handle guest inquiries efficiently
-- Monitor property performance
-- Manage maintenance and repairs
-- Process financial transactions
-- Maintain compliance and documentation
+### Bookings
+- `list` - List bookings with filters
+- `get <id>` - Get booking details
+- `create` - Create new booking
+- `update <id>` - Update booking
+- `cancel <id>` - Cancel booking
 
-## 📞 Support & Maintenance
+### Guests
+- `search <query>` - Search for guests
+- `get <id>` - Get guest details
+- `create` - Create guest record
+- `update <id>` - Update guest information
 
-### Contact Information
-- **Maintenance**: [Contact details for maintenance services]
-- **Utilities**: [Utility company contact information]
-- **Emergency**: [Emergency contact protocols]
-- **Technical Support**: [Development team contact]
+### Financial
+- `revenue` - Revenue reports
+- `expenses` - Expense tracking
+- `profitability` - Profit/loss analysis
+- `taxes` - Tax reporting
 
-### Documentation
-- API references for all integrations
-- Process documentation for common tasks
-- Troubleshooting guides
-- Training materials for team members
+### Analytics
+- `occupancy` - Occupancy rates
+- `revenue` - Revenue trends
+- `performance` - Property performance metrics
 
-## 🔒 Security & Compliance
+## 🔧 Development
 
-- Secure API key management
-- Encrypted communication channels
-- Audit logging for all operations
-- GDPR compliance for guest data
-- Secure access controls for team members
+### Building
+
+```bash
+# Build CLI tool
+npm run build
+
+# Build with watch mode
+npm run dev
+
+# Build specific configurations
+npm run build:cli
+npm run build:cli-clean
+```
+
+### Testing
+
+```bash
+# Run tests
+npm test
+
+# Test specific commands
+npm run test:bookings
+npm run test:properties
+```
+
+## 📦 Dependencies
+
+- **commander**: CLI framework
+- **axios**: HTTP client for API calls
+- **dotenv**: Environment variable management
+- **inquirer**: Interactive prompts
+
+## 🌟 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests if applicable
+5. Submit a pull request
+
+## 📄 License
+
+ISC License - see LICENSE file for details
+
+## 🆘 Support
+
+For issues and questions:
+- Check the API documentation
+- Review the configuration guide
+- Open an issue on GitHub
 
 ---
 
-**Built for efficiency, designed for your team, powered by automation.**
+**Built with ❤️ for property managers who love the command line**

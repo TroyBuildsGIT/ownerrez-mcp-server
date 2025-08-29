@@ -1,0 +1,46 @@
+{
+  "name": "short-term-rental-cli",
+  "version": "1.0.0",
+  "description": "Global CLI tool for OwnerRez property management with API integration",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "short-term-rental": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "build:cli": "tsc -p tsconfig.cli.json",
+    "build:cli-clean": "tsc -p tsconfig.cli-clean.json",
+    "dev": "tsc --watch",
+    "start": "node dist/index.js",
+    "test": "jest",
+    "dev:mcp": "ts-node mcp/server.ts",
+    "dev:vercel": "vercel dev",
+    "deploy": "vercel deploy --prod",
+    "smoke:mcp": "node scripts/sse-test.mjs"
+  },
+  "keywords": [
+    "cli",
+    "ownerrez",
+    "property-management",
+    "short-term-rental",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "commander": "^11.1.0",
+    "dotenv": "^16.3.1",
+    "inquirer": "^9.2.12"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^20.8.0",
+    "jest": "^30.0.5",
+    "ts-jest": "^29.4.1",
+    "typescript": "^5.2.2",
+    "ts-node": "^10.9.1",
+    // removed node-fetch in favor of built-in fetch in Node 18+
+  }
+}
