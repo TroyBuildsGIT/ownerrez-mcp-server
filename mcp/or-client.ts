@@ -1,13 +1,18 @@
 const BASE = process.env.OWNERREZ_BASE_URL || "https://api.ownerrez.com";
 const TOKEN = process.env.OWNERREZ_API_TOKEN;
+const EMAIL = process.env.OWNERREZ_EMAIL || "troynowakrealty@gmail.com";
 const UA = process.env.OWNERREZ_USER_AGENT || "DunedinDuo/1.0 (ownerrez-connector)";
 
 async function orFetch(path: string, init: RequestInit = {}): Promise<any> {
   if (!TOKEN) {
     throw new Error("Missing OWNERREZ_API_TOKEN");
   }
+  
+  // OwnerRez uses Basic Auth: email as username, token as password
+  const credentials = btoa(`${EMAIL}:${TOKEN}`);
+  
   const headers: Record<string, string> = {
-    "Authorization": `Bearer ${TOKEN}`,
+    "Authorization": `Basic ${credentials}`,
     "User-Agent": UA,
     "Accept": "application/json",
     "Content-Type": "application/json",
