@@ -1,5 +1,5 @@
 import http from "http";
-import { search as searchTool, fetch as fetchTool } from "./tools";
+import { search as searchTool, fetch as fetchTool } from "./tools.js";
 
 const PORT = parseInt(process.env.PORT || "8000", 10);
 

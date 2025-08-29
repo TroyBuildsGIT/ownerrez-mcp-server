@@ -1,8 +1,8 @@
-const BASE = process.env.OWNERREZ_BASE_URL || "https://api.ownerrez.com";
-const TOKEN = process.env.OWNERREZ_API_TOKEN;
-const OAUTH_TOKEN = process.env.OWNERREZ_OAUTH_TOKEN;
-const EMAIL = process.env.OWNERREZ_EMAIL || "troynowakrealty@gmail.com";
-const UA = process.env.OWNERREZ_USER_AGENT || "DunedinDuo/1.0 (ownerrez-connector)";
+const BASE = (process.env.OWNERREZ_BASE_URL || "https://api.ownerrez.com").trim();
+const TOKEN = process.env.OWNERREZ_API_TOKEN?.trim();
+const OAUTH_TOKEN = process.env.OWNERREZ_OAUTH_TOKEN?.trim();
+const EMAIL = (process.env.OWNERREZ_EMAIL || "troynowakrealty@gmail.com").trim();
+const UA = (process.env.OWNERREZ_USER_AGENT || "DunedinDuo/1.0 (ownerrez-connector)").trim();
 
 async function orFetch(path: string, init: RequestInit = {}): Promise<any> {
   // Prefer OAuth token over API token for unlimited access
