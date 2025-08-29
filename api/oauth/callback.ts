@@ -74,8 +74,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 }
 
 async function exchangeCodeForToken(code: string): Promise<TokenResponse> {
-  const clientId = process.env.OWNERREZ_CLIENT_ID;
-  const clientSecret = process.env.OWNERREZ_CLIENT_SECRET;
+  const clientId = process.env.OWNERREZ_OAUTH_CLIENT_ID;
+  const clientSecret = process.env.OWNERREZ_OAUTH_CLIENT_SECRET;
   const redirectUri = process.env.OWNERREZ_REDIRECT_URI || 'https://your-domain.vercel.app/api/oauth/callback';
 
   if (!clientId || !clientSecret) {

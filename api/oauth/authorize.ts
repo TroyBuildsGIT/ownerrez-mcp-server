@@ -15,7 +15,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   }
 
   try {
-    const clientId = process.env.OWNERREZ_CLIENT_ID;
+    const clientId = process.env.OWNERREZ_OAUTH_CLIENT_ID;
     const redirectUri = process.env.OWNERREZ_REDIRECT_URI || 'https://your-domain.vercel.app/api/oauth/callback';
 
     if (!clientId) {

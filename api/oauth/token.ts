@@ -90,8 +90,8 @@ async function refreshToken(req: VercelRequest, res: VercelResponse) {
     return res.status(400).json({ error: 'Missing refresh_token' });
   }
 
-  const clientId = process.env.OWNERREZ_CLIENT_ID;
-  const clientSecret = process.env.OWNERREZ_CLIENT_SECRET;
+  const clientId = process.env.OWNERREZ_OAUTH_CLIENT_ID;
+  const clientSecret = process.env.OWNERREZ_OAUTH_CLIENT_SECRET;
 
   if (!clientId || !clientSecret) {
     return res.status(500).json({ error: 'OAuth client credentials not configured' });

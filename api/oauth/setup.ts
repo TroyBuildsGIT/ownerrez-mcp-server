@@ -13,8 +13,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const clientId = process.env.OWNERREZ_CLIENT_ID;
-  const clientSecret = process.env.OWNERREZ_CLIENT_SECRET;
+  const clientId = process.env.OWNERREZ_OAUTH_CLIENT_ID;
+  const clientSecret = process.env.OWNERREZ_OAUTH_CLIENT_SECRET;
   const redirectUri = process.env.OWNERREZ_REDIRECT_URI;
   const currentToken = process.env.OWNERREZ_OAUTH_TOKEN;
 
