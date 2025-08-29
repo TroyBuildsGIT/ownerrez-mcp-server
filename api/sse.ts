@@ -17,16 +17,16 @@ export default async function handler(req: Request) {
   const stream = new ReadableStream({
     async start(controller) {
       try {
-        let payload;
+        let result;
         if (tool === "search") {
-          payload = await searchTool(String(args?.query || ""));
+          result = await searchTool(String(args?.query || ""));
         } else if (tool === "fetch") {
-          payload = await fetchTool(String(args?.id || ""));
+          result = await fetchTool(String(args?.id || ""));
         } else {
           throw new Error(`Unknown tool: ${tool}`);
         }
-        const out = { content: [ { type: "text", text: JSON.stringify(payload) } ] };
-        sseStream(controller, "result", out);
+        // Tools now return content in MCP format directly
+        sseStream(controller, "result", result);
       } catch (err: any) {
         const out = { content: [ { type: "text", text: JSON.stringify({ error: err.message }) } ] };
         sseStream(controller, "result", out);

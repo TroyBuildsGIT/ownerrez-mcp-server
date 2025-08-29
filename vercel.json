@@ -2,6 +2,7 @@
   "framework": null,
   "buildCommand": "",
   "devCommand": "",
+  "public": true,
   "headers": [
     {
       "source": "/api/(.*)",
