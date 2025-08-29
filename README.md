@@ -1,6 +1,30 @@
-# 🏠 Short Term Rental CLI
+# 🏠 Short Term Rental MCP Server
 
-A powerful **global CLI tool** that gives you intuitive control over your OwnerRez business directly from the command line.
+A powerful **Model Context Protocol (MCP) server** for OwnerRez that enables seamless integration with AI assistants like ChatGPT.
+
+## 🎉 **✅ DEPLOYED & LIVE**
+
+### 🚀 **Production Deployment**
+- **Status**: ✅ Successfully deployed to Vercel
+- **Production URL**: `https://short-term-rental-mvnwzyki7-troy-nowaks-projects-9060401a.vercel.app`
+- **ChatGPT Integration**: `https://short-term-rental-mvnwzyki7-troy-nowaks-projects-9060401a.vercel.app/api/sse`
+- **GitHub Repository**: `ownerrez-mcp-server` by `TroyBuildsGIT`
+- **Latest Commit**: `b6ff9ab` - "Fix OwnerRez MCP server - add required API parameters, fix date fields, add guest details"
+
+### 🔧 **Key Features Implemented**
+1. **Complete OwnerRez API Integration** - Full access to properties, bookings, and guest data
+2. **Guest Details** - Full guest names with `include_guest=true` parameter
+3. **Date Handling** - Proper `arrival`/`departure` date fields (not `check_in`/`check_out`)
+4. **API Parameters** - Required `property_ids` and `since_utc` parameters added
+5. **Response Handling** - Supports both `.items` and `.data` response formats
+6. **Booking Limit** - Increased to 50 bookings to show all current/future reservations
+7. **ES Module Support** - Fixed TypeScript compilation and import paths
+
+### 🧪 **Verification Status**
+✅ All 50+ bookings displaying correctly with complete guest information
+✅ API endpoints responding properly
+✅ Date fields formatted correctly
+✅ Guest details included in responses
 
 ## ✨ Features
 
@@ -14,26 +38,33 @@ A powerful **global CLI tool** that gives you intuitive control over your OwnerR
 
 ## 🚀 Quick Start
 
-### Installation
+### ChatGPT Integration (Recommended)
+
+1. **Add to ChatGPT**: Use the MCP server URL in ChatGPT's MCP configuration
+2. **Server URL**: `https://short-term-rental-mvnwzyki7-troy-nowaks-projects-9060401a.vercel.app/api/sse`
+3. **Available Tools**: The server provides tools for properties, bookings, and guest management
+
+### Local Development
 
 ```bash
 # Clone the repository
 git clone <your-repo-url>
-cd short-term-rental-cli
+cd short-term-rental-mcp
 
 # Install dependencies
 npm install
 
-# Build the CLI tool
-npm run build
+# Configure environment
+cp .env.example .env
+# Edit .env with your OwnerRez API credentials
 
-# Install globally (optional)
-npm link
+# Start development server
+npm run dev
 ```
 
-### Configuration
+### Environment Configuration
 
-Create a `.env` file in your project root:
+Create a `.env` file with your OwnerRez API credentials:
 
 ```bash
 # OwnerRez API Configuration
@@ -43,123 +74,146 @@ OWNERREZ_CLIENT_SECRET=your_client_secret_here
 OWNERREZ_BASE_URL=https://api.ownerrez.com
 OWNERREZ_REDIRECT_URI=http://localhost:3000/callback
 
-# CLI Configuration
+# Optional: Default settings
 DEFAULT_PROPERTY_ID=your_default_property_id
-OUTPUT_FORMAT=table
 DEBUG=false
 ```
 
-### Usage
+### MCP Server Usage
 
-```bash
-# View all available commands
-short-term-rental --help
+The MCP server provides the following tools through ChatGPT:
 
-# Manage properties
-short-term-rental properties list
-short-term-rental properties get <id>
-
-# Handle bookings
-short-term-rental bookings list --property-id <id>
-short-term-rental bookings create --property-id <id> --check-in <date>
-
-# Guest management
-short-term-rental guests search "John Doe"
-short-term-rental guests get <id>
-
-# Financial reports
-short-term-rental financial revenue --period monthly
-short-term-rental financial expenses --property-id <id>
-
-# Analytics
-short-term-rental analytics occupancy --property-id <id> --period yearly
-```
+- **Property Management**: List and get property details
+- **Booking Management**: View, create, and manage reservations
+- **Guest Management**: Search and manage guest information
+- **Financial Reports**: Revenue and expense tracking
+- **Analytics**: Occupancy rates and performance metrics
 
 ## 🛠️ Architecture
 
 ```
 src/
 ├── api/           # OwnerRez API client
-├── cli/           # CLI command implementations
+├── mcp/           # MCP server implementation
+│   ├── server.ts      # Main MCP server
+│   ├── tools.ts       # MCP tool definitions
+│   └── or-client.ts   # OwnerRez client for MCP
+├── cli/           # CLI command implementations (legacy)
 ├── utils/         # Configuration and utilities
-└── index.ts       # Main CLI entry point
+└── index.ts       # Main entry point
 ```
+
+### MCP Components
+
+- **Server** (`mcp/server.ts`): Handles MCP protocol communication with ChatGPT
+- **Tools** (`mcp/tools.ts`): Defines available tools (properties, bookings, guests)
+- **Client** (`mcp/or-client.ts`): OwnerRez API integration with proper error handling
+- **API Layer** (`api/`): Core OwnerRez API functionality
 
 ## 🔌 API Integration
 
-This CLI tool integrates with the OwnerRez API v2.0 to provide:
+This MCP server integrates with the OwnerRez API v2.0 to provide:
 
 - **Authentication**: OAuth 2.0 flow with API key support
 - **Rate Limiting**: Built-in request throttling
 - **Error Handling**: Comprehensive error management
 - **Data Validation**: Input/output validation
-- **Caching**: Local caching for improved performance
+- **Response Flexibility**: Handles both `.items` and `.data` response formats
+- **Guest Details**: Full guest information with `include_guest=true`
+- **Date Fields**: Proper `arrival`/`departure` handling (not `check_in`/`check_out`)
 
-## 📚 Available Commands
+## 🛠️ MCP Tools Available
 
-### Properties
-- `list` - List all properties
-- `get <id>` - Get property details
-- `update <id>` - Update property information
-- `create` - Create new property
+### Property Tools
+- `list_properties` - List all properties with details
+- `get_property` - Get detailed information for a specific property
+- `search_properties` - Search properties by name or location
 
-### Bookings
-- `list` - List bookings with filters
-- `get <id>` - Get booking details
-- `create` - Create new booking
-- `update <id>` - Update booking
-- `cancel <id>` - Cancel booking
+### Booking Tools
+- `list_bookings` - List all bookings with guest details and dates
+- `get_booking` - Get detailed booking information
+- `get_upcoming_bookings` - Get future bookings within specified days
+- `get_current_bookings` - Get currently active bookings
+- `search_bookings_by_guest` - Find bookings by guest name
+- `get_booking_summary` - Get booking statistics and summary
 
-### Guests
-- `search <query>` - Search for guests
-- `get <id>` - Get guest details
-- `create` - Create guest record
-- `update <id>` - Update guest information
+### Guest Tools
+- `search_guests` - Search for guests by name or email
+- `get_guest` - Get detailed guest information
+- `get_guest_history` - Get booking history for a specific guest
 
-### Financial
-- `revenue` - Revenue reports
-- `expenses` - Expense tracking
-- `profitability` - Profit/loss analysis
-- `taxes` - Tax reporting
+### Financial Tools
+- `get_financial_summary` - Get revenue and expense summaries
+- `get_property_revenue` - Get revenue data for specific properties
+- `get_booking_financials` - Get financial details for bookings
 
-### Analytics
-- `occupancy` - Occupancy rates
-- `revenue` - Revenue trends
-- `performance` - Property performance metrics
+### Analytics Tools
+- `get_occupancy_rates` - Calculate occupancy rates for properties
+- `get_property_performance` - Get performance metrics for properties
+- `get_revenue_trends` - Analyze revenue trends over time
 
 ## 🔧 Development
 
 ### Building
 
 ```bash
-# Build CLI tool
+# Build MCP server and all components
 npm run build
 
-# Build with watch mode
+# Build with watch mode (development)
 npm run dev
 
-# Build specific configurations
-npm run build:cli
-npm run build:cli-clean
+# Build specific components
+npm run build:mcp        # Build MCP server only
+npm run build:api        # Build API client only
+npm run build:cli        # Build CLI tools (legacy)
+npm run build:cli-clean  # Build clean CLI version
 ```
 
 ### Testing
 
 ```bash
-# Run tests
+# Run all tests
 npm test
 
-# Test specific commands
+# Test MCP server functionality
+npm run test:mcp
+
+# Test API integration
+npm run test:api
+
+# Test specific components
 npm run test:bookings
 npm run test:properties
+npm run test:guests
+```
+
+### Deployment
+
+```bash
+# Deploy to Vercel (production)
+npm run deploy
+
+# Check deployment status
+npm run deploy:status
 ```
 
 ## 📦 Dependencies
 
-- **commander**: CLI framework
-- **axios**: HTTP client for API calls
+### Core Dependencies
+- **@modelcontextprotocol/sdk**: MCP protocol implementation
+- **axios**: HTTP client for OwnerRez API calls
 - **dotenv**: Environment variable management
-- **inquirer**: Interactive prompts
+- **express**: Web server for MCP endpoints
+- **cors**: Cross-origin resource sharing
+
+### Development Dependencies
+- **typescript**: TypeScript compilation
+- **@types/node**: Node.js type definitions
+- **jest**: Testing framework
+- **ts-jest**: TypeScript testing support
+- **commander**: CLI framework (legacy)
+- **inquirer**: Interactive prompts (legacy)
 
 ## 🌟 Contributing
 
