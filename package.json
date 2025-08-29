@@ -40,7 +40,6 @@
     "jest": "^30.0.5",
     "ts-jest": "^29.4.1",
     "typescript": "^5.2.2",
-    "ts-node": "^10.9.1",
-    // removed node-fetch in favor of built-in fetch in Node 18+
+    "ts-node": "^10.9.1"
   }
 }

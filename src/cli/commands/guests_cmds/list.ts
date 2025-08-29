@@ -1,5 +1,5 @@
 import { OwnerRezClient } from '../../../api/ownerrez-client';
-import { getConfig } from '../../../utils/config';
+import { config } from '../../../utils/config';
 
 exports.command = 'list';
 exports.desc = 'List all guests';
@@ -19,13 +19,12 @@ exports.builder = {
 };
 
 exports.handler = async (argv) => {
-  const config = getConfig();
-  const client = new OwnerRezClient(config);
+  const client = new OwnerRezClient(config.ownerrez.apiKey, config.ownerrez.baseUrl);
 
   try {
     const guests = await client.getGuests({
       limit: argv.limit,
-      offset: argv.offset,
+      // offset: argv.offset, // This parameter doesn't exist in the API interface
     });
     console.log(JSON.stringify(guests, null, 2));
   } catch (error) {

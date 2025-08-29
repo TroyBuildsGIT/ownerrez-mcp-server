@@ -1,5 +1,5 @@
 import { OwnerRezClient } from '../../../api/ownerrez-client';
-import { getConfig } from '../../../utils/config';
+import { config } from '../../../utils/config';
 
 exports.command = 'create';
 exports.desc = 'Create a new guest';
@@ -26,8 +26,7 @@ exports.builder = {
 };
 
 exports.handler = async (argv) => {
-  const config = getConfig();
-  const client = new OwnerRezClient(config);
+  const client = new OwnerRezClient(config.ownerrez.apiKey, config.ownerrez.baseUrl);
 
   const guestData = {
     first_name: argv.firstName,

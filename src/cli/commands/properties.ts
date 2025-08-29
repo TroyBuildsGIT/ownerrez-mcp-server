@@ -71,7 +71,7 @@ export class PropertiesCommand {
       console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
       console.log(`🆔 ID: ${property.id}`);
       console.log(`🏷️  Name: ${property.name}`);
-      console.log(`📊 Status: ${property.status}`);
+      console.log(`✅ Active: ${property.active}`);
       if (property.address) console.log(`📍 Address: ${property.address}`);
       console.log(`📝 Created: ${property.created_at}`);
       console.log(`🔄 Updated: ${property.updated_at}`);

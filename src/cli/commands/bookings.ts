@@ -59,7 +59,7 @@ export class BookingsCommand {
     try {
       const config = loadConfig();
       const client = new OwnerRezClient(config.token, config.baseUrl);
-      const booking = await client.getBookingById(parseInt(id));
+      const booking = await client.getBooking(id);
       console.log(JSON.stringify(booking, null, 2));
     } catch (error) {
       console.error('Error getting booking:', error.message);

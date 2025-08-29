@@ -1,5 +1,5 @@
 import { OwnerRezClient } from '../../../api/ownerrez-client';
-import { getConfig } from '../../../utils/config';
+import { config } from '../../../utils/config';
 
 exports.command = 'update <id>';
 exports.desc = 'Update a guest\'s information';
@@ -21,10 +21,9 @@ exports.handler = async (argv) => {
     return;
   }
 
-  const config = getConfig();
-  const client = new OwnerRezClient(config);
+  const client = new OwnerRezClient(config.ownerrez.apiKey, config.ownerrez.baseUrl);
 
-  const updateData = {};
+  const updateData: any = {};
   if (argv.firstName) updateData.first_name = argv.firstName;
   if (argv.lastName) updateData.last_name = argv.lastName;
   if (argv.email) updateData.email = argv.email;
