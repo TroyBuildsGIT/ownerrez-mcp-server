@@ -1,23 +1,37 @@
 const BASE = process.env.OWNERREZ_BASE_URL || "https://api.ownerrez.com";
 const TOKEN = process.env.OWNERREZ_API_TOKEN;
+const OAUTH_TOKEN = process.env.OWNERREZ_OAUTH_TOKEN;
 const EMAIL = process.env.OWNERREZ_EMAIL || "troynowakrealty@gmail.com";
 const UA = process.env.OWNERREZ_USER_AGENT || "DunedinDuo/1.0 (ownerrez-connector)";
 
 async function orFetch(path: string, init: RequestInit = {}): Promise<any> {
-  if (!TOKEN) {
-    throw new Error("Missing OWNERREZ_API_TOKEN");
+  // Prefer OAuth token over API token for unlimited access
+  if (!OAUTH_TOKEN && !TOKEN) {
+    throw new Error("Missing OWNERREZ_OAUTH_TOKEN or OWNERREZ_API_TOKEN");
   }
   
-  // OwnerRez uses Basic Auth: email as username, token as password
-  const credentials = btoa(`${EMAIL}:${TOKEN}`);
+  let headers: Record<string, string>;
   
-  const headers: Record<string, string> = {
-    "Authorization": `Basic ${credentials}`,
-    "User-Agent": UA,
-    "Accept": "application/json",
-    "Content-Type": "application/json",
-    ...(init.headers as Record<string, string> ?? {})
-  };
+  if (OAUTH_TOKEN) {
+    // Use OAuth Bearer token for unlimited API access
+    headers = {
+      "Authorization": `Bearer ${OAUTH_TOKEN}`,
+      "User-Agent": UA,
+      "Accept": "application/json",
+      "Content-Type": "application/json",
+      ...(init.headers as Record<string, string> ?? {})
+    };
+  } else {
+    // Fallback to Basic Auth with API token (rate limited)
+    const credentials = btoa(`${EMAIL}:${TOKEN}`);
+    headers = {
+      "Authorization": `Basic ${credentials}`,
+      "User-Agent": UA,
+      "Accept": "application/json",
+      "Content-Type": "application/json",
+      ...(init.headers as Record<string, string> ?? {})
+    };
+  }
 
   const doCall = async (): Promise<any> => {
     const res = await fetch(`${BASE}${path}`, { ...init, headers });
