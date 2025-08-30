@@ -1,0 +1,4381 @@
+{
+  "property": {
+    "id": 417538,
+    "name": "2403 Brigadoon",
+    "analysisType": "Monthly Profit Analysis (Proportional Split)"
+  },
+  "period": "2025",
+  "monthlyProfits": {
+    "January 2025": {
+      "income": 4127.025059462916,
+      "expenses": 4797.28,
+      "profit": -670.2549405370837,
+      "incomeDetails": {
+        "bookings": [
+          {
+            "adults": 2,
+            "arrival": "2024-12-31",
+            "booked_utc": "2024-07-13T18:11:38Z",
+            "cancellation_policy_id": 19163,
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-02-15",
+            "created_utc": "2024-07-13T18:11:38Z",
+            "currency_code": "USD",
+            "departure": "2025-02-15",
+            "form_key": "81f51ff2b7374bc19dadea48787104d5",
+            "guest": {
+              "first_name": "Brittany",
+              "id": 613964592,
+              "last_name": "Uitermarkt"
+            },
+            "guest_id": 613964592,
+            "id": 11236038,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "dunedinduo.com",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nThanks for accommodating us! We will have our 15 pound dog, Chino, with us. Troy comped the pet fee for us to fit in our budget.",
+            "pets": 0,
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "quote_id": 4754968,
+            "status": "active",
+            "total_amount": 4824.1,
+            "total_host_fees": 140.5,
+            "total_paid": 4824.1,
+            "type": "booking",
+            "updated_utc": "2025-02-20T10:09:42Z"
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-01-20",
+            "booked_utc": "2024-03-23T00:39:10Z",
+            "canceled_utc": "2024-05-13T13:19:43Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-02-23",
+            "created_utc": "2024-03-23T00:39:11Z",
+            "currency_code": "USD",
+            "departure": "2025-02-23",
+            "form_key": "da84a7be327546bbaafd2cd88b00a6fe",
+            "guest": {
+              "first_name": "Sheila",
+              "id": 612790200,
+              "last_name": "Grinter"
+            },
+            "guest_id": 612790200,
+            "id": 10297644,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "pets": 0,
+            "platform_reservation_number": "ORB10297644",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "canceled",
+            "thread_ids": [
+              3539730
+            ],
+            "total_amount": 4271,
+            "total_host_fees": 62.23,
+            "total_owed": 4271,
+            "total_paid": 2135.5,
+            "total_refunded": 2135.5,
+            "type": "booking",
+            "updated_utc": "2024-07-02T02:03:07Z"
+          }
+        ],
+        "totalGrossRevenue": 4884.053324808185,
+        "totalBaseRental": 4151.445326086957,
+        "totalCleaningFees": 610.5066656010231,
+        "totalPlatformFees": 146.52159974424555,
+        "totalNights": 32.333333333333336,
+        "bookingCount": 2,
+        "multiMonthBookings": [
+          {
+            "adults": 2,
+            "arrival": "2024-12-31",
+            "booked_utc": "2024-07-13T18:11:38Z",
+            "cancellation_policy_id": 19163,
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-02-15",
+            "created_utc": "2024-07-13T18:11:38Z",
+            "currency_code": "USD",
+            "departure": "2025-02-15",
+            "form_key": "81f51ff2b7374bc19dadea48787104d5",
+            "guest": {
+              "first_name": "Brittany",
+              "id": 613964592,
+              "last_name": "Uitermarkt"
+            },
+            "guest_id": 613964592,
+            "id": 11236038,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "dunedinduo.com",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nThanks for accommodating us! We will have our 15 pound dog, Chino, with us. Troy comped the pet fee for us to fit in our budget.",
+            "pets": 0,
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "quote_id": 4754968,
+            "status": "active",
+            "total_amount": 4824.1,
+            "total_host_fees": 140.5,
+            "total_paid": 4824.1,
+            "type": "booking",
+            "updated_utc": "2025-02-20T10:09:42Z",
+            "allocatedAmount": 3251.0239130434784,
+            "totalNights": 46,
+            "monthsSpanned": 3
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-01-20",
+            "booked_utc": "2024-03-23T00:39:10Z",
+            "canceled_utc": "2024-05-13T13:19:43Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-02-23",
+            "created_utc": "2024-03-23T00:39:11Z",
+            "currency_code": "USD",
+            "departure": "2025-02-23",
+            "form_key": "da84a7be327546bbaafd2cd88b00a6fe",
+            "guest": {
+              "first_name": "Sheila",
+              "id": 612790200,
+              "last_name": "Grinter"
+            },
+            "guest_id": 612790200,
+            "id": 10297644,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "pets": 0,
+            "platform_reservation_number": "ORB10297644",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "canceled",
+            "thread_ids": [
+              3539730
+            ],
+            "total_amount": 4271,
+            "total_host_fees": 62.23,
+            "total_owed": 4271,
+            "total_paid": 2135.5,
+            "total_refunded": 2135.5,
+            "type": "booking",
+            "updated_utc": "2024-07-02T02:03:07Z",
+            "allocatedAmount": 1633.0294117647059,
+            "totalNights": 34,
+            "monthsSpanned": 2
+          }
+        ],
+        "singleMonthBookings": [],
+        "netRentalIncome": 4127.025059462916,
+        "averageBookingValue": 2442.0266624040923,
+        "averageNightlyRate": 151.05319561262425,
+        "utilizationRate": 100
+      },
+      "expenseDetails": {
+        "totalExpenses": 4797.28,
+        "categoryBreakdown": {
+          "Loan Payment": 1239.23,
+          "Uncategorized": 133,
+          "Internal Transfers": 3000,
+          "Bills & Utilities": 425.05
+        },
+        "transactions": [
+          {
+            "date": "2025-01-02",
+            "amount": 1239.23,
+            "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+            "category": "Loan Payment"
+          },
+          {
+            "date": "2025-01-03",
+            "amount": 33,
+            "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-01-03",
+            "amount": 3000,
+            "description": "Online Banking transfer from CHK 3189 Confirmation# XXXXX63519",
+            "category": "Internal Transfers"
+          },
+          {
+            "date": "2025-01-06",
+            "amount": 187,
+            "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-01-09",
+            "amount": 85.77,
+            "description": "CLEARWATER CITY DES:UTILITY ID:7998741 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-01-09",
+            "amount": 100,
+            "description": "\"Zelle payment to dmytro bichukov for 'home repair'; Conf# gba7fdmjj\"",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-01-21",
+            "amount": 71.99,
+            "description": "SPECTRUM DES:SPECTRUM ID:2101697 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-01-23",
+            "amount": 80.29,
+            "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+            "category": "Bills & Utilities"
+          }
+        ]
+      }
+    },
+    "February 2025": {
+      "income": 6219.111537282029,
+      "expenses": 1758.58,
+      "profit": 4460.531537282029,
+      "incomeDetails": {
+        "bookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-02-15",
+            "booked_utc": "2024-12-04T00:08:49Z",
+            "cancellation_policy_id": 19163,
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-02-18",
+            "created_utc": "2024-12-04T00:08:50Z",
+            "currency_code": "USD",
+            "departure": "2025-02-18",
+            "form_key": "118733a3b9ad42babdb4dc90abf8dddd",
+            "guest": {
+              "first_name": "Jeremiah",
+              "id": 615316560,
+              "last_name": "Keene"
+            },
+            "guest_id": 615316560,
+            "id": 12332911,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nHi Troy.  I will be traveling with my wife.  This will be a surprise trip for her for the Shriners children’s invitational softball tournament",
+            "pets": 0,
+            "platform_reservation_number": "ORB12332911",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              6859162
+            ],
+            "total_amount": 691.56,
+            "total_host_fees": 20.66,
+            "total_owed": 137.33,
+            "total_paid": 691.56,
+            "total_refunded": 137.33,
+            "type": "booking",
+            "updated_utc": "2025-02-23T09:23:28Z"
+          },
+          {
+            "adults": 2,
+            "arrival": "2024-12-31",
+            "booked_utc": "2024-07-13T18:11:38Z",
+            "cancellation_policy_id": 19163,
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-02-15",
+            "created_utc": "2024-07-13T18:11:38Z",
+            "currency_code": "USD",
+            "departure": "2025-02-15",
+            "form_key": "81f51ff2b7374bc19dadea48787104d5",
+            "guest": {
+              "first_name": "Brittany",
+              "id": 613964592,
+              "last_name": "Uitermarkt"
+            },
+            "guest_id": 613964592,
+            "id": 11236038,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "dunedinduo.com",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nThanks for accommodating us! We will have our 15 pound dog, Chino, with us. Troy comped the pet fee for us to fit in our budget.",
+            "pets": 0,
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "quote_id": 4754968,
+            "status": "active",
+            "total_amount": 4824.1,
+            "total_host_fees": 140.5,
+            "total_paid": 4824.1,
+            "type": "booking",
+            "updated_utc": "2025-02-20T10:09:42Z"
+          },
+          {
+            "adults": 4,
+            "arrival": "2025-02-18",
+            "booked_utc": "2024-06-27T20:32:56Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-03-20",
+            "created_utc": "2024-06-27T20:32:56Z",
+            "currency_code": "USD",
+            "departure": "2025-03-20",
+            "form_key": "6d34848bc85b47f6b94255cf0223108f",
+            "guest": {
+              "first_name": "Richard",
+              "id": 613803323,
+              "last_name": "Keller"
+            },
+            "guest_id": 613803323,
+            "id": 11107712,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMTHPJJKNQ",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "quote_id": 4718454,
+            "status": "active",
+            "thread_ids": [
+              5437199
+            ],
+            "total_amount": 3967,
+            "total_host_fees": 119.01,
+            "total_paid": 3967,
+            "type": "booking",
+            "updated_utc": "2025-03-25T05:28:16Z"
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-02-23",
+            "booked_utc": "2024-04-04T15:28:35Z",
+            "canceled_utc": "2024-05-13T13:19:43Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-04-30",
+            "created_utc": "2024-04-04T15:28:35Z",
+            "currency_code": "USD",
+            "departure": "2025-04-30",
+            "form_key": "38ef9a98fa95476a8535fd34add4f3a9",
+            "guest": {
+              "first_name": "Linda",
+              "id": 612898814,
+              "last_name": "Couture"
+            },
+            "guest_id": 612898814,
+            "id": 10397460,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMPA45QJWE",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "canceled",
+            "thread_ids": [
+              4052105
+            ],
+            "total_amount": 8011.86,
+            "total_host_fees": 132.12,
+            "total_owed": 3607.95,
+            "total_paid": 4790.7,
+            "total_refunded": 386.79,
+            "type": "booking",
+            "updated_utc": "2024-06-24T18:55:19Z"
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-01-20",
+            "booked_utc": "2024-03-23T00:39:10Z",
+            "canceled_utc": "2024-05-13T13:19:43Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-02-23",
+            "created_utc": "2024-03-23T00:39:11Z",
+            "currency_code": "USD",
+            "departure": "2025-02-23",
+            "form_key": "da84a7be327546bbaafd2cd88b00a6fe",
+            "guest": {
+              "first_name": "Sheila",
+              "id": 612790200,
+              "last_name": "Grinter"
+            },
+            "guest_id": 612790200,
+            "id": 10297644,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "pets": 0,
+            "platform_reservation_number": "ORB10297644",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "canceled",
+            "thread_ids": [
+              3539730
+            ],
+            "total_amount": 4271,
+            "total_host_fees": 62.23,
+            "total_owed": 4271,
+            "total_paid": 2135.5,
+            "total_refunded": 2135.5,
+            "type": "booking",
+            "updated_utc": "2024-07-02T02:03:07Z"
+          }
+        ],
+        "totalGrossRevenue": 7359.8953103929325,
+        "totalBaseRental": 6255.911013833993,
+        "totalCleaningFees": 919.9869137991166,
+        "totalPlatformFees": 220.79685931178795,
+        "totalNights": 72.33333333333334,
+        "bookingCount": 5,
+        "multiMonthBookings": [
+          {
+            "adults": 2,
+            "arrival": "2024-12-31",
+            "booked_utc": "2024-07-13T18:11:38Z",
+            "cancellation_policy_id": 19163,
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-02-15",
+            "created_utc": "2024-07-13T18:11:38Z",
+            "currency_code": "USD",
+            "departure": "2025-02-15",
+            "form_key": "81f51ff2b7374bc19dadea48787104d5",
+            "guest": {
+              "first_name": "Brittany",
+              "id": 613964592,
+              "last_name": "Uitermarkt"
+            },
+            "guest_id": 613964592,
+            "id": 11236038,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "dunedinduo.com",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nThanks for accommodating us! We will have our 15 pound dog, Chino, with us. Troy comped the pet fee for us to fit in our budget.",
+            "pets": 0,
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "quote_id": 4754968,
+            "status": "active",
+            "total_amount": 4824.1,
+            "total_host_fees": 140.5,
+            "total_paid": 4824.1,
+            "type": "booking",
+            "updated_utc": "2025-02-20T10:09:42Z",
+            "allocatedAmount": 1468.204347826087,
+            "totalNights": 46,
+            "monthsSpanned": 3
+          },
+          {
+            "adults": 4,
+            "arrival": "2025-02-18",
+            "booked_utc": "2024-06-27T20:32:56Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-03-20",
+            "created_utc": "2024-06-27T20:32:56Z",
+            "currency_code": "USD",
+            "departure": "2025-03-20",
+            "form_key": "6d34848bc85b47f6b94255cf0223108f",
+            "guest": {
+              "first_name": "Richard",
+              "id": 613803323,
+              "last_name": "Keller"
+            },
+            "guest_id": 613803323,
+            "id": 11107712,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMTHPJJKNQ",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "quote_id": 4718454,
+            "status": "active",
+            "thread_ids": [
+              5437199
+            ],
+            "total_amount": 3967,
+            "total_host_fees": 119.01,
+            "total_paid": 3967,
+            "type": "booking",
+            "updated_utc": "2025-03-25T05:28:16Z",
+            "allocatedAmount": 1586.8000000000002,
+            "totalNights": 30,
+            "monthsSpanned": 2
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-02-23",
+            "booked_utc": "2024-04-04T15:28:35Z",
+            "canceled_utc": "2024-05-13T13:19:43Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-04-30",
+            "created_utc": "2024-04-04T15:28:35Z",
+            "currency_code": "USD",
+            "departure": "2025-04-30",
+            "form_key": "38ef9a98fa95476a8535fd34add4f3a9",
+            "guest": {
+              "first_name": "Linda",
+              "id": 612898814,
+              "last_name": "Couture"
+            },
+            "guest_id": 612898814,
+            "id": 10397460,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMPA45QJWE",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "canceled",
+            "thread_ids": [
+              4052105
+            ],
+            "total_amount": 8011.86,
+            "total_host_fees": 132.12,
+            "total_owed": 3607.95,
+            "total_paid": 4790.7,
+            "total_refunded": 386.79,
+            "type": "booking",
+            "updated_utc": "2024-06-24T18:55:19Z",
+            "allocatedAmount": 849.7427272727273,
+            "totalNights": 66,
+            "monthsSpanned": 3
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-01-20",
+            "booked_utc": "2024-03-23T00:39:10Z",
+            "canceled_utc": "2024-05-13T13:19:43Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-02-23",
+            "created_utc": "2024-03-23T00:39:11Z",
+            "currency_code": "USD",
+            "departure": "2025-02-23",
+            "form_key": "da84a7be327546bbaafd2cd88b00a6fe",
+            "guest": {
+              "first_name": "Sheila",
+              "id": 612790200,
+              "last_name": "Grinter"
+            },
+            "guest_id": 612790200,
+            "id": 10297644,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "pets": 0,
+            "platform_reservation_number": "ORB10297644",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "canceled",
+            "thread_ids": [
+              3539730
+            ],
+            "total_amount": 4271,
+            "total_host_fees": 62.23,
+            "total_owed": 4271,
+            "total_paid": 2135.5,
+            "total_refunded": 2135.5,
+            "type": "booking",
+            "updated_utc": "2024-07-02T02:03:07Z",
+            "allocatedAmount": 2763.5882352941176,
+            "totalNights": 34,
+            "monthsSpanned": 2
+          }
+        ],
+        "singleMonthBookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-02-15",
+            "booked_utc": "2024-12-04T00:08:49Z",
+            "cancellation_policy_id": 19163,
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-02-18",
+            "created_utc": "2024-12-04T00:08:50Z",
+            "currency_code": "USD",
+            "departure": "2025-02-18",
+            "form_key": "118733a3b9ad42babdb4dc90abf8dddd",
+            "guest": {
+              "first_name": "Jeremiah",
+              "id": 615316560,
+              "last_name": "Keene"
+            },
+            "guest_id": 615316560,
+            "id": 12332911,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nHi Troy.  I will be traveling with my wife.  This will be a surprise trip for her for the Shriners children’s invitational softball tournament",
+            "pets": 0,
+            "platform_reservation_number": "ORB12332911",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              6859162
+            ],
+            "total_amount": 691.56,
+            "total_host_fees": 20.66,
+            "total_owed": 137.33,
+            "total_paid": 691.56,
+            "total_refunded": 137.33,
+            "type": "booking",
+            "updated_utc": "2025-02-23T09:23:28Z",
+            "allocatedAmount": 691.56
+          }
+        ],
+        "netRentalIncome": 6219.111537282029,
+        "averageBookingValue": 1471.9790620785866,
+        "averageNightlyRate": 101.74970475197601,
+        "utilizationRate": 100
+      },
+      "expenseDetails": {
+        "totalExpenses": 1758.58,
+        "categoryBreakdown": {
+          "Loan Payment": 1212.32,
+          "Uncategorized": 33,
+          "Bills & Utilities": 513.26
+        },
+        "transactions": [
+          {
+            "date": "2025-02-03",
+            "amount": 1212.32,
+            "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+            "category": "Loan Payment"
+          },
+          {
+            "date": "2025-02-04",
+            "amount": 33,
+            "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-02-04",
+            "amount": 187,
+            "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-02-10",
+            "amount": 85.77,
+            "description": "CLEARWATER CITY DES:UTILITY ID:9218918 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-02-20",
+            "amount": 74.99,
+            "description": "SPECTRUM DES:SPECTRUM ID:3797831 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-02-24",
+            "amount": 165.5,
+            "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+            "category": "Bills & Utilities"
+          }
+        ]
+      }
+    },
+    "March 2025": {
+      "income": 6509.993654329005,
+      "expenses": 8296.33,
+      "profit": -1786.336345670995,
+      "incomeDetails": {
+        "bookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-03-21",
+            "booked_utc": "2025-02-22T18:50:31Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-06-06",
+            "created_utc": "2025-02-22T18:50:32Z",
+            "currency_code": "USD",
+            "departure": "2025-06-06",
+            "form_key": "42b93954b0f945cfb3bc5d2c17f7d166",
+            "guest": {
+              "first_name": "Farah",
+              "id": 616078899,
+              "last_name": "Tanis"
+            },
+            "guest_id": 616078899,
+            "id": 13025030,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nGood afternoon. I'm looking forward to visiting the area. Myself and a colleague will be in the area for a two and half month internship and this space seems like the perfect place. We are particularly glad there is a pool on or nearby for off hours.  We look forward to a response.\nVery Best.\nFarah",
+            "pets": 0,
+            "platform_reservation_number": "ORB13025030",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              7377923
+            ],
+            "total_amount": 9166.56,
+            "total_host_fees": 266.13,
+            "total_paid": 9166.56,
+            "type": "booking",
+            "updated_utc": "2025-03-19T07:09:38Z"
+          },
+          {
+            "adults": 4,
+            "arrival": "2025-02-18",
+            "booked_utc": "2024-06-27T20:32:56Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-03-20",
+            "created_utc": "2024-06-27T20:32:56Z",
+            "currency_code": "USD",
+            "departure": "2025-03-20",
+            "form_key": "6d34848bc85b47f6b94255cf0223108f",
+            "guest": {
+              "first_name": "Richard",
+              "id": 613803323,
+              "last_name": "Keller"
+            },
+            "guest_id": 613803323,
+            "id": 11107712,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMTHPJJKNQ",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "quote_id": 4718454,
+            "status": "active",
+            "thread_ids": [
+              5437199
+            ],
+            "total_amount": 3967,
+            "total_host_fees": 119.01,
+            "total_paid": 3967,
+            "type": "booking",
+            "updated_utc": "2025-03-25T05:28:16Z"
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-02-23",
+            "booked_utc": "2024-04-04T15:28:35Z",
+            "canceled_utc": "2024-05-13T13:19:43Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-04-30",
+            "created_utc": "2024-04-04T15:28:35Z",
+            "currency_code": "USD",
+            "departure": "2025-04-30",
+            "form_key": "38ef9a98fa95476a8535fd34add4f3a9",
+            "guest": {
+              "first_name": "Linda",
+              "id": 612898814,
+              "last_name": "Couture"
+            },
+            "guest_id": 612898814,
+            "id": 10397460,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMPA45QJWE",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "canceled",
+            "thread_ids": [
+              4052105
+            ],
+            "total_amount": 8011.86,
+            "total_host_fees": 132.12,
+            "total_owed": 3607.95,
+            "total_paid": 4790.7,
+            "total_refunded": 386.79,
+            "type": "booking",
+            "updated_utc": "2024-06-24T18:55:19Z"
+          }
+        ],
+        "totalGrossRevenue": 7704.134502164503,
+        "totalBaseRental": 6548.514326839827,
+        "totalCleaningFees": 963.0168127705629,
+        "totalPlatformFees": 231.12403506493507,
+        "totalNights": 56.25,
+        "bookingCount": 3,
+        "multiMonthBookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-03-21",
+            "booked_utc": "2025-02-22T18:50:31Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-06-06",
+            "created_utc": "2025-02-22T18:50:32Z",
+            "currency_code": "USD",
+            "departure": "2025-06-06",
+            "form_key": "42b93954b0f945cfb3bc5d2c17f7d166",
+            "guest": {
+              "first_name": "Farah",
+              "id": 616078899,
+              "last_name": "Tanis"
+            },
+            "guest_id": 616078899,
+            "id": 13025030,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nGood afternoon. I'm looking forward to visiting the area. Myself and a colleague will be in the area for a two and half month internship and this space seems like the perfect place. We are particularly glad there is a pool on or nearby for off hours.  We look forward to a response.\nVery Best.\nFarah",
+            "pets": 0,
+            "platform_reservation_number": "ORB13025030",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              7377923
+            ],
+            "total_amount": 9166.56,
+            "total_host_fees": 266.13,
+            "total_paid": 9166.56,
+            "type": "booking",
+            "updated_utc": "2025-03-19T07:09:38Z",
+            "allocatedAmount": 1428.554805194805,
+            "totalNights": 77,
+            "monthsSpanned": 4
+          },
+          {
+            "adults": 4,
+            "arrival": "2025-02-18",
+            "booked_utc": "2024-06-27T20:32:56Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-03-20",
+            "created_utc": "2024-06-27T20:32:56Z",
+            "currency_code": "USD",
+            "departure": "2025-03-20",
+            "form_key": "6d34848bc85b47f6b94255cf0223108f",
+            "guest": {
+              "first_name": "Richard",
+              "id": 613803323,
+              "last_name": "Keller"
+            },
+            "guest_id": 613803323,
+            "id": 11107712,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMTHPJJKNQ",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "quote_id": 4718454,
+            "status": "active",
+            "thread_ids": [
+              5437199
+            ],
+            "total_amount": 3967,
+            "total_host_fees": 119.01,
+            "total_paid": 3967,
+            "type": "booking",
+            "updated_utc": "2025-03-25T05:28:16Z",
+            "allocatedAmount": 2512.4333333333334,
+            "totalNights": 30,
+            "monthsSpanned": 2
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-02-23",
+            "booked_utc": "2024-04-04T15:28:35Z",
+            "canceled_utc": "2024-05-13T13:19:43Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-04-30",
+            "created_utc": "2024-04-04T15:28:35Z",
+            "currency_code": "USD",
+            "departure": "2025-04-30",
+            "form_key": "38ef9a98fa95476a8535fd34add4f3a9",
+            "guest": {
+              "first_name": "Linda",
+              "id": 612898814,
+              "last_name": "Couture"
+            },
+            "guest_id": 612898814,
+            "id": 10397460,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMPA45QJWE",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "canceled",
+            "thread_ids": [
+              4052105
+            ],
+            "total_amount": 8011.86,
+            "total_host_fees": 132.12,
+            "total_owed": 3607.95,
+            "total_paid": 4790.7,
+            "total_refunded": 386.79,
+            "type": "booking",
+            "updated_utc": "2024-06-24T18:55:19Z",
+            "allocatedAmount": 3763.1463636363637,
+            "totalNights": 66,
+            "monthsSpanned": 3
+          }
+        ],
+        "singleMonthBookings": [],
+        "netRentalIncome": 6509.993654329005,
+        "averageBookingValue": 2568.044834054834,
+        "averageNightlyRate": 136.96239114959116,
+        "utilizationRate": 100
+      },
+      "expenseDetails": {
+        "totalExpenses": 8296.33,
+        "categoryBreakdown": {
+          "Fees": 16,
+          "Loan Payment": 2424.64,
+          "Uncategorized": 363,
+          "Bills & Utilities": 462.69,
+          "Savings Transfer": 30,
+          "Internal Transfers": 5000
+        },
+        "transactions": [
+          {
+            "date": "2025-03-03",
+            "amount": 16,
+            "description": "Monthly Fee Business Adv Fundamentals",
+            "category": "Fees"
+          },
+          {
+            "date": "2025-03-03",
+            "amount": 1212.32,
+            "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+            "category": "Loan Payment"
+          },
+          {
+            "date": "2025-03-03",
+            "amount": 180,
+            "description": "Zelle payment to Ada Busnea Conf# cidctm3dc",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-03-04",
+            "amount": 33,
+            "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-03-04",
+            "amount": 187,
+            "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-03-04",
+            "amount": 30,
+            "description": "Online Banking transfer to SAV 3202 Confirmation# XXXXX55370",
+            "category": "Savings Transfer"
+          },
+          {
+            "date": "2025-03-13",
+            "amount": 85.77,
+            "description": "CLEARWATER CITY DES:UTILITY ID:1833132 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-03-20",
+            "amount": 74.99,
+            "description": "SPECTRUM DES:SPECTRUM ID:4458496 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-03-24",
+            "amount": 114.93,
+            "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-03-27",
+            "amount": 150,
+            "description": "Zelle payment to Ada Busnea Conf# aol1c60h0",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-04-01",
+            "amount": 1212.32,
+            "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+            "category": "Loan Payment"
+          },
+          {
+            "date": "2025-04-01",
+            "amount": 5000,
+            "description": "Online Banking transfer to CHK 2437 Confirmation# XXXXX98411",
+            "category": "Internal Transfers"
+          }
+        ]
+      }
+    },
+    "April 2025": {
+      "income": 5992.528530519481,
+      "expenses": 1703.6399999999999,
+      "profit": 4288.888530519482,
+      "incomeDetails": {
+        "bookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-03-21",
+            "booked_utc": "2025-02-22T18:50:31Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-06-06",
+            "created_utc": "2025-02-22T18:50:32Z",
+            "currency_code": "USD",
+            "departure": "2025-06-06",
+            "form_key": "42b93954b0f945cfb3bc5d2c17f7d166",
+            "guest": {
+              "first_name": "Farah",
+              "id": 616078899,
+              "last_name": "Tanis"
+            },
+            "guest_id": 616078899,
+            "id": 13025030,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nGood afternoon. I'm looking forward to visiting the area. Myself and a colleague will be in the area for a two and half month internship and this space seems like the perfect place. We are particularly glad there is a pool on or nearby for off hours.  We look forward to a response.\nVery Best.\nFarah",
+            "pets": 0,
+            "platform_reservation_number": "ORB13025030",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              7377923
+            ],
+            "total_amount": 9166.56,
+            "total_host_fees": 266.13,
+            "total_paid": 9166.56,
+            "type": "booking",
+            "updated_utc": "2025-03-19T07:09:38Z"
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-02-23",
+            "booked_utc": "2024-04-04T15:28:35Z",
+            "canceled_utc": "2024-05-13T13:19:43Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-04-30",
+            "created_utc": "2024-04-04T15:28:35Z",
+            "currency_code": "USD",
+            "departure": "2025-04-30",
+            "form_key": "38ef9a98fa95476a8535fd34add4f3a9",
+            "guest": {
+              "first_name": "Linda",
+              "id": 612898814,
+              "last_name": "Couture"
+            },
+            "guest_id": 612898814,
+            "id": 10397460,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMPA45QJWE",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "canceled",
+            "thread_ids": [
+              4052105
+            ],
+            "total_amount": 8011.86,
+            "total_host_fees": 132.12,
+            "total_owed": 3607.95,
+            "total_paid": 4790.7,
+            "total_refunded": 386.79,
+            "type": "booking",
+            "updated_utc": "2024-06-24T18:55:19Z"
+          }
+        ],
+        "totalGrossRevenue": 7091.74974025974,
+        "totalBaseRental": 6027.987279220779,
+        "totalCleaningFees": 886.4687175324675,
+        "totalPlatformFees": 212.7524922077922,
+        "totalNights": 41.25,
+        "bookingCount": 2,
+        "multiMonthBookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-03-21",
+            "booked_utc": "2025-02-22T18:50:31Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-06-06",
+            "created_utc": "2025-02-22T18:50:32Z",
+            "currency_code": "USD",
+            "departure": "2025-06-06",
+            "form_key": "42b93954b0f945cfb3bc5d2c17f7d166",
+            "guest": {
+              "first_name": "Farah",
+              "id": 616078899,
+              "last_name": "Tanis"
+            },
+            "guest_id": 616078899,
+            "id": 13025030,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nGood afternoon. I'm looking forward to visiting the area. Myself and a colleague will be in the area for a two and half month internship and this space seems like the perfect place. We are particularly glad there is a pool on or nearby for off hours.  We look forward to a response.\nVery Best.\nFarah",
+            "pets": 0,
+            "platform_reservation_number": "ORB13025030",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              7377923
+            ],
+            "total_amount": 9166.56,
+            "total_host_fees": 266.13,
+            "total_paid": 9166.56,
+            "type": "booking",
+            "updated_utc": "2025-03-19T07:09:38Z",
+            "allocatedAmount": 3571.387012987013,
+            "totalNights": 77,
+            "monthsSpanned": 4
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-02-23",
+            "booked_utc": "2024-04-04T15:28:35Z",
+            "canceled_utc": "2024-05-13T13:19:43Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-04-30",
+            "created_utc": "2024-04-04T15:28:35Z",
+            "currency_code": "USD",
+            "departure": "2025-04-30",
+            "form_key": "38ef9a98fa95476a8535fd34add4f3a9",
+            "guest": {
+              "first_name": "Linda",
+              "id": 612898814,
+              "last_name": "Couture"
+            },
+            "guest_id": 612898814,
+            "id": 10397460,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMPA45QJWE",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "canceled",
+            "thread_ids": [
+              4052105
+            ],
+            "total_amount": 8011.86,
+            "total_host_fees": 132.12,
+            "total_owed": 3607.95,
+            "total_paid": 4790.7,
+            "total_refunded": 386.79,
+            "type": "booking",
+            "updated_utc": "2024-06-24T18:55:19Z",
+            "allocatedAmount": 3520.362727272727,
+            "totalNights": 66,
+            "monthsSpanned": 3
+          }
+        ],
+        "singleMonthBookings": [],
+        "netRentalIncome": 5992.528530519481,
+        "averageBookingValue": 3545.87487012987,
+        "averageNightlyRate": 171.92120582447853,
+        "utilizationRate": 100
+      },
+      "expenseDetails": {
+        "totalExpenses": 1703.6399999999999,
+        "categoryBreakdown": {
+          "Uncategorized": 35,
+          "Bills & Utilities": 456.32,
+          "Loan Payment": 1212.32
+        },
+        "transactions": [
+          {
+            "date": "2025-04-02",
+            "amount": 35,
+            "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-04-04",
+            "amount": 187,
+            "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-04-11",
+            "amount": 85.77,
+            "description": "CLEARWATER CITY DES:UTILITY ID:2199692 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-04-21",
+            "amount": 74.99,
+            "description": "SPECTRUM DES:SPECTRUM ID:5606465 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-04-23",
+            "amount": 108.56,
+            "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-05-01",
+            "amount": 1212.32,
+            "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+            "category": "Loan Payment"
+          }
+        ]
+      }
+    },
+    "May 2025": {
+      "income": 3118.4160935064933,
+      "expenses": 1697.2800000000002,
+      "profit": 1421.1360935064931,
+      "incomeDetails": {
+        "bookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-03-21",
+            "booked_utc": "2025-02-22T18:50:31Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-06-06",
+            "created_utc": "2025-02-22T18:50:32Z",
+            "currency_code": "USD",
+            "departure": "2025-06-06",
+            "form_key": "42b93954b0f945cfb3bc5d2c17f7d166",
+            "guest": {
+              "first_name": "Farah",
+              "id": 616078899,
+              "last_name": "Tanis"
+            },
+            "guest_id": 616078899,
+            "id": 13025030,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nGood afternoon. I'm looking forward to visiting the area. Myself and a colleague will be in the area for a two and half month internship and this space seems like the perfect place. We are particularly glad there is a pool on or nearby for off hours.  We look forward to a response.\nVery Best.\nFarah",
+            "pets": 0,
+            "platform_reservation_number": "ORB13025030",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              7377923
+            ],
+            "total_amount": 9166.56,
+            "total_host_fees": 266.13,
+            "total_paid": 9166.56,
+            "type": "booking",
+            "updated_utc": "2025-03-19T07:09:38Z"
+          }
+        ],
+        "totalGrossRevenue": 3690.4332467532467,
+        "totalBaseRental": 3136.86825974026,
+        "totalCleaningFees": 461.30415584415584,
+        "totalPlatformFees": 110.7129974025974,
+        "totalNights": 19.25,
+        "bookingCount": 1,
+        "multiMonthBookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-03-21",
+            "booked_utc": "2025-02-22T18:50:31Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-06-06",
+            "created_utc": "2025-02-22T18:50:32Z",
+            "currency_code": "USD",
+            "departure": "2025-06-06",
+            "form_key": "42b93954b0f945cfb3bc5d2c17f7d166",
+            "guest": {
+              "first_name": "Farah",
+              "id": 616078899,
+              "last_name": "Tanis"
+            },
+            "guest_id": 616078899,
+            "id": 13025030,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nGood afternoon. I'm looking forward to visiting the area. Myself and a colleague will be in the area for a two and half month internship and this space seems like the perfect place. We are particularly glad there is a pool on or nearby for off hours.  We look forward to a response.\nVery Best.\nFarah",
+            "pets": 0,
+            "platform_reservation_number": "ORB13025030",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              7377923
+            ],
+            "total_amount": 9166.56,
+            "total_host_fees": 266.13,
+            "total_paid": 9166.56,
+            "type": "booking",
+            "updated_utc": "2025-03-19T07:09:38Z",
+            "allocatedAmount": 3690.4332467532467,
+            "totalNights": 77,
+            "monthsSpanned": 4
+          }
+        ],
+        "singleMonthBookings": [],
+        "netRentalIncome": 3118.4160935064933,
+        "averageBookingValue": 3690.4332467532467,
+        "averageNightlyRate": 191.7108180131557,
+        "utilizationRate": 62.096774193548384
+      },
+      "expenseDetails": {
+        "totalExpenses": 1697.2800000000002,
+        "categoryBreakdown": {
+          "Uncategorized": 1199.0700000000002,
+          "Bills & Utilities": 498.21
+        },
+        "transactions": [
+          {
+            "date": "2025-05-02",
+            "amount": 35,
+            "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-05-06",
+            "amount": 187,
+            "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-05-12",
+            "amount": 85.77,
+            "description": "CLEARWATER CITY DES:UTILITY ID:2997716 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-05-12",
+            "amount": 839.07,
+            "description": "VENMO DES:CASHOUT ID:XXXXX42875359 INDN:TROY NOWAK CO ID:XXXXX81992 PPD",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-05-19",
+            "amount": 5,
+            "description": "VENMO DES:PAYMENT ID:XXXXX73766852 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-05-19",
+            "amount": 20,
+            "description": "VENMO DES:PAYMENT ID:XXXXX66388660 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-05-20",
+            "amount": 74.99,
+            "description": "SPECTRUM DES:SPECTRUM ID:6695164 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-05-21",
+            "amount": 250,
+            "description": "VENMO DES:PAYMENT ID:XXXXX24191843 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-05-22",
+            "amount": 150.45,
+            "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-05-29",
+            "amount": 50,
+            "description": "VENMO DES:PAYMENT ID:XXXXX83287378 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          }
+        ]
+      }
+    },
+    "June 2025": {
+      "income": 3358.7993743290044,
+      "expenses": 3306.5599999999995,
+      "profit": 52.23937432900493,
+      "incomeDetails": {
+        "bookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-06-06",
+            "booked_utc": "2025-03-21T22:58:42Z",
+            "cancellation_policy_id": 19163,
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-07-06",
+            "created_utc": "2025-03-21T22:58:43Z",
+            "currency_code": "USD",
+            "departure": "2025-07-06",
+            "form_key": "ba48b55a7fde4110bc30283bb40ea9bd",
+            "guest": {
+              "first_name": "Farah",
+              "id": 616078899,
+              "last_name": "Tanis"
+            },
+            "guest_id": 616078899,
+            "id": 13305171,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "dunedinduo.com",
+            "pets": 0,
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "quote_id": 5291675,
+            "status": "active",
+            "total_amount": 3899.63,
+            "total_host_fees": 113.68,
+            "total_paid": 3899.63,
+            "type": "booking",
+            "updated_utc": "2025-07-11T04:30:54Z"
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-03-21",
+            "booked_utc": "2025-02-22T18:50:31Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-06-06",
+            "created_utc": "2025-02-22T18:50:32Z",
+            "currency_code": "USD",
+            "departure": "2025-06-06",
+            "form_key": "42b93954b0f945cfb3bc5d2c17f7d166",
+            "guest": {
+              "first_name": "Farah",
+              "id": 616078899,
+              "last_name": "Tanis"
+            },
+            "guest_id": 616078899,
+            "id": 13025030,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nGood afternoon. I'm looking forward to visiting the area. Myself and a colleague will be in the area for a two and half month internship and this space seems like the perfect place. We are particularly glad there is a pool on or nearby for off hours.  We look forward to a response.\nVery Best.\nFarah",
+            "pets": 0,
+            "platform_reservation_number": "ORB13025030",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              7377923
+            ],
+            "total_amount": 9166.56,
+            "total_host_fees": 266.13,
+            "total_paid": 9166.56,
+            "type": "booking",
+            "updated_utc": "2025-03-19T07:09:38Z"
+          }
+        ],
+        "totalGrossRevenue": 3974.9105021645023,
+        "totalBaseRental": 3378.673926839827,
+        "totalCleaningFees": 496.8638127705628,
+        "totalPlatformFees": 119.24731506493507,
+        "totalNights": 34.25,
+        "bookingCount": 2,
+        "multiMonthBookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-06-06",
+            "booked_utc": "2025-03-21T22:58:42Z",
+            "cancellation_policy_id": 19163,
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-07-06",
+            "created_utc": "2025-03-21T22:58:43Z",
+            "currency_code": "USD",
+            "departure": "2025-07-06",
+            "form_key": "ba48b55a7fde4110bc30283bb40ea9bd",
+            "guest": {
+              "first_name": "Farah",
+              "id": 616078899,
+              "last_name": "Tanis"
+            },
+            "guest_id": 616078899,
+            "id": 13305171,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "dunedinduo.com",
+            "pets": 0,
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "quote_id": 5291675,
+            "status": "active",
+            "total_amount": 3899.63,
+            "total_host_fees": 113.68,
+            "total_paid": 3899.63,
+            "type": "booking",
+            "updated_utc": "2025-07-11T04:30:54Z",
+            "allocatedAmount": 3379.6793333333335,
+            "totalNights": 30,
+            "monthsSpanned": 2
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-03-21",
+            "booked_utc": "2025-02-22T18:50:31Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-06-06",
+            "created_utc": "2025-02-22T18:50:32Z",
+            "currency_code": "USD",
+            "departure": "2025-06-06",
+            "form_key": "42b93954b0f945cfb3bc5d2c17f7d166",
+            "guest": {
+              "first_name": "Farah",
+              "id": 616078899,
+              "last_name": "Tanis"
+            },
+            "guest_id": 616078899,
+            "id": 13025030,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Vrbo",
+            "notes": "At the time of booking, the guest commented:\r\n\r\nGood afternoon. I'm looking forward to visiting the area. Myself and a colleague will be in the area for a two and half month internship and this space seems like the perfect place. We are particularly glad there is a pool on or nearby for off hours.  We look forward to a response.\nVery Best.\nFarah",
+            "pets": 0,
+            "platform_reservation_number": "ORB13025030",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              7377923
+            ],
+            "total_amount": 9166.56,
+            "total_host_fees": 266.13,
+            "total_paid": 9166.56,
+            "type": "booking",
+            "updated_utc": "2025-03-19T07:09:38Z",
+            "allocatedAmount": 595.2311688311687,
+            "totalNights": 77,
+            "monthsSpanned": 4
+          }
+        ],
+        "singleMonthBookings": [],
+        "netRentalIncome": 3358.7993743290044,
+        "averageBookingValue": 1987.4552510822512,
+        "averageNightlyRate": 116.05578108509496,
+        "utilizationRate": 100
+      },
+      "expenseDetails": {
+        "totalExpenses": 3306.5599999999995,
+        "categoryBreakdown": {
+          "Uncategorized": 370,
+          "Loan Payment": 2424.64,
+          "Bills & Utilities": 511.91999999999996
+        },
+        "transactions": [
+          {
+            "date": "2025-06-02",
+            "amount": 80,
+            "description": "VENMO DES:PAYMENT ID:XXXXX49086696 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-06-02",
+            "amount": 1212.32,
+            "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+            "category": "Loan Payment"
+          },
+          {
+            "date": "2025-06-03",
+            "amount": 35,
+            "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-06-04",
+            "amount": 187,
+            "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-06-09",
+            "amount": 85.77,
+            "description": "CLEARWATER CITY DES:UTILITY ID:3802995 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-06-20",
+            "amount": 74.99,
+            "description": "SPECTRUM DES:SPECTRUM ID:8215753 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-06-23",
+            "amount": 164.16,
+            "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-06-30",
+            "amount": 20,
+            "description": "VENMO DES:PAYMENT ID:XXXXX72292143 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-06-30",
+            "amount": 235,
+            "description": "VENMO DES:CASHOUT ID:XXXXX72286070 INDN:TROY NOWAK CO ID:XXXXX81992 PPD",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-07-01",
+            "amount": 1212.32,
+            "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+            "category": "Loan Payment"
+          }
+        ]
+      }
+    },
+    "July 2025": {
+      "income": 2145.3090027777776,
+      "expenses": 3564.09,
+      "profit": -1418.7809972222226,
+      "incomeDetails": {
+        "bookings": [
+          {
+            "adults": 3,
+            "arrival": "2025-07-13",
+            "booked_utc": "2025-07-12T01:08:04Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "created_utc": "2025-07-12T01:08:03Z",
+            "currency_code": "USD",
+            "departure": "2025-08-27",
+            "form_key": "03ec51b6bfb5476a859fa012726ce82e",
+            "guest": {
+              "first_name": "Eduardo",
+              "id": 617593831,
+              "last_name": "Lucchese"
+            },
+            "guest_id": 617593831,
+            "id": 14382009,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMZX2F4SAJ",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              8466443
+            ],
+            "total_amount": 4250,
+            "total_host_fees": 127.5,
+            "total_paid": 4250,
+            "type": "booking",
+            "updated_utc": "2025-08-15T16:04:26Z"
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-06-06",
+            "booked_utc": "2025-03-21T22:58:42Z",
+            "cancellation_policy_id": 19163,
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-07-06",
+            "created_utc": "2025-03-21T22:58:43Z",
+            "currency_code": "USD",
+            "departure": "2025-07-06",
+            "form_key": "ba48b55a7fde4110bc30283bb40ea9bd",
+            "guest": {
+              "first_name": "Farah",
+              "id": 616078899,
+              "last_name": "Tanis"
+            },
+            "guest_id": 616078899,
+            "id": 13305171,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "dunedinduo.com",
+            "pets": 0,
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "quote_id": 5291675,
+            "status": "active",
+            "total_amount": 3899.63,
+            "total_host_fees": 113.68,
+            "total_paid": 3899.63,
+            "type": "booking",
+            "updated_utc": "2025-07-11T04:30:54Z"
+          }
+        ],
+        "totalGrossRevenue": 2538.827222222222,
+        "totalBaseRental": 2158.0031388888888,
+        "totalCleaningFees": 317.3534027777778,
+        "totalPlatformFees": 76.16481666666667,
+        "totalNights": 37.5,
+        "bookingCount": 2,
+        "multiMonthBookings": [
+          {
+            "adults": 3,
+            "arrival": "2025-07-13",
+            "booked_utc": "2025-07-12T01:08:04Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "created_utc": "2025-07-12T01:08:03Z",
+            "currency_code": "USD",
+            "departure": "2025-08-27",
+            "form_key": "03ec51b6bfb5476a859fa012726ce82e",
+            "guest": {
+              "first_name": "Eduardo",
+              "id": 617593831,
+              "last_name": "Lucchese"
+            },
+            "guest_id": 617593831,
+            "id": 14382009,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMZX2F4SAJ",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              8466443
+            ],
+            "total_amount": 4250,
+            "total_host_fees": 127.5,
+            "total_paid": 4250,
+            "type": "booking",
+            "updated_utc": "2025-08-15T16:04:26Z",
+            "allocatedAmount": 1888.8888888888887,
+            "totalNights": 45,
+            "monthsSpanned": 2
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-06-06",
+            "booked_utc": "2025-03-21T22:58:42Z",
+            "cancellation_policy_id": 19163,
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "cleaning_date": "2025-07-06",
+            "created_utc": "2025-03-21T22:58:43Z",
+            "currency_code": "USD",
+            "departure": "2025-07-06",
+            "form_key": "ba48b55a7fde4110bc30283bb40ea9bd",
+            "guest": {
+              "first_name": "Farah",
+              "id": 616078899,
+              "last_name": "Tanis"
+            },
+            "guest_id": 616078899,
+            "id": 13305171,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "dunedinduo.com",
+            "pets": 0,
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "quote_id": 5291675,
+            "status": "active",
+            "total_amount": 3899.63,
+            "total_host_fees": 113.68,
+            "total_paid": 3899.63,
+            "type": "booking",
+            "updated_utc": "2025-07-11T04:30:54Z",
+            "allocatedAmount": 649.9383333333333,
+            "totalNights": 30,
+            "monthsSpanned": 2
+          }
+        ],
+        "singleMonthBookings": [],
+        "netRentalIncome": 2145.3090027777776,
+        "averageBookingValue": 1269.413611111111,
+        "averageNightlyRate": 67.70205925925926,
+        "utilizationRate": 100
+      },
+      "expenseDetails": {
+        "totalExpenses": 3564.09,
+        "categoryBreakdown": {
+          "Uncategorized": 1656,
+          "Bills & Utilities": 495.77,
+          "Software & Tech": 200,
+          "Loan Payment": 1212.32
+        },
+        "transactions": [
+          {
+            "date": "2025-07-02",
+            "amount": 35,
+            "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-07-07",
+            "amount": 187,
+            "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-07-07",
+            "amount": 400,
+            "description": "VENMO DES:PAYMENT ID:XXXXX29440886 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-07-10",
+            "amount": 20,
+            "description": "VENMO DES:PAYMENT ID:XXXXX17084239 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-07-10",
+            "amount": 85.77,
+            "description": "CLEARWATER CITY DES:UTILITY ID:5850248 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-07-10",
+            "amount": 371,
+            "description": "VENMO DES:CASHOUT ID:XXXXX17082577 INDN:TROY NOWAK CO ID:XXXXX81992 PPD",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-07-14",
+            "amount": 150,
+            "description": "\"Zelle payment to Ada Busnea for 'Clearwater clsan'; Conf# iadfs4yrl\"",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-07-15",
+            "amount": 200,
+            "description": "VENMO DES:PAYMENT ID:XXXXX03790049 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-07-21",
+            "amount": 74.99,
+            "description": "SPECTRUM DES:SPECTRUM ID:9925045 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-07-21",
+            "amount": 100,
+            "description": "VENMO DES:PAYMENT ID:XXXXX11474089 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-07-21",
+            "amount": 148.01,
+            "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-07-24",
+            "amount": 200,
+            "description": "OPENAI DES:OPENAI *CH ID:ST-O8Z6Y2P0O3Z0 INDN:LINK CO ID:XXXXX48598 WEB",
+            "category": "Software & Tech"
+          },
+          {
+            "date": "2025-07-31",
+            "amount": 80,
+            "description": "VENMO DES:PAYMENT ID:XXXXX42994303 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-08-01",
+            "amount": 300,
+            "description": "VENMO DES:PAYMENT ID:XXXXX62710780 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-08-01",
+            "amount": 1212.32,
+            "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+            "category": "Loan Payment"
+          }
+        ]
+      }
+    },
+    "August 2025": {
+      "income": 2244.7612777777777,
+      "expenses": 5603.97,
+      "profit": -3359.2087222222226,
+      "incomeDetails": {
+        "bookings": [
+          {
+            "adults": 3,
+            "arrival": "2025-07-13",
+            "booked_utc": "2025-07-12T01:08:04Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "created_utc": "2025-07-12T01:08:03Z",
+            "currency_code": "USD",
+            "departure": "2025-08-27",
+            "form_key": "03ec51b6bfb5476a859fa012726ce82e",
+            "guest": {
+              "first_name": "Eduardo",
+              "id": 617593831,
+              "last_name": "Lucchese"
+            },
+            "guest_id": 617593831,
+            "id": 14382009,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMZX2F4SAJ",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              8466443
+            ],
+            "total_amount": 4250,
+            "total_host_fees": 127.5,
+            "total_paid": 4250,
+            "type": "booking",
+            "updated_utc": "2025-08-15T16:04:26Z"
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-09-01",
+            "booked_utc": "2025-07-09T21:28:55Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "created_utc": "2025-07-09T21:28:54Z",
+            "currency_code": "USD",
+            "departure": "2025-10-31",
+            "form_key": "01f72e6347a84c6597995daacb74e3d5",
+            "guest": {
+              "first_name": "Elizabeth",
+              "id": 617568220,
+              "last_name": "Ruiz"
+            },
+            "guest_id": 617568220,
+            "id": 14358778,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMT3SEKC8F",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              8447496
+            ],
+            "total_amount": 6029,
+            "total_host_fees": 180.87,
+            "total_paid": 6029,
+            "type": "booking",
+            "updated_utc": "2025-07-09T21:38:57Z"
+          }
+        ],
+        "totalGrossRevenue": 2656.522222222222,
+        "totalBaseRental": 2258.0438888888884,
+        "totalCleaningFees": 332.06527777777774,
+        "totalPlatformFees": 79.69566666666665,
+        "totalNights": 42.5,
+        "bookingCount": 2,
+        "multiMonthBookings": [
+          {
+            "adults": 3,
+            "arrival": "2025-07-13",
+            "booked_utc": "2025-07-12T01:08:04Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "created_utc": "2025-07-12T01:08:03Z",
+            "currency_code": "USD",
+            "departure": "2025-08-27",
+            "form_key": "03ec51b6bfb5476a859fa012726ce82e",
+            "guest": {
+              "first_name": "Eduardo",
+              "id": 617593831,
+              "last_name": "Lucchese"
+            },
+            "guest_id": 617593831,
+            "id": 14382009,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMZX2F4SAJ",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              8466443
+            ],
+            "total_amount": 4250,
+            "total_host_fees": 127.5,
+            "total_paid": 4250,
+            "type": "booking",
+            "updated_utc": "2025-08-15T16:04:26Z",
+            "allocatedAmount": 2455.555555555555,
+            "totalNights": 45,
+            "monthsSpanned": 2
+          },
+          {
+            "adults": 2,
+            "arrival": "2025-09-01",
+            "booked_utc": "2025-07-09T21:28:55Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "created_utc": "2025-07-09T21:28:54Z",
+            "currency_code": "USD",
+            "departure": "2025-10-31",
+            "form_key": "01f72e6347a84c6597995daacb74e3d5",
+            "guest": {
+              "first_name": "Elizabeth",
+              "id": 617568220,
+              "last_name": "Ruiz"
+            },
+            "guest_id": 617568220,
+            "id": 14358778,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMT3SEKC8F",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              8447496
+            ],
+            "total_amount": 6029,
+            "total_host_fees": 180.87,
+            "total_paid": 6029,
+            "type": "booking",
+            "updated_utc": "2025-07-09T21:38:57Z",
+            "allocatedAmount": 200.96666666666667,
+            "totalNights": 60,
+            "monthsSpanned": 3
+          }
+        ],
+        "singleMonthBookings": [],
+        "netRentalIncome": 2244.7612777777777,
+        "averageBookingValue": 1328.261111111111,
+        "averageNightlyRate": 62.50640522875816,
+        "utilizationRate": 100
+      },
+      "expenseDetails": {
+        "totalExpenses": 5603.97,
+        "categoryBreakdown": {
+          "Uncategorized": 935,
+          "Bills & Utilities": 546.47,
+          "Travel & Vacation": 3922.5,
+          "Software & Tech": 200
+        },
+        "transactions": [
+          {
+            "date": "2025-08-04",
+            "amount": 35,
+            "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+            "category": "Uncategorized"
+          },
+          {
+            "date": "2025-08-05",
+            "amount": 187,
+            "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-08-11",
+            "amount": 85.77,
+            "description": "CLEARWATER CITY DES:UTILITY ID:7449635 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-08-14",
+            "amount": 1220.33,
+            "description": "AIRBNB PAYMENTS DES:G6BF5QIJBA ID:G-FMLA2Q3HDB4FX INDN:TROY NOWAK CO ID:XXXXX51428 PPD PMT INFO:RMR*IK*G-FMLA2Q3HDB4FX\\",
+            "category": "Travel & Vacation"
+          },
+          {
+            "date": "2025-08-14",
+            "amount": 2702.17,
+            "description": "AIRBNB PAYMENTS DES:IMBNHQYY5K ID:G-2OHMKRDZPO7CY INDN:TROY NOWAK CO ID:XXXXX51428 PPD PMT INFO:RMR*IK*G-2OHMKRDZPO7CY\\",
+            "category": "Travel & Vacation"
+          },
+          {
+            "date": "2025-08-20",
+            "amount": 74.99,
+            "description": "SPECTRUM DES:SPECTRUM ID:1702538 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-08-22",
+            "amount": 198.71,
+            "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+            "category": "Bills & Utilities"
+          },
+          {
+            "date": "2025-08-25",
+            "amount": 200,
+            "description": "OPENAI DES:OPENAI *CH ID:ST-Z5F5N3Q1O4V8 INDN:LINK CO ID:XXXXX48598 WEB",
+            "category": "Software & Tech"
+          },
+          {
+            "date": "2025-08-26",
+            "amount": 900,
+            "description": "VENMO DES:PAYMENT ID:XXXXX54379655 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+            "category": "Uncategorized"
+          }
+        ]
+      }
+    },
+    "September 2025": {
+      "income": 2547.2525,
+      "expenses": 0,
+      "profit": 2547.2525,
+      "incomeDetails": {
+        "bookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-09-01",
+            "booked_utc": "2025-07-09T21:28:55Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "created_utc": "2025-07-09T21:28:54Z",
+            "currency_code": "USD",
+            "departure": "2025-10-31",
+            "form_key": "01f72e6347a84c6597995daacb74e3d5",
+            "guest": {
+              "first_name": "Elizabeth",
+              "id": 617568220,
+              "last_name": "Ruiz"
+            },
+            "guest_id": 617568220,
+            "id": 14358778,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMT3SEKC8F",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              8447496
+            ],
+            "total_amount": 6029,
+            "total_host_fees": 180.87,
+            "total_paid": 6029,
+            "type": "booking",
+            "updated_utc": "2025-07-09T21:38:57Z"
+          }
+        ],
+        "totalGrossRevenue": 3014.5,
+        "totalBaseRental": 2562.325,
+        "totalCleaningFees": 376.8125,
+        "totalPlatformFees": 90.435,
+        "totalNights": 20,
+        "bookingCount": 1,
+        "multiMonthBookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-09-01",
+            "booked_utc": "2025-07-09T21:28:55Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "created_utc": "2025-07-09T21:28:54Z",
+            "currency_code": "USD",
+            "departure": "2025-10-31",
+            "form_key": "01f72e6347a84c6597995daacb74e3d5",
+            "guest": {
+              "first_name": "Elizabeth",
+              "id": 617568220,
+              "last_name": "Ruiz"
+            },
+            "guest_id": 617568220,
+            "id": 14358778,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMT3SEKC8F",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              8447496
+            ],
+            "total_amount": 6029,
+            "total_host_fees": 180.87,
+            "total_paid": 6029,
+            "type": "booking",
+            "updated_utc": "2025-07-09T21:38:57Z",
+            "allocatedAmount": 3014.5,
+            "totalNights": 60,
+            "monthsSpanned": 3
+          }
+        ],
+        "singleMonthBookings": [],
+        "netRentalIncome": 2547.2525,
+        "averageBookingValue": 3014.5,
+        "averageNightlyRate": 150.725,
+        "utilizationRate": 66.66666666666666
+      },
+      "expenseDetails": {
+        "totalExpenses": 0,
+        "categoryBreakdown": {},
+        "transactions": []
+      }
+    },
+    "October 2025": {
+      "income": 2547.2525,
+      "expenses": 0,
+      "profit": 2547.2525,
+      "incomeDetails": {
+        "bookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-09-01",
+            "booked_utc": "2025-07-09T21:28:55Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "created_utc": "2025-07-09T21:28:54Z",
+            "currency_code": "USD",
+            "departure": "2025-10-31",
+            "form_key": "01f72e6347a84c6597995daacb74e3d5",
+            "guest": {
+              "first_name": "Elizabeth",
+              "id": 617568220,
+              "last_name": "Ruiz"
+            },
+            "guest_id": 617568220,
+            "id": 14358778,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMT3SEKC8F",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              8447496
+            ],
+            "total_amount": 6029,
+            "total_host_fees": 180.87,
+            "total_paid": 6029,
+            "type": "booking",
+            "updated_utc": "2025-07-09T21:38:57Z"
+          }
+        ],
+        "totalGrossRevenue": 3014.5,
+        "totalBaseRental": 2562.325,
+        "totalCleaningFees": 376.8125,
+        "totalPlatformFees": 90.435,
+        "totalNights": 20,
+        "bookingCount": 1,
+        "multiMonthBookings": [
+          {
+            "adults": 2,
+            "arrival": "2025-09-01",
+            "booked_utc": "2025-07-09T21:28:55Z",
+            "check_in": "16:00",
+            "check_out": "10:00",
+            "children": 0,
+            "created_utc": "2025-07-09T21:28:54Z",
+            "currency_code": "USD",
+            "departure": "2025-10-31",
+            "form_key": "01f72e6347a84c6597995daacb74e3d5",
+            "guest": {
+              "first_name": "Elizabeth",
+              "id": 617568220,
+              "last_name": "Ruiz"
+            },
+            "guest_id": 617568220,
+            "id": 14358778,
+            "infants": 0,
+            "is_block": false,
+            "listing_site": "Airbnb",
+            "pets": 0,
+            "platform_reservation_number": "HMT3SEKC8F",
+            "property": {
+              "external_name": "The Clearwater Coastal Oasis",
+              "id": 417538,
+              "name": "2403 Brigadoon"
+            },
+            "property_id": 417538,
+            "status": "active",
+            "thread_ids": [
+              8447496
+            ],
+            "total_amount": 6029,
+            "total_host_fees": 180.87,
+            "total_paid": 6029,
+            "type": "booking",
+            "updated_utc": "2025-07-09T21:38:57Z",
+            "allocatedAmount": 3014.5,
+            "totalNights": 60,
+            "monthsSpanned": 3
+          }
+        ],
+        "singleMonthBookings": [],
+        "netRentalIncome": 2547.2525,
+        "averageBookingValue": 3014.5,
+        "averageNightlyRate": 150.725,
+        "utilizationRate": 64.51612903225806
+      },
+      "expenseDetails": {
+        "totalExpenses": 0,
+        "categoryBreakdown": {},
+        "transactions": []
+      }
+    },
+    "November 2025": {
+      "income": 0,
+      "expenses": 0,
+      "profit": 0,
+      "incomeDetails": {
+        "bookings": [],
+        "totalGrossRevenue": 0,
+        "totalBaseRental": 0,
+        "totalCleaningFees": 0,
+        "totalPlatformFees": 0,
+        "totalNights": 0,
+        "bookingCount": 0,
+        "multiMonthBookings": [],
+        "singleMonthBookings": []
+      },
+      "expenseDetails": {
+        "totalExpenses": 0,
+        "categoryBreakdown": {},
+        "transactions": []
+      }
+    },
+    "December 2025": {
+      "income": 0,
+      "expenses": 0,
+      "profit": 0,
+      "incomeDetails": {
+        "bookings": [],
+        "totalGrossRevenue": 0,
+        "totalBaseRental": 0,
+        "totalCleaningFees": 0,
+        "totalPlatformFees": 0,
+        "totalNights": 0,
+        "bookingCount": 0,
+        "multiMonthBookings": [],
+        "singleMonthBookings": []
+      },
+      "expenseDetails": {
+        "totalExpenses": 0,
+        "categoryBreakdown": {},
+        "transactions": []
+      }
+    }
+  },
+  "annualSummary": {
+    "totalIncome": 38810.44952998449,
+    "totalExpenses": 30727.73,
+    "totalProfit": 8082.719529984484,
+    "totalBookings": 21,
+    "totalNights": 375.6666666666667,
+    "totalMultiMonthBookings": 20
+  },
+  "topProfitMonths": [
+    {
+      "month": "February 2025",
+      "data": {
+        "income": 6219.111537282029,
+        "expenses": 1758.58,
+        "profit": 4460.531537282029,
+        "incomeDetails": {
+          "bookings": [
+            {
+              "adults": 2,
+              "arrival": "2025-02-15",
+              "booked_utc": "2024-12-04T00:08:49Z",
+              "cancellation_policy_id": 19163,
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-02-18",
+              "created_utc": "2024-12-04T00:08:50Z",
+              "currency_code": "USD",
+              "departure": "2025-02-18",
+              "form_key": "118733a3b9ad42babdb4dc90abf8dddd",
+              "guest": {
+                "first_name": "Jeremiah",
+                "id": 615316560,
+                "last_name": "Keene"
+              },
+              "guest_id": 615316560,
+              "id": 12332911,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Vrbo",
+              "notes": "At the time of booking, the guest commented:\r\n\r\nHi Troy.  I will be traveling with my wife.  This will be a surprise trip for her for the Shriners children’s invitational softball tournament",
+              "pets": 0,
+              "platform_reservation_number": "ORB12332911",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                6859162
+              ],
+              "total_amount": 691.56,
+              "total_host_fees": 20.66,
+              "total_owed": 137.33,
+              "total_paid": 691.56,
+              "total_refunded": 137.33,
+              "type": "booking",
+              "updated_utc": "2025-02-23T09:23:28Z"
+            },
+            {
+              "adults": 2,
+              "arrival": "2024-12-31",
+              "booked_utc": "2024-07-13T18:11:38Z",
+              "cancellation_policy_id": 19163,
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-02-15",
+              "created_utc": "2024-07-13T18:11:38Z",
+              "currency_code": "USD",
+              "departure": "2025-02-15",
+              "form_key": "81f51ff2b7374bc19dadea48787104d5",
+              "guest": {
+                "first_name": "Brittany",
+                "id": 613964592,
+                "last_name": "Uitermarkt"
+              },
+              "guest_id": 613964592,
+              "id": 11236038,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "dunedinduo.com",
+              "notes": "At the time of booking, the guest commented:\r\n\r\nThanks for accommodating us! We will have our 15 pound dog, Chino, with us. Troy comped the pet fee for us to fit in our budget.",
+              "pets": 0,
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "quote_id": 4754968,
+              "status": "active",
+              "total_amount": 4824.1,
+              "total_host_fees": 140.5,
+              "total_paid": 4824.1,
+              "type": "booking",
+              "updated_utc": "2025-02-20T10:09:42Z"
+            },
+            {
+              "adults": 4,
+              "arrival": "2025-02-18",
+              "booked_utc": "2024-06-27T20:32:56Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-03-20",
+              "created_utc": "2024-06-27T20:32:56Z",
+              "currency_code": "USD",
+              "departure": "2025-03-20",
+              "form_key": "6d34848bc85b47f6b94255cf0223108f",
+              "guest": {
+                "first_name": "Richard",
+                "id": 613803323,
+                "last_name": "Keller"
+              },
+              "guest_id": 613803323,
+              "id": 11107712,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMTHPJJKNQ",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "quote_id": 4718454,
+              "status": "active",
+              "thread_ids": [
+                5437199
+              ],
+              "total_amount": 3967,
+              "total_host_fees": 119.01,
+              "total_paid": 3967,
+              "type": "booking",
+              "updated_utc": "2025-03-25T05:28:16Z"
+            },
+            {
+              "adults": 2,
+              "arrival": "2025-02-23",
+              "booked_utc": "2024-04-04T15:28:35Z",
+              "canceled_utc": "2024-05-13T13:19:43Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-04-30",
+              "created_utc": "2024-04-04T15:28:35Z",
+              "currency_code": "USD",
+              "departure": "2025-04-30",
+              "form_key": "38ef9a98fa95476a8535fd34add4f3a9",
+              "guest": {
+                "first_name": "Linda",
+                "id": 612898814,
+                "last_name": "Couture"
+              },
+              "guest_id": 612898814,
+              "id": 10397460,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMPA45QJWE",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "canceled",
+              "thread_ids": [
+                4052105
+              ],
+              "total_amount": 8011.86,
+              "total_host_fees": 132.12,
+              "total_owed": 3607.95,
+              "total_paid": 4790.7,
+              "total_refunded": 386.79,
+              "type": "booking",
+              "updated_utc": "2024-06-24T18:55:19Z"
+            },
+            {
+              "adults": 2,
+              "arrival": "2025-01-20",
+              "booked_utc": "2024-03-23T00:39:10Z",
+              "canceled_utc": "2024-05-13T13:19:43Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-02-23",
+              "created_utc": "2024-03-23T00:39:11Z",
+              "currency_code": "USD",
+              "departure": "2025-02-23",
+              "form_key": "da84a7be327546bbaafd2cd88b00a6fe",
+              "guest": {
+                "first_name": "Sheila",
+                "id": 612790200,
+                "last_name": "Grinter"
+              },
+              "guest_id": 612790200,
+              "id": 10297644,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Vrbo",
+              "pets": 0,
+              "platform_reservation_number": "ORB10297644",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "canceled",
+              "thread_ids": [
+                3539730
+              ],
+              "total_amount": 4271,
+              "total_host_fees": 62.23,
+              "total_owed": 4271,
+              "total_paid": 2135.5,
+              "total_refunded": 2135.5,
+              "type": "booking",
+              "updated_utc": "2024-07-02T02:03:07Z"
+            }
+          ],
+          "totalGrossRevenue": 7359.8953103929325,
+          "totalBaseRental": 6255.911013833993,
+          "totalCleaningFees": 919.9869137991166,
+          "totalPlatformFees": 220.79685931178795,
+          "totalNights": 72.33333333333334,
+          "bookingCount": 5,
+          "multiMonthBookings": [
+            {
+              "adults": 2,
+              "arrival": "2024-12-31",
+              "booked_utc": "2024-07-13T18:11:38Z",
+              "cancellation_policy_id": 19163,
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-02-15",
+              "created_utc": "2024-07-13T18:11:38Z",
+              "currency_code": "USD",
+              "departure": "2025-02-15",
+              "form_key": "81f51ff2b7374bc19dadea48787104d5",
+              "guest": {
+                "first_name": "Brittany",
+                "id": 613964592,
+                "last_name": "Uitermarkt"
+              },
+              "guest_id": 613964592,
+              "id": 11236038,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "dunedinduo.com",
+              "notes": "At the time of booking, the guest commented:\r\n\r\nThanks for accommodating us! We will have our 15 pound dog, Chino, with us. Troy comped the pet fee for us to fit in our budget.",
+              "pets": 0,
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "quote_id": 4754968,
+              "status": "active",
+              "total_amount": 4824.1,
+              "total_host_fees": 140.5,
+              "total_paid": 4824.1,
+              "type": "booking",
+              "updated_utc": "2025-02-20T10:09:42Z",
+              "allocatedAmount": 1468.204347826087,
+              "totalNights": 46,
+              "monthsSpanned": 3
+            },
+            {
+              "adults": 4,
+              "arrival": "2025-02-18",
+              "booked_utc": "2024-06-27T20:32:56Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-03-20",
+              "created_utc": "2024-06-27T20:32:56Z",
+              "currency_code": "USD",
+              "departure": "2025-03-20",
+              "form_key": "6d34848bc85b47f6b94255cf0223108f",
+              "guest": {
+                "first_name": "Richard",
+                "id": 613803323,
+                "last_name": "Keller"
+              },
+              "guest_id": 613803323,
+              "id": 11107712,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMTHPJJKNQ",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "quote_id": 4718454,
+              "status": "active",
+              "thread_ids": [
+                5437199
+              ],
+              "total_amount": 3967,
+              "total_host_fees": 119.01,
+              "total_paid": 3967,
+              "type": "booking",
+              "updated_utc": "2025-03-25T05:28:16Z",
+              "allocatedAmount": 1586.8000000000002,
+              "totalNights": 30,
+              "monthsSpanned": 2
+            },
+            {
+              "adults": 2,
+              "arrival": "2025-02-23",
+              "booked_utc": "2024-04-04T15:28:35Z",
+              "canceled_utc": "2024-05-13T13:19:43Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-04-30",
+              "created_utc": "2024-04-04T15:28:35Z",
+              "currency_code": "USD",
+              "departure": "2025-04-30",
+              "form_key": "38ef9a98fa95476a8535fd34add4f3a9",
+              "guest": {
+                "first_name": "Linda",
+                "id": 612898814,
+                "last_name": "Couture"
+              },
+              "guest_id": 612898814,
+              "id": 10397460,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMPA45QJWE",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "canceled",
+              "thread_ids": [
+                4052105
+              ],
+              "total_amount": 8011.86,
+              "total_host_fees": 132.12,
+              "total_owed": 3607.95,
+              "total_paid": 4790.7,
+              "total_refunded": 386.79,
+              "type": "booking",
+              "updated_utc": "2024-06-24T18:55:19Z",
+              "allocatedAmount": 849.7427272727273,
+              "totalNights": 66,
+              "monthsSpanned": 3
+            },
+            {
+              "adults": 2,
+              "arrival": "2025-01-20",
+              "booked_utc": "2024-03-23T00:39:10Z",
+              "canceled_utc": "2024-05-13T13:19:43Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-02-23",
+              "created_utc": "2024-03-23T00:39:11Z",
+              "currency_code": "USD",
+              "departure": "2025-02-23",
+              "form_key": "da84a7be327546bbaafd2cd88b00a6fe",
+              "guest": {
+                "first_name": "Sheila",
+                "id": 612790200,
+                "last_name": "Grinter"
+              },
+              "guest_id": 612790200,
+              "id": 10297644,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Vrbo",
+              "pets": 0,
+              "platform_reservation_number": "ORB10297644",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "canceled",
+              "thread_ids": [
+                3539730
+              ],
+              "total_amount": 4271,
+              "total_host_fees": 62.23,
+              "total_owed": 4271,
+              "total_paid": 2135.5,
+              "total_refunded": 2135.5,
+              "type": "booking",
+              "updated_utc": "2024-07-02T02:03:07Z",
+              "allocatedAmount": 2763.5882352941176,
+              "totalNights": 34,
+              "monthsSpanned": 2
+            }
+          ],
+          "singleMonthBookings": [
+            {
+              "adults": 2,
+              "arrival": "2025-02-15",
+              "booked_utc": "2024-12-04T00:08:49Z",
+              "cancellation_policy_id": 19163,
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-02-18",
+              "created_utc": "2024-12-04T00:08:50Z",
+              "currency_code": "USD",
+              "departure": "2025-02-18",
+              "form_key": "118733a3b9ad42babdb4dc90abf8dddd",
+              "guest": {
+                "first_name": "Jeremiah",
+                "id": 615316560,
+                "last_name": "Keene"
+              },
+              "guest_id": 615316560,
+              "id": 12332911,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Vrbo",
+              "notes": "At the time of booking, the guest commented:\r\n\r\nHi Troy.  I will be traveling with my wife.  This will be a surprise trip for her for the Shriners children’s invitational softball tournament",
+              "pets": 0,
+              "platform_reservation_number": "ORB12332911",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                6859162
+              ],
+              "total_amount": 691.56,
+              "total_host_fees": 20.66,
+              "total_owed": 137.33,
+              "total_paid": 691.56,
+              "total_refunded": 137.33,
+              "type": "booking",
+              "updated_utc": "2025-02-23T09:23:28Z",
+              "allocatedAmount": 691.56
+            }
+          ],
+          "netRentalIncome": 6219.111537282029,
+          "averageBookingValue": 1471.9790620785866,
+          "averageNightlyRate": 101.74970475197601,
+          "utilizationRate": 100
+        },
+        "expenseDetails": {
+          "totalExpenses": 1758.58,
+          "categoryBreakdown": {
+            "Loan Payment": 1212.32,
+            "Uncategorized": 33,
+            "Bills & Utilities": 513.26
+          },
+          "transactions": [
+            {
+              "date": "2025-02-03",
+              "amount": 1212.32,
+              "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+              "category": "Loan Payment"
+            },
+            {
+              "date": "2025-02-04",
+              "amount": 33,
+              "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-02-04",
+              "amount": 187,
+              "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-02-10",
+              "amount": 85.77,
+              "description": "CLEARWATER CITY DES:UTILITY ID:9218918 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-02-20",
+              "amount": 74.99,
+              "description": "SPECTRUM DES:SPECTRUM ID:3797831 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-02-24",
+              "amount": 165.5,
+              "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+              "category": "Bills & Utilities"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "month": "April 2025",
+      "data": {
+        "income": 5992.528530519481,
+        "expenses": 1703.6399999999999,
+        "profit": 4288.888530519482,
+        "incomeDetails": {
+          "bookings": [
+            {
+              "adults": 2,
+              "arrival": "2025-03-21",
+              "booked_utc": "2025-02-22T18:50:31Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-06-06",
+              "created_utc": "2025-02-22T18:50:32Z",
+              "currency_code": "USD",
+              "departure": "2025-06-06",
+              "form_key": "42b93954b0f945cfb3bc5d2c17f7d166",
+              "guest": {
+                "first_name": "Farah",
+                "id": 616078899,
+                "last_name": "Tanis"
+              },
+              "guest_id": 616078899,
+              "id": 13025030,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Vrbo",
+              "notes": "At the time of booking, the guest commented:\r\n\r\nGood afternoon. I'm looking forward to visiting the area. Myself and a colleague will be in the area for a two and half month internship and this space seems like the perfect place. We are particularly glad there is a pool on or nearby for off hours.  We look forward to a response.\nVery Best.\nFarah",
+              "pets": 0,
+              "platform_reservation_number": "ORB13025030",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                7377923
+              ],
+              "total_amount": 9166.56,
+              "total_host_fees": 266.13,
+              "total_paid": 9166.56,
+              "type": "booking",
+              "updated_utc": "2025-03-19T07:09:38Z"
+            },
+            {
+              "adults": 2,
+              "arrival": "2025-02-23",
+              "booked_utc": "2024-04-04T15:28:35Z",
+              "canceled_utc": "2024-05-13T13:19:43Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-04-30",
+              "created_utc": "2024-04-04T15:28:35Z",
+              "currency_code": "USD",
+              "departure": "2025-04-30",
+              "form_key": "38ef9a98fa95476a8535fd34add4f3a9",
+              "guest": {
+                "first_name": "Linda",
+                "id": 612898814,
+                "last_name": "Couture"
+              },
+              "guest_id": 612898814,
+              "id": 10397460,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMPA45QJWE",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "canceled",
+              "thread_ids": [
+                4052105
+              ],
+              "total_amount": 8011.86,
+              "total_host_fees": 132.12,
+              "total_owed": 3607.95,
+              "total_paid": 4790.7,
+              "total_refunded": 386.79,
+              "type": "booking",
+              "updated_utc": "2024-06-24T18:55:19Z"
+            }
+          ],
+          "totalGrossRevenue": 7091.74974025974,
+          "totalBaseRental": 6027.987279220779,
+          "totalCleaningFees": 886.4687175324675,
+          "totalPlatformFees": 212.7524922077922,
+          "totalNights": 41.25,
+          "bookingCount": 2,
+          "multiMonthBookings": [
+            {
+              "adults": 2,
+              "arrival": "2025-03-21",
+              "booked_utc": "2025-02-22T18:50:31Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-06-06",
+              "created_utc": "2025-02-22T18:50:32Z",
+              "currency_code": "USD",
+              "departure": "2025-06-06",
+              "form_key": "42b93954b0f945cfb3bc5d2c17f7d166",
+              "guest": {
+                "first_name": "Farah",
+                "id": 616078899,
+                "last_name": "Tanis"
+              },
+              "guest_id": 616078899,
+              "id": 13025030,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Vrbo",
+              "notes": "At the time of booking, the guest commented:\r\n\r\nGood afternoon. I'm looking forward to visiting the area. Myself and a colleague will be in the area for a two and half month internship and this space seems like the perfect place. We are particularly glad there is a pool on or nearby for off hours.  We look forward to a response.\nVery Best.\nFarah",
+              "pets": 0,
+              "platform_reservation_number": "ORB13025030",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                7377923
+              ],
+              "total_amount": 9166.56,
+              "total_host_fees": 266.13,
+              "total_paid": 9166.56,
+              "type": "booking",
+              "updated_utc": "2025-03-19T07:09:38Z",
+              "allocatedAmount": 3571.387012987013,
+              "totalNights": 77,
+              "monthsSpanned": 4
+            },
+            {
+              "adults": 2,
+              "arrival": "2025-02-23",
+              "booked_utc": "2024-04-04T15:28:35Z",
+              "canceled_utc": "2024-05-13T13:19:43Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-04-30",
+              "created_utc": "2024-04-04T15:28:35Z",
+              "currency_code": "USD",
+              "departure": "2025-04-30",
+              "form_key": "38ef9a98fa95476a8535fd34add4f3a9",
+              "guest": {
+                "first_name": "Linda",
+                "id": 612898814,
+                "last_name": "Couture"
+              },
+              "guest_id": 612898814,
+              "id": 10397460,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMPA45QJWE",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "canceled",
+              "thread_ids": [
+                4052105
+              ],
+              "total_amount": 8011.86,
+              "total_host_fees": 132.12,
+              "total_owed": 3607.95,
+              "total_paid": 4790.7,
+              "total_refunded": 386.79,
+              "type": "booking",
+              "updated_utc": "2024-06-24T18:55:19Z",
+              "allocatedAmount": 3520.362727272727,
+              "totalNights": 66,
+              "monthsSpanned": 3
+            }
+          ],
+          "singleMonthBookings": [],
+          "netRentalIncome": 5992.528530519481,
+          "averageBookingValue": 3545.87487012987,
+          "averageNightlyRate": 171.92120582447853,
+          "utilizationRate": 100
+        },
+        "expenseDetails": {
+          "totalExpenses": 1703.6399999999999,
+          "categoryBreakdown": {
+            "Uncategorized": 35,
+            "Bills & Utilities": 456.32,
+            "Loan Payment": 1212.32
+          },
+          "transactions": [
+            {
+              "date": "2025-04-02",
+              "amount": 35,
+              "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-04-04",
+              "amount": 187,
+              "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-04-11",
+              "amount": 85.77,
+              "description": "CLEARWATER CITY DES:UTILITY ID:2199692 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-04-21",
+              "amount": 74.99,
+              "description": "SPECTRUM DES:SPECTRUM ID:5606465 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-04-23",
+              "amount": 108.56,
+              "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-05-01",
+              "amount": 1212.32,
+              "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+              "category": "Loan Payment"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "month": "September 2025",
+      "data": {
+        "income": 2547.2525,
+        "expenses": 0,
+        "profit": 2547.2525,
+        "incomeDetails": {
+          "bookings": [
+            {
+              "adults": 2,
+              "arrival": "2025-09-01",
+              "booked_utc": "2025-07-09T21:28:55Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "created_utc": "2025-07-09T21:28:54Z",
+              "currency_code": "USD",
+              "departure": "2025-10-31",
+              "form_key": "01f72e6347a84c6597995daacb74e3d5",
+              "guest": {
+                "first_name": "Elizabeth",
+                "id": 617568220,
+                "last_name": "Ruiz"
+              },
+              "guest_id": 617568220,
+              "id": 14358778,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMT3SEKC8F",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                8447496
+              ],
+              "total_amount": 6029,
+              "total_host_fees": 180.87,
+              "total_paid": 6029,
+              "type": "booking",
+              "updated_utc": "2025-07-09T21:38:57Z"
+            }
+          ],
+          "totalGrossRevenue": 3014.5,
+          "totalBaseRental": 2562.325,
+          "totalCleaningFees": 376.8125,
+          "totalPlatformFees": 90.435,
+          "totalNights": 20,
+          "bookingCount": 1,
+          "multiMonthBookings": [
+            {
+              "adults": 2,
+              "arrival": "2025-09-01",
+              "booked_utc": "2025-07-09T21:28:55Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "created_utc": "2025-07-09T21:28:54Z",
+              "currency_code": "USD",
+              "departure": "2025-10-31",
+              "form_key": "01f72e6347a84c6597995daacb74e3d5",
+              "guest": {
+                "first_name": "Elizabeth",
+                "id": 617568220,
+                "last_name": "Ruiz"
+              },
+              "guest_id": 617568220,
+              "id": 14358778,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMT3SEKC8F",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                8447496
+              ],
+              "total_amount": 6029,
+              "total_host_fees": 180.87,
+              "total_paid": 6029,
+              "type": "booking",
+              "updated_utc": "2025-07-09T21:38:57Z",
+              "allocatedAmount": 3014.5,
+              "totalNights": 60,
+              "monthsSpanned": 3
+            }
+          ],
+          "singleMonthBookings": [],
+          "netRentalIncome": 2547.2525,
+          "averageBookingValue": 3014.5,
+          "averageNightlyRate": 150.725,
+          "utilizationRate": 66.66666666666666
+        },
+        "expenseDetails": {
+          "totalExpenses": 0,
+          "categoryBreakdown": {},
+          "transactions": []
+        }
+      }
+    }
+  ],
+  "lowestProfitMonths": [
+    {
+      "month": "July 2025",
+      "data": {
+        "income": 2145.3090027777776,
+        "expenses": 3564.09,
+        "profit": -1418.7809972222226,
+        "incomeDetails": {
+          "bookings": [
+            {
+              "adults": 3,
+              "arrival": "2025-07-13",
+              "booked_utc": "2025-07-12T01:08:04Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "created_utc": "2025-07-12T01:08:03Z",
+              "currency_code": "USD",
+              "departure": "2025-08-27",
+              "form_key": "03ec51b6bfb5476a859fa012726ce82e",
+              "guest": {
+                "first_name": "Eduardo",
+                "id": 617593831,
+                "last_name": "Lucchese"
+              },
+              "guest_id": 617593831,
+              "id": 14382009,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMZX2F4SAJ",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                8466443
+              ],
+              "total_amount": 4250,
+              "total_host_fees": 127.5,
+              "total_paid": 4250,
+              "type": "booking",
+              "updated_utc": "2025-08-15T16:04:26Z"
+            },
+            {
+              "adults": 2,
+              "arrival": "2025-06-06",
+              "booked_utc": "2025-03-21T22:58:42Z",
+              "cancellation_policy_id": 19163,
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-07-06",
+              "created_utc": "2025-03-21T22:58:43Z",
+              "currency_code": "USD",
+              "departure": "2025-07-06",
+              "form_key": "ba48b55a7fde4110bc30283bb40ea9bd",
+              "guest": {
+                "first_name": "Farah",
+                "id": 616078899,
+                "last_name": "Tanis"
+              },
+              "guest_id": 616078899,
+              "id": 13305171,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "dunedinduo.com",
+              "pets": 0,
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "quote_id": 5291675,
+              "status": "active",
+              "total_amount": 3899.63,
+              "total_host_fees": 113.68,
+              "total_paid": 3899.63,
+              "type": "booking",
+              "updated_utc": "2025-07-11T04:30:54Z"
+            }
+          ],
+          "totalGrossRevenue": 2538.827222222222,
+          "totalBaseRental": 2158.0031388888888,
+          "totalCleaningFees": 317.3534027777778,
+          "totalPlatformFees": 76.16481666666667,
+          "totalNights": 37.5,
+          "bookingCount": 2,
+          "multiMonthBookings": [
+            {
+              "adults": 3,
+              "arrival": "2025-07-13",
+              "booked_utc": "2025-07-12T01:08:04Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "created_utc": "2025-07-12T01:08:03Z",
+              "currency_code": "USD",
+              "departure": "2025-08-27",
+              "form_key": "03ec51b6bfb5476a859fa012726ce82e",
+              "guest": {
+                "first_name": "Eduardo",
+                "id": 617593831,
+                "last_name": "Lucchese"
+              },
+              "guest_id": 617593831,
+              "id": 14382009,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMZX2F4SAJ",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                8466443
+              ],
+              "total_amount": 4250,
+              "total_host_fees": 127.5,
+              "total_paid": 4250,
+              "type": "booking",
+              "updated_utc": "2025-08-15T16:04:26Z",
+              "allocatedAmount": 1888.8888888888887,
+              "totalNights": 45,
+              "monthsSpanned": 2
+            },
+            {
+              "adults": 2,
+              "arrival": "2025-06-06",
+              "booked_utc": "2025-03-21T22:58:42Z",
+              "cancellation_policy_id": 19163,
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-07-06",
+              "created_utc": "2025-03-21T22:58:43Z",
+              "currency_code": "USD",
+              "departure": "2025-07-06",
+              "form_key": "ba48b55a7fde4110bc30283bb40ea9bd",
+              "guest": {
+                "first_name": "Farah",
+                "id": 616078899,
+                "last_name": "Tanis"
+              },
+              "guest_id": 616078899,
+              "id": 13305171,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "dunedinduo.com",
+              "pets": 0,
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "quote_id": 5291675,
+              "status": "active",
+              "total_amount": 3899.63,
+              "total_host_fees": 113.68,
+              "total_paid": 3899.63,
+              "type": "booking",
+              "updated_utc": "2025-07-11T04:30:54Z",
+              "allocatedAmount": 649.9383333333333,
+              "totalNights": 30,
+              "monthsSpanned": 2
+            }
+          ],
+          "singleMonthBookings": [],
+          "netRentalIncome": 2145.3090027777776,
+          "averageBookingValue": 1269.413611111111,
+          "averageNightlyRate": 67.70205925925926,
+          "utilizationRate": 100
+        },
+        "expenseDetails": {
+          "totalExpenses": 3564.09,
+          "categoryBreakdown": {
+            "Uncategorized": 1656,
+            "Bills & Utilities": 495.77,
+            "Software & Tech": 200,
+            "Loan Payment": 1212.32
+          },
+          "transactions": [
+            {
+              "date": "2025-07-02",
+              "amount": 35,
+              "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-07-07",
+              "amount": 187,
+              "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-07-07",
+              "amount": 400,
+              "description": "VENMO DES:PAYMENT ID:XXXXX29440886 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-07-10",
+              "amount": 20,
+              "description": "VENMO DES:PAYMENT ID:XXXXX17084239 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-07-10",
+              "amount": 85.77,
+              "description": "CLEARWATER CITY DES:UTILITY ID:5850248 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-07-10",
+              "amount": 371,
+              "description": "VENMO DES:CASHOUT ID:XXXXX17082577 INDN:TROY NOWAK CO ID:XXXXX81992 PPD",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-07-14",
+              "amount": 150,
+              "description": "\"Zelle payment to Ada Busnea for 'Clearwater clsan'; Conf# iadfs4yrl\"",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-07-15",
+              "amount": 200,
+              "description": "VENMO DES:PAYMENT ID:XXXXX03790049 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-07-21",
+              "amount": 74.99,
+              "description": "SPECTRUM DES:SPECTRUM ID:9925045 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-07-21",
+              "amount": 100,
+              "description": "VENMO DES:PAYMENT ID:XXXXX11474089 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-07-21",
+              "amount": 148.01,
+              "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-07-24",
+              "amount": 200,
+              "description": "OPENAI DES:OPENAI *CH ID:ST-O8Z6Y2P0O3Z0 INDN:LINK CO ID:XXXXX48598 WEB",
+              "category": "Software & Tech"
+            },
+            {
+              "date": "2025-07-31",
+              "amount": 80,
+              "description": "VENMO DES:PAYMENT ID:XXXXX42994303 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-08-01",
+              "amount": 300,
+              "description": "VENMO DES:PAYMENT ID:XXXXX62710780 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-08-01",
+              "amount": 1212.32,
+              "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+              "category": "Loan Payment"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "month": "March 2025",
+      "data": {
+        "income": 6509.993654329005,
+        "expenses": 8296.33,
+        "profit": -1786.336345670995,
+        "incomeDetails": {
+          "bookings": [
+            {
+              "adults": 2,
+              "arrival": "2025-03-21",
+              "booked_utc": "2025-02-22T18:50:31Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-06-06",
+              "created_utc": "2025-02-22T18:50:32Z",
+              "currency_code": "USD",
+              "departure": "2025-06-06",
+              "form_key": "42b93954b0f945cfb3bc5d2c17f7d166",
+              "guest": {
+                "first_name": "Farah",
+                "id": 616078899,
+                "last_name": "Tanis"
+              },
+              "guest_id": 616078899,
+              "id": 13025030,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Vrbo",
+              "notes": "At the time of booking, the guest commented:\r\n\r\nGood afternoon. I'm looking forward to visiting the area. Myself and a colleague will be in the area for a two and half month internship and this space seems like the perfect place. We are particularly glad there is a pool on or nearby for off hours.  We look forward to a response.\nVery Best.\nFarah",
+              "pets": 0,
+              "platform_reservation_number": "ORB13025030",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                7377923
+              ],
+              "total_amount": 9166.56,
+              "total_host_fees": 266.13,
+              "total_paid": 9166.56,
+              "type": "booking",
+              "updated_utc": "2025-03-19T07:09:38Z"
+            },
+            {
+              "adults": 4,
+              "arrival": "2025-02-18",
+              "booked_utc": "2024-06-27T20:32:56Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-03-20",
+              "created_utc": "2024-06-27T20:32:56Z",
+              "currency_code": "USD",
+              "departure": "2025-03-20",
+              "form_key": "6d34848bc85b47f6b94255cf0223108f",
+              "guest": {
+                "first_name": "Richard",
+                "id": 613803323,
+                "last_name": "Keller"
+              },
+              "guest_id": 613803323,
+              "id": 11107712,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMTHPJJKNQ",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "quote_id": 4718454,
+              "status": "active",
+              "thread_ids": [
+                5437199
+              ],
+              "total_amount": 3967,
+              "total_host_fees": 119.01,
+              "total_paid": 3967,
+              "type": "booking",
+              "updated_utc": "2025-03-25T05:28:16Z"
+            },
+            {
+              "adults": 2,
+              "arrival": "2025-02-23",
+              "booked_utc": "2024-04-04T15:28:35Z",
+              "canceled_utc": "2024-05-13T13:19:43Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-04-30",
+              "created_utc": "2024-04-04T15:28:35Z",
+              "currency_code": "USD",
+              "departure": "2025-04-30",
+              "form_key": "38ef9a98fa95476a8535fd34add4f3a9",
+              "guest": {
+                "first_name": "Linda",
+                "id": 612898814,
+                "last_name": "Couture"
+              },
+              "guest_id": 612898814,
+              "id": 10397460,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMPA45QJWE",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "canceled",
+              "thread_ids": [
+                4052105
+              ],
+              "total_amount": 8011.86,
+              "total_host_fees": 132.12,
+              "total_owed": 3607.95,
+              "total_paid": 4790.7,
+              "total_refunded": 386.79,
+              "type": "booking",
+              "updated_utc": "2024-06-24T18:55:19Z"
+            }
+          ],
+          "totalGrossRevenue": 7704.134502164503,
+          "totalBaseRental": 6548.514326839827,
+          "totalCleaningFees": 963.0168127705629,
+          "totalPlatformFees": 231.12403506493507,
+          "totalNights": 56.25,
+          "bookingCount": 3,
+          "multiMonthBookings": [
+            {
+              "adults": 2,
+              "arrival": "2025-03-21",
+              "booked_utc": "2025-02-22T18:50:31Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-06-06",
+              "created_utc": "2025-02-22T18:50:32Z",
+              "currency_code": "USD",
+              "departure": "2025-06-06",
+              "form_key": "42b93954b0f945cfb3bc5d2c17f7d166",
+              "guest": {
+                "first_name": "Farah",
+                "id": 616078899,
+                "last_name": "Tanis"
+              },
+              "guest_id": 616078899,
+              "id": 13025030,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Vrbo",
+              "notes": "At the time of booking, the guest commented:\r\n\r\nGood afternoon. I'm looking forward to visiting the area. Myself and a colleague will be in the area for a two and half month internship and this space seems like the perfect place. We are particularly glad there is a pool on or nearby for off hours.  We look forward to a response.\nVery Best.\nFarah",
+              "pets": 0,
+              "platform_reservation_number": "ORB13025030",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                7377923
+              ],
+              "total_amount": 9166.56,
+              "total_host_fees": 266.13,
+              "total_paid": 9166.56,
+              "type": "booking",
+              "updated_utc": "2025-03-19T07:09:38Z",
+              "allocatedAmount": 1428.554805194805,
+              "totalNights": 77,
+              "monthsSpanned": 4
+            },
+            {
+              "adults": 4,
+              "arrival": "2025-02-18",
+              "booked_utc": "2024-06-27T20:32:56Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-03-20",
+              "created_utc": "2024-06-27T20:32:56Z",
+              "currency_code": "USD",
+              "departure": "2025-03-20",
+              "form_key": "6d34848bc85b47f6b94255cf0223108f",
+              "guest": {
+                "first_name": "Richard",
+                "id": 613803323,
+                "last_name": "Keller"
+              },
+              "guest_id": 613803323,
+              "id": 11107712,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMTHPJJKNQ",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "quote_id": 4718454,
+              "status": "active",
+              "thread_ids": [
+                5437199
+              ],
+              "total_amount": 3967,
+              "total_host_fees": 119.01,
+              "total_paid": 3967,
+              "type": "booking",
+              "updated_utc": "2025-03-25T05:28:16Z",
+              "allocatedAmount": 2512.4333333333334,
+              "totalNights": 30,
+              "monthsSpanned": 2
+            },
+            {
+              "adults": 2,
+              "arrival": "2025-02-23",
+              "booked_utc": "2024-04-04T15:28:35Z",
+              "canceled_utc": "2024-05-13T13:19:43Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "cleaning_date": "2025-04-30",
+              "created_utc": "2024-04-04T15:28:35Z",
+              "currency_code": "USD",
+              "departure": "2025-04-30",
+              "form_key": "38ef9a98fa95476a8535fd34add4f3a9",
+              "guest": {
+                "first_name": "Linda",
+                "id": 612898814,
+                "last_name": "Couture"
+              },
+              "guest_id": 612898814,
+              "id": 10397460,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMPA45QJWE",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "canceled",
+              "thread_ids": [
+                4052105
+              ],
+              "total_amount": 8011.86,
+              "total_host_fees": 132.12,
+              "total_owed": 3607.95,
+              "total_paid": 4790.7,
+              "total_refunded": 386.79,
+              "type": "booking",
+              "updated_utc": "2024-06-24T18:55:19Z",
+              "allocatedAmount": 3763.1463636363637,
+              "totalNights": 66,
+              "monthsSpanned": 3
+            }
+          ],
+          "singleMonthBookings": [],
+          "netRentalIncome": 6509.993654329005,
+          "averageBookingValue": 2568.044834054834,
+          "averageNightlyRate": 136.96239114959116,
+          "utilizationRate": 100
+        },
+        "expenseDetails": {
+          "totalExpenses": 8296.33,
+          "categoryBreakdown": {
+            "Fees": 16,
+            "Loan Payment": 2424.64,
+            "Uncategorized": 363,
+            "Bills & Utilities": 462.69,
+            "Savings Transfer": 30,
+            "Internal Transfers": 5000
+          },
+          "transactions": [
+            {
+              "date": "2025-03-03",
+              "amount": 16,
+              "description": "Monthly Fee Business Adv Fundamentals",
+              "category": "Fees"
+            },
+            {
+              "date": "2025-03-03",
+              "amount": 1212.32,
+              "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+              "category": "Loan Payment"
+            },
+            {
+              "date": "2025-03-03",
+              "amount": 180,
+              "description": "Zelle payment to Ada Busnea Conf# cidctm3dc",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-03-04",
+              "amount": 33,
+              "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-03-04",
+              "amount": 187,
+              "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-03-04",
+              "amount": 30,
+              "description": "Online Banking transfer to SAV 3202 Confirmation# XXXXX55370",
+              "category": "Savings Transfer"
+            },
+            {
+              "date": "2025-03-13",
+              "amount": 85.77,
+              "description": "CLEARWATER CITY DES:UTILITY ID:1833132 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-03-20",
+              "amount": 74.99,
+              "description": "SPECTRUM DES:SPECTRUM ID:4458496 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-03-24",
+              "amount": 114.93,
+              "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-03-27",
+              "amount": 150,
+              "description": "Zelle payment to Ada Busnea Conf# aol1c60h0",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-04-01",
+              "amount": 1212.32,
+              "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+              "category": "Loan Payment"
+            },
+            {
+              "date": "2025-04-01",
+              "amount": 5000,
+              "description": "Online Banking transfer to CHK 2437 Confirmation# XXXXX98411",
+              "category": "Internal Transfers"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "month": "August 2025",
+      "data": {
+        "income": 2244.7612777777777,
+        "expenses": 5603.97,
+        "profit": -3359.2087222222226,
+        "incomeDetails": {
+          "bookings": [
+            {
+              "adults": 3,
+              "arrival": "2025-07-13",
+              "booked_utc": "2025-07-12T01:08:04Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "created_utc": "2025-07-12T01:08:03Z",
+              "currency_code": "USD",
+              "departure": "2025-08-27",
+              "form_key": "03ec51b6bfb5476a859fa012726ce82e",
+              "guest": {
+                "first_name": "Eduardo",
+                "id": 617593831,
+                "last_name": "Lucchese"
+              },
+              "guest_id": 617593831,
+              "id": 14382009,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMZX2F4SAJ",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                8466443
+              ],
+              "total_amount": 4250,
+              "total_host_fees": 127.5,
+              "total_paid": 4250,
+              "type": "booking",
+              "updated_utc": "2025-08-15T16:04:26Z"
+            },
+            {
+              "adults": 2,
+              "arrival": "2025-09-01",
+              "booked_utc": "2025-07-09T21:28:55Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "created_utc": "2025-07-09T21:28:54Z",
+              "currency_code": "USD",
+              "departure": "2025-10-31",
+              "form_key": "01f72e6347a84c6597995daacb74e3d5",
+              "guest": {
+                "first_name": "Elizabeth",
+                "id": 617568220,
+                "last_name": "Ruiz"
+              },
+              "guest_id": 617568220,
+              "id": 14358778,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMT3SEKC8F",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                8447496
+              ],
+              "total_amount": 6029,
+              "total_host_fees": 180.87,
+              "total_paid": 6029,
+              "type": "booking",
+              "updated_utc": "2025-07-09T21:38:57Z"
+            }
+          ],
+          "totalGrossRevenue": 2656.522222222222,
+          "totalBaseRental": 2258.0438888888884,
+          "totalCleaningFees": 332.06527777777774,
+          "totalPlatformFees": 79.69566666666665,
+          "totalNights": 42.5,
+          "bookingCount": 2,
+          "multiMonthBookings": [
+            {
+              "adults": 3,
+              "arrival": "2025-07-13",
+              "booked_utc": "2025-07-12T01:08:04Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "created_utc": "2025-07-12T01:08:03Z",
+              "currency_code": "USD",
+              "departure": "2025-08-27",
+              "form_key": "03ec51b6bfb5476a859fa012726ce82e",
+              "guest": {
+                "first_name": "Eduardo",
+                "id": 617593831,
+                "last_name": "Lucchese"
+              },
+              "guest_id": 617593831,
+              "id": 14382009,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMZX2F4SAJ",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                8466443
+              ],
+              "total_amount": 4250,
+              "total_host_fees": 127.5,
+              "total_paid": 4250,
+              "type": "booking",
+              "updated_utc": "2025-08-15T16:04:26Z",
+              "allocatedAmount": 2455.555555555555,
+              "totalNights": 45,
+              "monthsSpanned": 2
+            },
+            {
+              "adults": 2,
+              "arrival": "2025-09-01",
+              "booked_utc": "2025-07-09T21:28:55Z",
+              "check_in": "16:00",
+              "check_out": "10:00",
+              "children": 0,
+              "created_utc": "2025-07-09T21:28:54Z",
+              "currency_code": "USD",
+              "departure": "2025-10-31",
+              "form_key": "01f72e6347a84c6597995daacb74e3d5",
+              "guest": {
+                "first_name": "Elizabeth",
+                "id": 617568220,
+                "last_name": "Ruiz"
+              },
+              "guest_id": 617568220,
+              "id": 14358778,
+              "infants": 0,
+              "is_block": false,
+              "listing_site": "Airbnb",
+              "pets": 0,
+              "platform_reservation_number": "HMT3SEKC8F",
+              "property": {
+                "external_name": "The Clearwater Coastal Oasis",
+                "id": 417538,
+                "name": "2403 Brigadoon"
+              },
+              "property_id": 417538,
+              "status": "active",
+              "thread_ids": [
+                8447496
+              ],
+              "total_amount": 6029,
+              "total_host_fees": 180.87,
+              "total_paid": 6029,
+              "type": "booking",
+              "updated_utc": "2025-07-09T21:38:57Z",
+              "allocatedAmount": 200.96666666666667,
+              "totalNights": 60,
+              "monthsSpanned": 3
+            }
+          ],
+          "singleMonthBookings": [],
+          "netRentalIncome": 2244.7612777777777,
+          "averageBookingValue": 1328.261111111111,
+          "averageNightlyRate": 62.50640522875816,
+          "utilizationRate": 100
+        },
+        "expenseDetails": {
+          "totalExpenses": 5603.97,
+          "categoryBreakdown": {
+            "Uncategorized": 935,
+            "Bills & Utilities": 546.47,
+            "Travel & Vacation": 3922.5,
+            "Software & Tech": 200
+          },
+          "transactions": [
+            {
+              "date": "2025-08-04",
+              "amount": 35,
+              "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+              "category": "Uncategorized"
+            },
+            {
+              "date": "2025-08-05",
+              "amount": 187,
+              "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-08-11",
+              "amount": 85.77,
+              "description": "CLEARWATER CITY DES:UTILITY ID:7449635 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-08-14",
+              "amount": 1220.33,
+              "description": "AIRBNB PAYMENTS DES:G6BF5QIJBA ID:G-FMLA2Q3HDB4FX INDN:TROY NOWAK CO ID:XXXXX51428 PPD PMT INFO:RMR*IK*G-FMLA2Q3HDB4FX\\",
+              "category": "Travel & Vacation"
+            },
+            {
+              "date": "2025-08-14",
+              "amount": 2702.17,
+              "description": "AIRBNB PAYMENTS DES:IMBNHQYY5K ID:G-2OHMKRDZPO7CY INDN:TROY NOWAK CO ID:XXXXX51428 PPD PMT INFO:RMR*IK*G-2OHMKRDZPO7CY\\",
+              "category": "Travel & Vacation"
+            },
+            {
+              "date": "2025-08-20",
+              "amount": 74.99,
+              "description": "SPECTRUM DES:SPECTRUM ID:1702538 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-08-22",
+              "amount": 198.71,
+              "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+              "category": "Bills & Utilities"
+            },
+            {
+              "date": "2025-08-25",
+              "amount": 200,
+              "description": "OPENAI DES:OPENAI *CH ID:ST-Z5F5N3Q1O4V8 INDN:LINK CO ID:XXXXX48598 WEB",
+              "category": "Software & Tech"
+            },
+            {
+              "date": "2025-08-26",
+              "amount": 900,
+              "description": "VENMO DES:PAYMENT ID:XXXXX54379655 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+              "category": "Uncategorized"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "analysisDate": "2025-08-30T04:48:31.122Z",
+  "methodology": {
+    "profitFormula": "Net Rental Income - Total Expenses",
+    "incomeGrouping": "⚠️ RECOMMENDED: Proportional splitting for multi-month bookings",
+    "incomeAttributionRule": "Multi-month bookings split by nights in each month",
+    "expensesSource": "2403 brigadoon expenses 2025.csv (if available)",
+    "importantNote": "✅ This provides the most accurate monthly revenue attribution for 30-day minimum stays"
+  }
+}

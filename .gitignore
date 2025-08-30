@@ -98,3 +98,17 @@ Thumbs.db
 shell-output/
 test-results/
 .vercel
+
+# Raw data (unversioned)
+data/raw/
+
+# Local environment backup
+.env.backup
+
+# Analysis notebooks (moved out of repo)
+notebooks/
+
+# Ignore compiled artifacts in mcp directory
+mcp/**/*.js
+mcp/**/*.d.ts
+mcp/**/*.map
