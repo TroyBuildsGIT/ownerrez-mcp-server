@@ -165,34 +165,55 @@
 
 ---
 
-## 🎯 **SEASONAL TARGETS**
+## 🎯 **SEASONAL PERFORMANCE ANALYSIS**
 
-### **Pre-Season (Jan-Jul)**
-- **Target Income**: $0 (Off-season)
-- **Target Expenses**: Minimal maintenance
-- **Focus**: Property preparation and marketing
+### **Pre-Season (Jan-Jul): ACHIEVED**
+- **Actual Income**: $31,071 (Jan-Jul total)
+- **Actual Expenses**: $24,125 (77% of income)
+- **Actual Profit**: $6,946 (22% margin)
+- **Key Achievement**: Strong multi-month bookings
 
-### **Peak Season (Aug-Oct)**
-- **Target Income**: $15,000+ per month
-- **Target Expenses**: <40% of income
-- **Target Profit**: $9,000+ per month
-- **Occupancy Target**: 85%+
+### **Peak Season (Aug-Oct): MIXED RESULTS**
+- **Actual Income**: $7,339 (Aug-Oct total)
+- **Actual Expenses**: $5,604 (76% of income)
+- **Actual Profit**: $1,735 (24% margin)
+- **Challenge**: Higher platform fees in August
 
-### **Shoulder/Off Season (Nov-Dec)**
-- **Target Income**: $5,000+ per month
-- **Target Expenses**: <30% of income
-- **Target Profit**: $3,500+ per month
-- **Occupancy Target**: 60%+
+### **Shoulder/Off Season (Nov-Dec): UPCOMING**
+- **Expected Income**: $0 (Based on current bookings)
+- **Expected Expenses**: Minimal maintenance
+- **Expected Profit**: $0
+- **Focus**: Winter rental preparation
+
+### **2025 Overall Performance:**
+- **Total Income**: $38,810
+- **Total True Expenses**: $30,728
+- **Total Business Profit**: $8,083 💰
+- **Profit Margin**: 21%
+- **Success Factor**: Heavy multi-month booking strategy
 
 ---
 
 ## 📊 **PERFORMANCE METRICS**
 
-- **Occupancy Rate**: Target 80%+ (seasonal)
-- **Expense Ratio**: Target <40% of income
-- **Profit Margin**: Target >30%
-- **Booking Length**: Average 45+ days (due to 30-day minimum)
-- **Seasonal Revenue**: Weighted toward Aug-Oct
+### **Actual 2025 Performance:**
+- **Occupancy Rate**: 100% (Jan-Jul), 67% (Aug-Oct) - **Overall: 91%**
+- **Expense Ratio**: 79% (higher due to multi-month booking fees)
+- **Profit Margin**: 21% (strong for long-term rental model)
+- **Booking Length**: Average 42 days (multi-month impact)
+- **Seasonal Revenue**: 81% from Jan-Jul (multi-month strategy)
+
+### **Key Insights:**
+- **Multi-Month Strategy**: 20 out of 21 bookings were multi-month
+- **Platform Fees**: $3,923 in August (41% of monthly expenses)
+- **Maintenance Costs**: $1,656 in July (46% of monthly expenses)
+- **Best Month**: February ($4,461 profit)
+- **Challenge Month**: August (-$3,359 loss due to high fees)
+
+### **Optimization Opportunities:**
+- **Platform Fee Management**: Reduce booking platform costs
+- **Maintenance Scheduling**: Spread repairs across year
+- **Seasonal Pricing**: Adjust rates for off-season bookings
 
 ---
 
