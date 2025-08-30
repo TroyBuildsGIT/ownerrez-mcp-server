@@ -1,4 +1,4 @@
-import { orFetch } from "./or-client.js";
+import { orFetch } from "./or-client";
 
 export async function search(query: string): Promise<any> {
   let results: any[] = [];
