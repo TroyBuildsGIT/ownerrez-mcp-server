@@ -44,74 +44,101 @@
 ## 💸 **DETAILED MONTHLY EXPENSE BREAKDOWN**
 
 ### **January 2025**
-- **Rental Income**: $0 (Pre-season)
-- **Expenses**: $0
-- **Business Profit**: $0
-- **Personal Income**: $0
+- **Rental Income**: $4,127 (Multi-month booking allocation)
+- **True Business Expenses**: $4,797
+  - **Internal Transfers**: $3,000 (Personal income)
+  - **Loan Payment**: $1,239 (Mortgage)
+  - **Bills & Utilities**: $425 (Electricity, internet, HOA)
+  - **Uncategorized**: $133 (Repairs, supplies)
+- **Business Profit**: -$670
+- **Personal Income**: $3,000
 
 ### **February 2025**
-- **Rental Income**: $0 (Pre-season)
-- **Expenses**: $0
-- **Business Profit**: $0
+- **Rental Income**: $6,219 (Peak multi-month allocation)
+- **True Business Expenses**: $1,759
+  - **Loan Payment**: $1,212 (Mortgage)
+  - **Bills & Utilities**: $513 (Utilities)
+  - **Uncategorized**: $34 (Maintenance)
+- **Business Profit**: $4,461 💰
 - **Personal Income**: $0
 
 ### **March 2025**
-- **Rental Income**: $0 (Pre-season)
-- **Expenses**: $0
-- **Business Profit**: $0
-- **Personal Income**: $0
+- **Rental Income**: $6,510 (Multi-month booking peak)
+- **True Business Expenses**: $8,296
+  - **Internal Transfers**: $5,000 (Personal income)
+  - **Loan Payment**: $2,425 (Mortgage)
+  - **Bills & Utilities**: $463 (Utilities)
+  - **Uncategorized**: $408 (Cleaning, repairs)
+- **Business Profit**: -$1,786
+- **Personal Income**: $5,000
 
 ### **April 2025**
-- **Rental Income**: $0 (Pre-season)
-- **Expenses**: $0
-- **Business Profit**: $0
+- **Rental Income**: $5,993 (Strong multi-month allocation)
+- **True Business Expenses**: $1,704
+  - **Loan Payment**: $1,212 (Mortgage)
+  - **Bills & Utilities**: $456 (Utilities)
+  - **Uncategorized**: $36 (Maintenance)
+- **Business Profit**: $4,289 💰
 - **Personal Income**: $0
 
 ### **May 2025**
-- **Rental Income**: $0 (Pre-season)
-- **Expenses**: $0
-- **Business Profit**: $0
+- **Rental Income**: $3,118 (Moderate allocation)
+- **True Business Expenses**: $1,697
+  - **Uncategorized**: $1,199 (Repairs, cleaning)
+  - **Bills & Utilities**: $498 (Utilities)
+- **Business Profit**: $1,421 💰
 - **Personal Income**: $0
 
 ### **June 2025**
-- **Rental Income**: $0 (Pre-season)
-- **Expenses**: $0
-- **Business Profit**: $0
+- **Rental Income**: $3,359 (Multi-month continuation)
+- **True Business Expenses**: $3,307
+  - **Loan Payment**: $2,425 (Mortgage)
+  - **Bills & Utilities**: $512 (Utilities)
+  - **Uncategorized**: $370 (Maintenance)
+- **Business Profit**: $52 💰
 - **Personal Income**: $0
 
 ### **July 2025**
-- **Rental Income**: $0 (Pre-season)
-- **Expenses**: $0
-- **Business Profit**: $0
+- **Rental Income**: $2,145 (Multi-month wind-down)
+- **True Business Expenses**: $3,564
+  - **Uncategorized**: $1,656 (Repairs, cleaning)
+  - **Loan Payment**: $1,212 (Mortgage)
+  - **Bills & Utilities**: $496 (Utilities)
+  - **Fees**: $200 (Business fees)
+- **Business Profit**: -$1,419
 - **Personal Income**: $0
 
 ### **August 2025**
-- **Rental Income**: $0 (Season begins)
-- **Expenses**: $0
-- **Business Profit**: $0
+- **Rental Income**: $2,245 (Final multi-month allocation)
+- **True Business Expenses**: $5,604
+  - **Travel & Vacation**: $3,923 (Booking platform fees)
+  - **Uncategorized**: $935 (Repairs, supplies)
+  - **Bills & Utilities**: $546 (Utilities)
+  - **Loan Payment**: $200 (Mortgage)
+- **Business Profit**: -$3,359
 - **Personal Income**: $0
 
 ### **September 2025**
-- **Rental Income**: $0 (Peak season)
-- **Expenses**: $0
-- **Business Profit**: $0
+- **Rental Income**: $2,547 (Off-season booking)
+- **True Business Expenses**: $0 (No expenses incurred)
+- **Business Profit**: $2,547 💰
 - **Personal Income**: $0
 
 ### **October 2025**
-- **Rental Income**: $0 (Peak season)
-- **Expenses**: $0
-- **Business Profit**: $0
+- **Rental Income**: $2,547 (Continued off-season)
+- **True Business Expenses**: $0 (No expenses incurred)
+- **Business Profit**: $2,547 💰
 - **Personal Income**: $0
 
 ### **November 2025**
-- **Rental Income**: $0 (Shoulder season)
-- **Expenses**: $0
+- **Rental Income**: $0 (Off-season)
+- **True Business Expenses**: $0
 - **Business Profit**: $0
 - **Personal Income**: $0
 
 ### **December 2025**
 - **Rental Income**: $0 (Off-season)
-- **Expenses**: $0
+- **True Business Expenses**: $0
 - **Business Profit**: $0
 - **Personal Income**: $0
 
