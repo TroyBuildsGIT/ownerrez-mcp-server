@@ -1,0 +1,81 @@
+2299 RICHTER STREET - MONTHLY EXPENSE REPORT
+Month: 2025-05
+Generated: 8/30/2025
+
+CATEGORY SUMMARY:
+================
+Bank Fees: $1.01
+Credit Card Payments: $-5864.39
+Entertainment: $406.95
+Maintenance & Repairs: $697.71
+Miscellaneous: $484.00
+Mortgage: $3974.25
+Supplies & Equipment: $153.19
+Travel & Marketing: $34.98
+Utilities: $667.21
+================
+TOTAL INCOME: $0.00
+TOTAL EXPENSES: $554.91
+NET INCOME: $554.91
+
+DETAILED EXPENSES BY CATEGORY:
+===============================
+
+BANK FEES
+=========
+5/15/2025 - PURCHASE *FINANCE CHARGE*: $1.01
+Category Total: $1.01
+
+CREDIT CARD PAYMENTS
+====================
+5/13/2025 - Online Banking payment to CRD 7171 Confirmation# XXXXX26402: $5864.39
+5/13/2025 - Online payment from CHK 3: $-5864.39
+5/13/2025 - Online payment from CHK 8: $-5864.39
+Category Total: $-5864.39
+
+ENTERTAINMENT
+=============
+5/12/2025 - Netflix: $38.62
+5/25/2025 - YouTube TV: $94.33
+5/27/2025 - WATERS EDGE POOL SERV: $150.00
+5/28/2025 - PROPSTREAM: $124.00
+Category Total: $406.95
+
+MAINTENANCE & REPAIRS
+=====================
+5/1/2025 - Lowe's Home Improvement: $345.93
+5/4/2025 - Lowe's Home Improvement: $171.78
+5/27/2025 - "Zelle Recurring payment to J loves lawn care for 'dunedin lawn'; Conf# cxolie74z": $180.00
+Category Total: $697.71
+
+MISCELLANEOUS
+=============
+5/1/2025 - ANTI-PESTO BUG KILLERS LL: $36.00
+5/4/2025 - OWNERREZ: $98.00
+5/15/2025 - Zelle payment to Ada Busnea Conf# eepshfnje: $350.00
+Category Total: $484.00
+
+MORTGAGE
+========
+5/28/2025 - FREEDOM DES:MTG PYMTS ID:XXXXX09601 INDN:TROY NOWAK CO ID:XXXXX39688 WEB: $3974.25
+Category Total: $3974.25
+
+SUPPLIES & EQUIPMENT
+====================
+5/1/2025 - OPENPHONE: $27.71
+5/11/2025 - Amazon.com*NI11Z1MB0: $52.27
+5/12/2025 - Amazon Tips*NI0CG88F1: $5.00
+5/21/2025 - BJS WHOLESALE #0221: $68.21
+Category Total: $153.19
+
+TRAVEL & MARKETING
+==================
+5/19/2025 - PRICELABSINC*DYNAPRICE: $34.98
+Category Total: $34.98
+
+UTILITIES
+=========
+5/1/2025 - DUKEENERGY DES:BILL PAY ID:XXXXX3141082 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB: $107.37
+5/1/2025 - DUKEENERGY DES:BILL PAY ID:XXXXX3143216 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB: $559.84
+Category Total: $667.21
+

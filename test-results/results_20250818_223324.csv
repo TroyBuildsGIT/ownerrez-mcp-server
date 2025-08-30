@@ -1,0 +1,31 @@
+Test Name,Status,Message
+CLI Installation,PASS,CLI is available locally
+CLI Main Help,FAIL,Main help command failed
+CLI Test Help,PASS,Test command help works
+CLI Config Command,FAIL,Config command failed
+Endpoints Listing,PASS,Endpoints command works
+Endpoints Output,PASS,Endpoints saved to file
+API Connectivity,PASS,Basic connectivity test passed
+bookings Module,PASS,bookings module test completed
+properties Module,PASS,properties module test completed
+guests Module,PASS,guests module test completed
+financial Module,PASS,financial module test completed
+fields Module,PASS,fields module test completed
+tags Module,PASS,tags module test completed
+inquiries Module,PASS,inquiries module test completed
+quotes Module,PASS,quotes module test completed
+messages Module,PASS,messages module test completed
+listings Module,PASS,listings module test completed
+reviews Module,PASS,reviews module test completed
+spotrates Module,PASS,spotrates module test completed
+webhooks Module,PASS,webhooks module test completed
+Comprehensive API Test,PASS,All endpoints test completed
+Comprehensive API Verbose,PASS,Verbose test completed and saved
+bookings Endpoint,FAIL,bookings endpoint test failed
+properties Endpoint,FAIL,properties endpoint test failed
+guest-inquiry-to-booking Workflow,PASS,guest-inquiry-to-booking workflow test completed
+checkin-automation Workflow,PASS,checkin-automation workflow test completed
+pricing-adjustment Workflow,PASS,pricing-adjustment workflow test completed
+All CLI Tests,PASS,All tests completed and saved
+Direct API Properties,SKIP,No API key available
+Test Report,PASS,Report generated: test-results/test_report_20250818_223324.md

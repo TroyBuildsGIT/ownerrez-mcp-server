@@ -1,0 +1,5 @@
+✅ CLI is working!
+Environment loaded: development
+OwnerRez Email: troynowakrealty@gmail.com
+OwnerRez API Base URL: https://app.ownerrez.com
+OAuth Client ID: c_qabhpoibhjncoq523u3ab6htxap90yb2

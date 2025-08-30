@@ -1,0 +1,97 @@
+2299 RICHTER STREET - MONTHLY EXPENSE REPORT
+Month: 2025-01
+Generated: 8/30/2025
+
+CATEGORY SUMMARY:
+================
+Cash Payments: $1146.50
+Entertainment: $279.54
+Maintenance & Repairs: $1208.33
+Meals & Entertainment: $36.44
+Miscellaneous: $1533.00
+Mortgage: $3974.25
+Supplies & Equipment: $77.99
+Transfers: $3000.00
+Transportation: $16.00
+Travel & Marketing: $204.98
+Utilities: $1204.67
+================
+TOTAL INCOME: $0.00
+TOTAL EXPENSES: $12681.70
+NET INCOME: $12681.70
+
+DETAILED EXPENSES BY CATEGORY:
+===============================
+
+CASH PAYMENTS
+=============
+1/21/2025 - "Zelle payment to dias transport services for 'flooring for 2299 richter'; Conf# elhptdkwx": $1146.50
+Category Total: $1146.50
+
+ENTERTAINMENT
+=============
+1/12/2025 - Netflix: $35.21
+1/23/2025 - YouTube TV: $94.33
+1/27/2025 - WATERS EDGE POOL SERV: $150.00
+Category Total: $279.54
+
+MAINTENANCE & REPAIRS
+=====================
+1/13/2025 - "Zelle payment to home improvement outlet for 'flooring for 2299 richter'; Conf# gud5jbqek": $500.00
+1/26/2025 - Lowe's Home Improvement: $42.56
+1/26/2025 - Home Depot: $496.64
+1/26/2025 - Home Depot: $19.13
+1/29/2025 - "Zelle Recurring payment to J loves lawn care for 'dunedin lawn'; Conf# blol610ai": $150.00
+Category Total: $1208.33
+
+MEALS & ENTERTAINMENT
+=====================
+1/26/2025 - BENTOASIANKITCHEN: $16.45
+1/30/2025 - PRICELABSINC*DASHBOARD: $19.99
+Category Total: $36.44
+
+MISCELLANEOUS
+=============
+1/2/2025 - OWNERREZ: $98.00
+1/2/2025 - ANTI-PESTO BUG KILLERS LL: $35.00
+1/5/2025 - "Zelle payment to Ada Busnea for 'cleaning'; Conf# hcd97hzfl": $350.00
+1/9/2025 - Zelle payment to Ada Busnea Conf# gik80t3x7: $350.00
+1/29/2025 - "Zelle payment to Ada Busnea for 'cleaning'; Conf# fuzfi9521": $700.00
+Category Total: $1533.00
+
+MORTGAGE
+========
+1/28/2025 - FREEDOM DES:MTG PYMTS ID:XXXXX09601 INDN:TROY NOWAK CO ID:XXXXX39688 WEB: $3974.25
+Category Total: $3974.25
+
+SUPPLIES & EQUIPMENT
+====================
+1/8/2025 - BJS WHOLESALE #0221: $21.38
+1/16/2025 - Burlington: $56.61
+Category Total: $77.99
+
+TRANSFERS
+=========
+1/2/2025 - Online Banking transfer to CHK 1245 Confirmation# XXXXX63519: $3000.00
+Category Total: $3000.00
+
+TRANSPORTATION
+==============
+1/12/2025 - WAVE PRO: $16.00
+Category Total: $16.00
+
+TRAVEL & MARKETING
+==================
+1/19/2025 - PRICELABSINC*DYNAPRICE: $34.98
+1/23/2025 - NIC*-DEPT BUS & PROF R: $170.00
+Category Total: $204.98
+
+UTILITIES
+=========
+1/1/2025 - DUKEENERGY DES:BILL PAY ID:XXXXX3141082 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB: $88.27
+1/1/2025 - WOW! DES:XXXXX69669 ID:5064750 INDN:TROY *NOWAK CO ID:XXXXX38582 PPD: $105.16
+1/1/2025 - DUKEENERGY DES:BILL PAY ID:XXXXX3143216 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB: $447.13
+1/30/2025 - WOW! DES:XXXXX69669 ID:5908127 INDN:TROY *NOWAK CO ID:XXXXX38582 PPD: $105.16
+1/30/2025 - P C UTILITIES DES:AUTO_PAY ID:XXXXX0024611 INDN:TROY NOWAK CO ID:XXXXX00800 PPD: $458.95
+Category Total: $1204.67
+

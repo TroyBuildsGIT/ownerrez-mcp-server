@@ -1,0 +1,5 @@
+Date,Category,Amount,Description,Name,Account Type
+"2025-01-02","Mortgage","2051.18","US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB","US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB","Cash"
+"2025-01-08","Rental Income","-3150.00","RentSpree Payout DES:RentSpree ID:ST-F1U4D0L4Y2M4 INDN:REDS HOMES LLC CO ID:XXXXX65600 CCD","RentSpree Payout DES:RentSpree ID:ST-F1U4D0L4Y2M4 INDN:REDS HOMES LLC CO ID:XXXXX65600 CCD","Cash"
+"2025-01-10","Miscellaneous","125.00","""Zelle payment to brian bowie for 'repairs'; Conf# dmwhx7y40""","""Zelle payment to brian bowie for 'repairs'; Conf# dmwhx7y40""","Cash"
+"2025-01-10","Miscellaneous","125.00","""Zelle payment to brian bowie for 'storm repair'; Conf# bjcax7rqo""","""Zelle payment to brian bowie for 'storm repair'; Conf# bjcax7rqo""","Cash"

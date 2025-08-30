@@ -1,0 +1,105 @@
+2299 RICHTER STREET - MONTHLY EXPENSE REPORT
+Month: 2025-02
+Generated: 8/30/2025
+
+CATEGORY SUMMARY:
+================
+Bank Fees: $20.16
+Credit Card Payments: $0.00
+Entertainment: $310.21
+Maintenance & Repairs: $552.87
+Meals & Entertainment: $19.99
+Miscellaneous: $1158.09
+Supplies & Equipment: $1058.20
+Taxes & Licenses: $385.25
+Technology: $235.15
+Transfers: $14885.55
+Travel & Marketing: $34.98
+Utilities: $1020.02
+================
+TOTAL INCOME: $0.00
+TOTAL EXPENSES: $19680.47
+NET INCOME: $19680.47
+
+DETAILED EXPENSES BY CATEGORY:
+===============================
+
+BANK FEES
+=========
+2/23/2025 - CASH EQUIVALENT FEE: $12.00
+2/26/2025 - CASH EQUIVALENT FEE: $8.16
+Category Total: $20.16
+
+CREDIT CARD PAYMENTS
+====================
+2/27/2025 - Online Banking payment to CRD 7171 Confirmation# XXXXX38881: $571.80
+2/27/2025 - Online payment from CHK 3: $-571.80
+Category Total: $0.00
+
+ENTERTAINMENT
+=============
+2/11/2025 - Netflix: $35.21
+2/12/2025 - WATERS EDGE POOL SERV: $125.00
+2/26/2025 - WATERS EDGE POOL SERV: $150.00
+Category Total: $310.21
+
+MAINTENANCE & REPAIRS
+=====================
+2/18/2025 - Lowe's Home Improvement: $94.80
+2/19/2025 - Home Depot: $181.83
+2/23/2025 - Lowe's Home Improvement: $96.24
+2/27/2025 - "Zelle Recurring payment to J loves lawn care for 'dunedin lawn'; Conf# iuk54svaw": $180.00
+Category Total: $552.87
+
+MEALS & ENTERTAINMENT
+=====================
+2/3/2025 - PRICELABSINC*DASHBOARD: $19.99
+Category Total: $19.99
+
+MISCELLANEOUS
+=============
+2/2/2025 - OWNERREZ: $75.00
+2/3/2025 - FLA DEPT REVENUE DES:C01 ID:XXXXX3718 INDN:REDS HOMES LLC CO ID:XXXXX01874 CCD: $417.09
+2/3/2025 - ANTI-PESTO BUG KILLERS LL: $35.00
+2/23/2025 - BANK OF AMERICA: $300.00
+2/27/2025 - Zelle payment to john lindsay Conf# iopl78ie4: $331.00
+Category Total: $1158.09
+
+SUPPLIES & EQUIPMENT
+====================
+2/4/2025 - AMAZON MKTPL*Z75WC6GG0: $128.39
+2/10/2025 - AMAZON MKTPL*IL1PV0EP3: $79.68
+2/19/2025 - BJS WHOLESALE #0221: $70.16
+2/19/2025 - Amazon: $427.98
+2/23/2025 - MOJO DIALER: $49.00
+2/23/2025 - MOJO DIALER: $99.00
+2/26/2025 - CK027630: $203.99
+Category Total: $1058.20
+
+TAXES & LICENSES
+================
+2/3/2025 - PMT*PINELLAS COUNTY TAX: $385.25
+Category Total: $385.25
+
+TECHNOLOGY
+==========
+2/9/2025 - GODADDY.COM: $35.16
+2/11/2025 - GODADDY.COM: $199.99
+Category Total: $235.15
+
+TRANSFERS
+=========
+2/6/2025 - Online Banking transfer to CHK 2437 Confirmation# XXXXX88850: $14885.55
+Category Total: $14885.55
+
+TRAVEL & MARKETING
+==================
+2/19/2025 - PRICELABSINC*DYNAPRICE: $34.98
+Category Total: $34.98
+
+UTILITIES
+=========
+2/2/2025 - DUKEENERGY DES:BILL PAY ID:XXXXX3141082 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB: $102.37
+2/2/2025 - DUKEENERGY DES:BILL PAY ID:XXXXX3143216 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB: $917.65
+Category Total: $1020.02
+

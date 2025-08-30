@@ -1,0 +1,6 @@
+Test Name,Status,Message
+CLI Installation,PASS,CLI is globally available
+CLI Main Help,FAIL,Main help command failed
+CLI Test Help,PASS,Test command help works
+CLI Config Command,PASS,Config command works
+Endpoints Listing,PASS,Endpoints command works

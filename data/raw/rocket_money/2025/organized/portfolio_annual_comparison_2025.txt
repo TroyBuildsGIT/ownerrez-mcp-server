@@ -1,0 +1,46 @@
+📊 ANNUAL PROPERTY COMPARISON 2025
+Generated: 8/30/2025
+
+ANNUAL PERFORMANCE BY PROPERTY:
+=================================
+
+2299 RICHTER STREET:
+  Annual Income: $0.00
+  Annual Expenses: $83985.14
+  Annual Net: $83985.14
+  Status: ✅ PROFITABLE
+  Profit Margin: 0.0%
+
+2403 BRIGADOON DRIVE:
+  Annual Income: $0.00
+  Annual Expenses: $13992.59
+  Annual Net: $13992.59
+  Status: ✅ PROFITABLE
+  Profit Margin: 0.0%
+
+10222 66TH AVE:
+  Annual Income: $-22050.00
+  Annual Expenses: $19599.50
+  Annual Net: $-2450.50
+  Status: ⚠️  OPERATING AT LOSS
+  Profit Margin: 11.1%
+
+PORTFOLIO SUMMARY:
+==================
+Total Portfolio Income: $-22050.00
+Total Portfolio Expenses: $117577.23
+Total Portfolio Net: $95527.23
+Portfolio Profit Margin: -433.2%
+
+TOP EXPENSE CATEGORIES (All Properties):
+=========================================
+Mortgage: $57672.71
+Transfers: $27369.27
+Miscellaneous: $23122.41
+Rental Income: $-22050.00
+Travel & Marketing: $-20495.70
+Category Total: $-16868.53
+8/13/2025 - AIRBNB PAYMENTS DES:IMBNHQYY5K ID:G-GOX3IXF4YTSEK INDN:REDS HOMES LLC CO ID:XXXXX51428 PPD PMT INFO:RMR*IK*G- GOX3IXF4YTSEK\: $-15446.62
+2/6/2025 - Online Banking transfer to CHK 2437 Confirmation# XXXXX88850: $14885.55
+Utilities: $13470.40
+4/20/2025 - Online Banking transfer to CHK 2437 Confirmation# XXXXX07812: $10000.00

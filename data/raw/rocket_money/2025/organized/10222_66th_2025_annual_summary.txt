@@ -1,0 +1,79 @@
+10222 66TH AVE - ANNUAL EXPENSE SUMMARY 2025
+Generated: 8/30/2025
+
+2025-01:
+  Mortgage: $2051.18
+  Rental Income: $-3150.00
+  Miscellaneous: $250.00
+  MONTH INCOME: $-3150.00
+  MONTH EXPENSES: $2301.18
+  MONTH NET: $-848.82
+
+2025-02:
+  Mortgage: $2051.18
+  Transfers: $2561.07
+  Rental Income: $-3150.00
+  MONTH INCOME: $-3150.00
+  MONTH EXPENSES: $4612.25
+  MONTH NET: $1462.25
+
+2025-03:
+  Bank Fees: $16.00
+  Mortgage: $4016.96
+  Rental Income: $-3150.00
+  Miscellaneous: $629.00
+  MONTH INCOME: $-3150.00
+  MONTH EXPENSES: $4661.96
+  MONTH NET: $1511.96
+
+2025-04:
+  Rental Income: $-3150.00
+  Mortgage: $2008.48
+  MONTH INCOME: $-3150.00
+  MONTH EXPENSES: $2008.48
+  MONTH NET: $-1141.52
+
+2025-05:
+  Maintenance & Repairs: $398.00
+  Rental Income: $-3150.00
+  MONTH INCOME: $-3150.00
+  MONTH EXPENSES: $398.00
+  MONTH NET: $-2752.00
+
+2025-06:
+  Mortgage: $4016.96
+  Rental Income: $-3150.00
+  MONTH INCOME: $-3150.00
+  MONTH EXPENSES: $4016.96
+  MONTH NET: $866.96
+
+2025-07:
+  Rental Income: $-3150.00
+  Mortgage: $2008.48
+  MONTH INCOME: $-3150.00
+  MONTH EXPENSES: $2008.48
+  MONTH NET: $-1141.52
+
+2025-08:
+  Miscellaneous: $12900.00
+  Supplies & Equipment: $642.22
+  Transfers: $-14000.00
+  Credit Card Payments: $49.97
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $-407.81
+  MONTH NET: $-407.81
+
+ANNUAL TOTALS BY CATEGORY:
+==========================
+Mortgage: $16153.24
+Miscellaneous: $13779.00
+Supplies & Equipment: $642.22
+Maintenance & Repairs: $398.00
+Credit Card Payments: $49.97
+Bank Fees: $16.00
+Transfers: $-11438.93
+Rental Income: $-22050.00
+==========================
+ANNUAL INCOME: $-22050.00
+ANNUAL EXPENSES: $19599.50
+ANNUAL NET INCOME: $-2450.50

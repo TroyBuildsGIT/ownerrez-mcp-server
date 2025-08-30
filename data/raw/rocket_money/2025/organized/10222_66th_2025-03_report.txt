@@ -1,0 +1,39 @@
+10222 66TH AVE - MONTHLY EXPENSE REPORT
+Month: 2025-03
+Generated: 8/30/2025
+
+CATEGORY SUMMARY:
+================
+Bank Fees: $16.00
+Miscellaneous: $629.00
+Mortgage: $4016.96
+Rental Income: $-3150.00
+================
+TOTAL INCOME: $-3150.00
+TOTAL EXPENSES: $4661.96
+NET INCOME: $1511.96
+
+DETAILED EXPENSES BY CATEGORY:
+===============================
+
+BANK FEES
+=========
+3/2/2025 - Monthly Fee Business Adv Fundamentals: $16.00
+Category Total: $16.00
+
+MISCELLANEOUS
+=============
+3/17/2025 - "Zelle payment to same day repair inc for 'ac repair'; Conf# gza711ryc": $629.00
+Category Total: $629.00
+
+MORTGAGE
+========
+3/2/2025 - US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB: $2008.48
+3/31/2025 - US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB: $2008.48
+Category Total: $4016.96
+
+RENTAL INCOME
+=============
+3/10/2025 - RentSpree Payout DES:RentSpree ID:ST-R8K9F3Q8P2Q3 INDN:REDS HOMES LLC CO ID:XXXXX65600 CCD: $-3150.00
+Category Total: $-3150.00
+

@@ -1,0 +1,2 @@
+✅ CLI is working!
+Environment loaded: development

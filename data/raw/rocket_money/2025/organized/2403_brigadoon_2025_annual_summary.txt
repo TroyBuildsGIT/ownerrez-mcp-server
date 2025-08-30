@@ -1,0 +1,89 @@
+2403 BRIGADOON DRIVE - ANNUAL EXPENSE SUMMARY 2025
+Generated: 8/30/2025
+
+2025-01:
+  Mortgage: $1239.23
+  Miscellaneous: $133.00
+  Transfers: $-3000.00
+  Utilities: $425.05
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $-1202.72
+  MONTH NET: $-1202.72
+
+2025-02:
+  Mortgage: $1212.32
+  Miscellaneous: $33.00
+  Utilities: $513.26
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $1758.58
+  MONTH NET: $1758.58
+
+2025-03:
+  Bank Fees: $16.00
+  Mortgage: $2424.64
+  Miscellaneous: $363.00
+  Utilities: $462.69
+  Transfers: $5030.00
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $8296.33
+  MONTH NET: $8296.33
+
+2025-04:
+  Miscellaneous: $35.00
+  Utilities: $456.32
+  Mortgage: $1212.32
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $1703.64
+  MONTH NET: $1703.64
+
+2025-05:
+  45: $0.00
+  Miscellaneous: $-479.07
+  Utilities: $498.21
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $19.14
+  MONTH NET: $19.14
+
+2025-06:
+  Miscellaneous: $-100.00
+  Mortgage: $2424.64
+  Utilities: $511.92
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $2836.56
+  MONTH NET: $2836.56
+
+2025-07:
+  20: $0.00
+  Miscellaneous: $914.00
+  Utilities: $495.77
+  Technology: $200.00
+  Mortgage: $1212.32
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $2822.09
+  MONTH NET: $2822.09
+
+2025-08:
+  20: $0.00
+  Miscellaneous: $935.00
+  Utilities: $546.47
+  Travel & Marketing: $-3922.50
+  Technology: $200.00
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $-2241.03
+  MONTH NET: $-2241.03
+
+ANNUAL TOTALS BY CATEGORY:
+==========================
+Mortgage: $9725.47
+Utilities: $3909.69
+Transfers: $2030.00
+Miscellaneous: $1833.93
+Technology: $400.00
+Bank Fees: $16.00
+20: $0.00
+45: $0.00
+Travel & Marketing: $-3922.50
+==========================
+ANNUAL INCOME: $0.00
+ANNUAL EXPENSES: $13992.59
+ANNUAL NET INCOME: $13992.59

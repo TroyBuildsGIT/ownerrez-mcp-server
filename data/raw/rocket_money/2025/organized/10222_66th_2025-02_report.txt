@@ -1,0 +1,32 @@
+10222 66TH AVE - MONTHLY EXPENSE REPORT
+Month: 2025-02
+Generated: 8/30/2025
+
+CATEGORY SUMMARY:
+================
+Mortgage: $2051.18
+Rental Income: $-3150.00
+Transfers: $2561.07
+================
+TOTAL INCOME: $-3150.00
+TOTAL EXPENSES: $4612.25
+NET INCOME: $1462.25
+
+DETAILED EXPENSES BY CATEGORY:
+===============================
+
+MORTGAGE
+========
+2/2/2025 - US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB: $2051.18
+Category Total: $2051.18
+
+RENTAL INCOME
+=============
+2/9/2025 - RentSpree Payout DES:RentSpree ID:ST-Q7P9P6P7O0O9 INDN:REDS HOMES LLC CO ID:XXXXX65600 CCD: $-3150.00
+Category Total: $-3150.00
+
+TRANSFERS
+=========
+2/6/2025 - Online Banking transfer to CHK 2437 Confirmation# XXXXX09068: $2561.07
+Category Total: $2561.07
+

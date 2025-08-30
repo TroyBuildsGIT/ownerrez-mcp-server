@@ -1,0 +1,114 @@
+📈 MONTHLY TRENDS ANALYSIS
+Generated: 8/30/2025
+
+MONTHLY NET INCOME TREND:
+==========================
+
+2025-01:
+  2299 Richter Street: $12681.70
+  2403 Brigadoon Drive: $-1202.72
+  10222 66th Ave: $-848.82
+  MONTH TOTAL: $10630.16
+  Status: ✅ PROFITABLE
+
+2025-02:
+  2299 Richter Street: $19680.47
+  2403 Brigadoon Drive: $1758.58
+  10222 66th Ave: $1462.25
+  MONTH TOTAL: $22901.30
+  Status: ✅ PROFITABLE
+
+2025-03:
+  2299 Richter Street: $10806.62
+  2403 Brigadoon Drive: $8296.33
+  10222 66th Ave: $1511.96
+  MONTH TOTAL: $20614.91
+  Status: ✅ PROFITABLE
+
+2025-04:
+  2299 Richter Street: $23286.40
+  2403 Brigadoon Drive: $1703.64
+  10222 66th Ave: $-1141.52
+  MONTH TOTAL: $23848.52
+  Status: ✅ PROFITABLE
+
+2025-05:
+  2299 Richter Street: $554.91
+  2403 Brigadoon Drive: $19.14
+  10222 66th Ave: $-2752.00
+  MONTH TOTAL: $-2177.95
+  Status: ⚠️  LOSS
+
+2025-06:
+  2299 Richter Street: $7187.23
+  2403 Brigadoon Drive: $2836.56
+  10222 66th Ave: $866.96
+  MONTH TOTAL: $10890.75
+  Status: ✅ PROFITABLE
+
+2025-07:
+  2299 Richter Street: $5962.59
+  2403 Brigadoon Drive: $2822.09
+  10222 66th Ave: $-1141.52
+  MONTH TOTAL: $7643.16
+  Status: ✅ PROFITABLE
+
+2025-08:
+  2299 Richter Street: $3825.22
+  2403 Brigadoon Drive: $-2241.03
+  10222 66th Ave: $-407.81
+  MONTH TOTAL: $1176.38
+  Status: ✅ PROFITABLE
+
+
+MONTHLY EXPENSE TRENDS:
+========================
+
+2025-01:
+  2299 Richter Street: $12681.70
+  2403 Brigadoon Drive: $-1202.72
+  10222 66th Ave: $2301.18
+  MONTH TOTAL: $13780.16
+
+2025-02:
+  2299 Richter Street: $19680.47
+  2403 Brigadoon Drive: $1758.58
+  10222 66th Ave: $4612.25
+  MONTH TOTAL: $26051.30
+
+2025-03:
+  2299 Richter Street: $10806.62
+  2403 Brigadoon Drive: $8296.33
+  10222 66th Ave: $4661.96
+  MONTH TOTAL: $23764.91
+
+2025-04:
+  2299 Richter Street: $23286.40
+  2403 Brigadoon Drive: $1703.64
+  10222 66th Ave: $2008.48
+  MONTH TOTAL: $26998.52
+
+2025-05:
+  2299 Richter Street: $554.91
+  2403 Brigadoon Drive: $19.14
+  10222 66th Ave: $398.00
+  MONTH TOTAL: $972.05
+
+2025-06:
+  2299 Richter Street: $7187.23
+  2403 Brigadoon Drive: $2836.56
+  10222 66th Ave: $4016.96
+  MONTH TOTAL: $14040.75
+
+2025-07:
+  2299 Richter Street: $5962.59
+  2403 Brigadoon Drive: $2822.09
+  10222 66th Ave: $2008.48
+  MONTH TOTAL: $10793.16
+
+2025-08:
+  2299 Richter Street: $3825.22
+  2403 Brigadoon Drive: $-2241.03
+  10222 66th Ave: $-407.81
+  MONTH TOTAL: $1176.38
+

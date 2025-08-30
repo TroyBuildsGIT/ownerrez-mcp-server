@@ -1,0 +1,33 @@
+10222 66TH AVE - MONTHLY EXPENSE REPORT
+Month: 2025-01
+Generated: 8/30/2025
+
+CATEGORY SUMMARY:
+================
+Miscellaneous: $250.00
+Mortgage: $2051.18
+Rental Income: $-3150.00
+================
+TOTAL INCOME: $-3150.00
+TOTAL EXPENSES: $2301.18
+NET INCOME: $-848.82
+
+DETAILED EXPENSES BY CATEGORY:
+===============================
+
+MISCELLANEOUS
+=============
+1/9/2025 - "Zelle payment to brian bowie for 'repairs'; Conf# dmwhx7y40": $125.00
+1/9/2025 - "Zelle payment to brian bowie for 'storm repair'; Conf# bjcax7rqo": $125.00
+Category Total: $250.00
+
+MORTGAGE
+========
+1/1/2025 - US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB: $2051.18
+Category Total: $2051.18
+
+RENTAL INCOME
+=============
+1/7/2025 - RentSpree Payout DES:RentSpree ID:ST-F1U4D0L4Y2M4 INDN:REDS HOMES LLC CO ID:XXXXX65600 CCD: $-3150.00
+Category Total: $-3150.00
+

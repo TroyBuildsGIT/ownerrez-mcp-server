@@ -1,0 +1,66 @@
+2299 RICHTER STREET - MONTHLY EXPENSE REPORT
+Month: 2025-07
+Generated: 8/30/2025
+
+CATEGORY SUMMARY:
+================
+Business: $102.66
+Entertainment: $406.95
+Miscellaneous: $441.00
+Mortgage: $3974.25
+Supplies & Equipment: $48.08
+Travel & Marketing: $34.98
+Utilities: $954.67
+================
+TOTAL INCOME: $0.00
+TOTAL EXPENSES: $5962.59
+NET INCOME: $5962.59
+
+DETAILED EXPENSES BY CATEGORY:
+===============================
+
+BUSINESS
+========
+7/1/2025 - OPENPHONE: $27.66
+7/2/2025 - OWNERREZ: $75.00
+Category Total: $102.66
+
+ENTERTAINMENT
+=============
+7/13/2025 - Netflix: $38.62
+7/22/2025 - Google YouTube TV: $94.33
+7/27/2025 - WATERS EDGE POOL SERV: $150.00
+7/28/2025 - PROPSTREAM: $124.00
+Category Total: $406.95
+
+MISCELLANEOUS
+=============
+7/1/2025 - ANTI-PESTO BUG KILLERS LL: $36.00
+7/27/2025 - "Zelle Recurring payment to J loves lawn care for 'dunedin lawn'; Conf# gd2xkcgg0": $180.00
+7/30/2025 - "Zelle payment to josh oconnor for 'Home repair'; Conf# bzl2g5nl3": $225.00
+Category Total: $441.00
+
+MORTGAGE
+========
+7/28/2025 - FREEDOM DES:MTG PYMTS ID:XXXXX09601 INDN:TROY NOWAK CO ID:XXXXX39688 WEB: $3974.25
+Category Total: $3974.25
+
+SUPPLIES & EQUIPMENT
+====================
+7/24/2025 - Amazon.com*VH7F30ND3: $33.16
+7/24/2025 - Amazon.com*JX9S32CP3: $14.92
+Category Total: $48.08
+
+TRAVEL & MARKETING
+==================
+7/20/2025 - PRICELABSINC*DYNAPRICE: $34.98
+Category Total: $34.98
+
+UTILITIES
+=========
+7/1/2025 - WOW! DES:XXXXX69669 ID:2726052 INDN:TROY *NOWAK CO ID:XXXXX38582 PPD: $110.16
+7/1/2025 - DUKEENERGY DES:BILL PAY ID:XXXXX3141082 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB: $163.34
+7/1/2025 - DUKEENERGY DES:BILL PAY ID:XXXXX3143216 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB: $571.01
+7/30/2025 - WOW! DES:XXXXX69669 ID:3969816 INDN:TROY *NOWAK CO ID:XXXXX38582 PPD: $110.16
+Category Total: $954.67
+

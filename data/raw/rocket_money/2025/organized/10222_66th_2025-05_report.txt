@@ -1,0 +1,26 @@
+10222 66TH AVE - MONTHLY EXPENSE REPORT
+Month: 2025-05
+Generated: 8/30/2025
+
+CATEGORY SUMMARY:
+================
+Maintenance & Repairs: $398.00
+Rental Income: $-3150.00
+================
+TOTAL INCOME: $-3150.00
+TOTAL EXPENSES: $398.00
+NET INCOME: $-2752.00
+
+DETAILED EXPENSES BY CATEGORY:
+===============================
+
+MAINTENANCE & REPAIRS
+=====================
+5/4/2025 - ARADIANTPROPERTY DES:WEBPAYMENT ID: INDN:NOWAK CO ID:XXXXX93141 WEB: $398.00
+Category Total: $398.00
+
+RENTAL INCOME
+=============
+5/11/2025 - RentSpree Payout DES:RentSpree ID:ST-X4A3B7U4V0S0 INDN:REDS HOMES LLC CO ID:XXXXX65600 CCD: $-3150.00
+Category Total: $-3150.00
+

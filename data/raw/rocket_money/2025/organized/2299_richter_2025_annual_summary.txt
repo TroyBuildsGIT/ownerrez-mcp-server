@@ -1,0 +1,144 @@
+2299 RICHTER STREET - ANNUAL EXPENSE SUMMARY 2025
+Generated: 8/30/2025
+
+2025-01:
+  Utilities: $1204.67
+  Miscellaneous: $1533.00
+  Transfers: $3000.00
+  Supplies & Equipment: $77.99
+  Transportation: $16.00
+  Entertainment: $279.54
+  Maintenance & Repairs: $1208.33
+  Travel & Marketing: $204.98
+  Cash Payments: $1146.50
+  Meals & Entertainment: $36.44
+  Mortgage: $3974.25
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $12681.70
+  MONTH NET: $12681.70
+
+2025-02:
+  Utilities: $1020.02
+  Miscellaneous: $1158.09
+  Meals & Entertainment: $19.99
+  Taxes & Licenses: $385.25
+  Supplies & Equipment: $1058.20
+  Transfers: $14885.55
+  Technology: $235.15
+  Entertainment: $310.21
+  Maintenance & Repairs: $552.87
+  Travel & Marketing: $34.98
+  Bank Fees: $20.16
+  Credit Card Payments: $0.00
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $19680.47
+  MONTH NET: $19680.47
+
+2025-03:
+  Utilities: $1253.98
+  Mortgage: $7948.50
+  Miscellaneous: $748.75
+  Entertainment: $451.55
+  Supplies & Equipment: $152.56
+  Bank Fees: $0.33
+  Meals & Entertainment: $35.97
+  Travel & Marketing: $34.98
+  Maintenance & Repairs: $180.00
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $10806.62
+  MONTH NET: $10806.62
+
+2025-04:
+  Utilities: $1124.97
+  Miscellaneous: $2152.64
+  Supplies & Equipment: $624.68
+  Technology: $107.34
+  Meals & Entertainment: $3641.31
+  Entertainment: $384.95
+  Taxes & Licenses: $995.77
+  Bank Fees: $65.51
+  Credit Card Payments: $0.00
+  Transfers: $10000.00
+  Travel & Marketing: $34.98
+  Maintenance & Repairs: $180.00
+  Mortgage: $3974.25
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $23286.40
+  MONTH NET: $23286.40
+
+2025-05:
+  Utilities: $667.21
+  Maintenance & Repairs: $697.71
+  Miscellaneous: $484.00
+  Supplies & Equipment: $153.19
+  Entertainment: $406.95
+  Credit Card Payments: $-5864.39
+  Bank Fees: $1.01
+  Travel & Marketing: $34.98
+  Mortgage: $3974.25
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $554.91
+  MONTH NET: $554.91
+
+2025-06:
+  Meals & Entertainment: $169.87
+  Supplies & Equipment: $612.98
+  Utilities: $974.36
+  Miscellaneous: $111.00
+  Entertainment: $406.95
+  Maintenance & Repairs: $827.84
+  Transportation: $75.00
+  Travel & Marketing: $34.98
+  Mortgage: $3974.25
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $7187.23
+  MONTH NET: $7187.23
+
+2025-07:
+  Miscellaneous: $441.00
+  Utilities: $954.67
+  Business: $102.66
+  Entertainment: $406.95
+  Travel & Marketing: $34.98
+  Supplies & Equipment: $48.08
+  Mortgage: $3974.25
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $5962.59
+  MONTH NET: $5962.59
+
+2025-08:
+  Miscellaneous: $881.00
+  Supplies & Equipment: $881.57
+  Utilities: $2360.83
+  Entertainment: $282.95
+  Travel & Marketing: $-16988.06
+  Cash Payments: $2504.76
+  Maintenance & Repairs: $1035.27
+  Transfers: $8892.65
+  Mortgage: $3974.25
+  MONTH INCOME: $0.00
+  MONTH EXPENSES: $3825.22
+  MONTH NET: $3825.22
+
+ANNUAL TOTALS BY CATEGORY:
+==========================
+Transfers: $36778.20
+Mortgage: $31794.00
+Utilities: $9560.71
+Miscellaneous: $7509.48
+Maintenance & Repairs: $4682.02
+Meals & Entertainment: $3903.58
+Cash Payments: $3651.26
+Supplies & Equipment: $3609.25
+Entertainment: $2930.05
+Taxes & Licenses: $1381.02
+Technology: $342.49
+Business: $102.66
+Transportation: $91.00
+Bank Fees: $87.01
+Credit Card Payments: $-5864.39
+Travel & Marketing: $-16573.20
+==========================
+ANNUAL INCOME: $0.00
+ANNUAL EXPENSES: $83985.14
+ANNUAL NET INCOME: $83985.14

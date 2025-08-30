@@ -1,0 +1,15 @@
+Test Name,Status,Message
+CLI Installation,PASS,CLI is available locally
+CLI Main Help,FAIL,Main help command failed
+CLI Test Help,PASS,Test command help works
+CLI Config Command,FAIL,Config command failed
+Endpoints Listing,PASS,Endpoints command works
+Endpoints Output,PASS,Endpoints saved to file
+API Connectivity,PASS,Basic connectivity test passed
+bookings Module,PASS,bookings module test completed
+properties Module,PASS,properties module test completed
+guests Module,PASS,guests module test completed
+financial Module,PASS,financial module test completed
+fields Module,PASS,fields module test completed
+tags Module,PASS,tags module test completed
+inquiries Module,PASS,inquiries module test completed

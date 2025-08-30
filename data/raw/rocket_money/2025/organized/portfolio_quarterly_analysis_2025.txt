@@ -1,0 +1,84 @@
+🏢 MULTI-PROPERTY QUARTERLY ANALYSIS 2025
+Generated: 8/30/2025
+
+Q1 2025
+============
+
+2299 Richter Street:
+  Income: $0.00
+  Expenses: $43168.79
+  Net: $43168.79
+
+2403 Brigadoon Drive:
+  Income: $0.00
+  Expenses: $8852.19
+  Net: $8852.19
+
+10222 66th Ave:
+  Income: $-9450.00
+  Expenses: $11575.39
+  Net: $2125.39
+
+QUARTER TOTALS:
+  Total Income: $-9450.00
+  Total Expenses: $63596.37
+  Total Net: $54146.37
+
+TREND ANALYSIS:
+  ✅ PROFITABLE QUARTER (+$54146.37)
+  🚨 EXPENSES EXCEED INCOME BY $73046.37
+
+Q2 2025
+============
+
+2299 Richter Street:
+  Income: $0.00
+  Expenses: $31028.54
+  Net: $31028.54
+
+2403 Brigadoon Drive:
+  Income: $0.00
+  Expenses: $4559.34
+  Net: $4559.34
+
+10222 66th Ave:
+  Income: $-9450.00
+  Expenses: $6423.44
+  Net: $-3026.56
+
+QUARTER TOTALS:
+  Total Income: $-9450.00
+  Total Expenses: $42011.32
+  Total Net: $32561.32
+
+TREND ANALYSIS:
+  ✅ PROFITABLE QUARTER (+$32561.32)
+  🚨 EXPENSES EXCEED INCOME BY $51461.32
+
+Q3 2025
+============
+
+2299 Richter Street:
+  Income: $0.00
+  Expenses: $9787.81
+  Net: $9787.81
+
+2403 Brigadoon Drive:
+  Income: $0.00
+  Expenses: $581.06
+  Net: $581.06
+
+10222 66th Ave:
+  Income: $-3150.00
+  Expenses: $1600.67
+  Net: $-1549.33
+
+QUARTER TOTALS:
+  Total Income: $-3150.00
+  Total Expenses: $11969.54
+  Total Net: $8819.54
+
+TREND ANALYSIS:
+  ✅ PROFITABLE QUARTER (+$8819.54)
+  🚨 EXPENSES EXCEED INCOME BY $15119.54
+
