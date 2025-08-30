@@ -1,0 +1,269 @@
+{
+  "property": "2299 Richter",
+  "totalRemoved": 39377.23999999999,
+  "transactions": [
+    {
+      "type": "One-Time Expense",
+      "date": "2025-01-03",
+      "amount": 3000,
+      "description": "Online Banking transfer to CHK 1245 Confirmation# XXXXX63519",
+      "category": "Internal Transfers",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-01-27",
+      "amount": 16.45,
+      "description": "BENTOASIANKITCHEN",
+      "category": "Dining & Drinks",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-02-07",
+      "amount": 14885.55,
+      "description": "Online Banking transfer to CHK 2437 Confirmation# XXXXX88850",
+      "category": "Internal Transfers",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-02-24",
+      "amount": 49,
+      "description": "MOJO DIALER",
+      "category": "Shopping",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-02-24",
+      "amount": 99,
+      "description": "MOJO DIALER",
+      "category": "Shopping",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-02-28",
+      "amount": 331,
+      "description": "Zelle payment to john lindsay Conf# iopl78ie4",
+      "category": "Uncategorized",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-03-03",
+      "amount": 1.3,
+      "description": "PROPSTREAM",
+      "category": "Entertainment & Rec.",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-03-04",
+      "amount": 165,
+      "description": "PROPSTREAM",
+      "category": "Entertainment & Rec.",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-03-04",
+      "amount": 0.1,
+      "description": "PROPSTREAM",
+      "category": "Entertainment & Rec.",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-03-04",
+      "amount": 2.2,
+      "description": "PROPSTREAM",
+      "category": "Entertainment & Rec.",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-03-04",
+      "amount": 10,
+      "description": "MOJO DIALER",
+      "category": "Shopping",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-04-02",
+      "amount": 20.52,
+      "description": "OPENPHONE",
+      "category": "Shopping",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-04-15",
+      "amount": 4,
+      "description": "OPENPHONE",
+      "category": "Dining & Drinks",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-04-16",
+      "amount": 15,
+      "description": "OPENPHONE",
+      "category": "Dining & Drinks",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-04-17",
+      "amount": 19,
+      "description": "OPENPHONE",
+      "category": "Dining & Drinks",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-04-21",
+      "amount": 10000,
+      "description": "Online Banking transfer to CHK 2437 Confirmation# XXXXX07812",
+      "category": "Internal Transfers",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-04-21",
+      "amount": 9.53,
+      "description": "CHICK-FIL-A #01740",
+      "category": "Dining & Drinks",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-04-22",
+      "amount": 19,
+      "description": "OPENPHONE",
+      "category": "Dining & Drinks",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-04-25",
+      "amount": 1.82,
+      "description": "OPENPHONE",
+      "category": "Dining & Drinks",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-04-28",
+      "amount": 17,
+      "description": "CHRIS' BEACHSIDE BAR",
+      "category": "Dining & Drinks",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-05-01",
+      "amount": 1.8,
+      "description": "PROPSTREAM",
+      "category": "Entertainment & Rec.",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-05-01",
+      "amount": 25.2,
+      "description": "PROPSTREAM",
+      "category": "Entertainment & Rec.",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-05-02",
+      "amount": 27.71,
+      "description": "OPENPHONE",
+      "category": "Shopping",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-05-29",
+      "amount": 124,
+      "description": "PROPSTREAM",
+      "category": "Entertainment & Rec.",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-06-02",
+      "amount": 27.66,
+      "description": "OPENPHONE",
+      "category": "Shopping",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-06-19",
+      "amount": 75,
+      "description": "BJ S FUEL #9221",
+      "category": "Auto & Transport",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-06-23",
+      "amount": 135.55,
+      "description": "EURO FOOD AND DELI 2",
+      "category": "Dining & Drinks",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-06-30",
+      "amount": 124,
+      "description": "PROPSTREAM",
+      "category": "Entertainment & Rec.",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-07-02",
+      "amount": 27.66,
+      "description": "OPENPHONE",
+      "category": "Business",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-07-29",
+      "amount": 124,
+      "description": "PROPSTREAM",
+      "category": "Entertainment & Rec.",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-08-04",
+      "amount": 19.19,
+      "description": "OPENPHONE",
+      "category": "Shopping",
+      "reason": "Non-business expense"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-08-22",
+      "amount": 10000,
+      "description": "Online Banking transfer to CHK 2437 Confirmation# XXXXX72962",
+      "category": "Internal Transfers",
+      "reason": "Non-business expense"
+    }
+  ],
+  "summary": {
+    "businessServices": 1239,
+    "foodExpenses": 254,
+    "personalTransfers": 37886,
+    "total": 39377.23999999999
+  },
+  "dateRemoved": "2025-08-30T05:09:46.611Z"
+}

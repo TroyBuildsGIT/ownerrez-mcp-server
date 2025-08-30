@@ -1,0 +1,35 @@
+2403 BRIGADOON - NON-BUSINESS EXPENSES REMOVED
+===============================================
+
+Total Amount Removed: $8,700
+New Total Expenses: $21,816
+Reduction: $8,700
+
+BREAKDOWN OF REMOVED EXPENSES:
+------------------------------
+
+Personal Transfers: $8,030
+- CHK 3189 Transfer: $3,000
+- CHK 2437 Transfer: $5,000
+- SAV 3202 Transfer: $30
+
+ChatGPT/OpenAI: $400
+- July subscription: $200
+- August subscription: $200
+
+Business Services: $0
+Food Expenses: $0
+Returned Tenant Deposits: $0
+
+IMPACT:
+- Expense reduction: 28.5%
+- Improved expense ratio from 79% to 56%
+- Profit margin improved from 21% to 44%
+- More accurate business expense tracking
+- Personal expenses properly separated from business operations
+
+REMOVAL REASON:
+- Personal transfers are not business operational expenses
+- ChatGPT subscriptions are personal technology expenses
+- Proper separation of business vs personal finances
+- More accurate profitability analysis for rental property

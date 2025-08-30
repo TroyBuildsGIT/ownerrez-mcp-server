@@ -1,0 +1,28 @@
+10222 66TH AVENUE - NON-BUSINESS EXPENSES REMOVED
+=================================================
+
+Total Amount Removed: $6,300
+New Total Expenses: $41,379
+Reduction: $6,300
+
+BREAKDOWN OF REMOVED EXPENSES:
+------------------------------
+
+Returned Tenant Deposits: $6,300
+- Amanda Rettenmaier Deposit Release 1: $3,150
+- Amanda Rettenmaier Deposit Release 2: $3,150
+
+Business Services: $0
+Food Expenses: $0
+Personal Transfers: $0
+
+IMPACT:
+- Expense reduction: 13.2%
+- Improved expense ratio and profit margins
+- More accurate business expense tracking
+- Tenant deposits properly excluded from business operations
+
+REMOVAL REASON:
+- Returned tenant deposits are not business expenses
+- They represent refunded security deposits, not operational costs
+- Proper accounting treatment for rental property management

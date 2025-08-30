@@ -11,20 +11,20 @@
 
 ## 💰 **MONTHLY PROFIT SUMMARY**
 
-| Month | Rental Income | True Business Expenses | Business Profit | Personal Income | Notes |
-|-------|---------------|------------------------|-----------------|-----------------|--------|
-| **January** | $3,150 | $2,551 | **$599** 💰 | $0 | Stable long-term rental |
-| **February** | $3,150 | $4,612 | **-$1,462** ⚠️ | $0 | Higher utility costs |
-| **March** | $3,150 | $5,291 | **-$2,141** ⚠️ | $0 | AC repair expenses |
-| **April** | $3,150 | $2,009 | **$1,141** 💰 | $0 | Mortgage + utilities |
-| **May** | $3,150 | $398 | **$2,752** 💰 | $0 | Minimal expenses |
-| **June** | $3,150 | $4,017 | **-$867** ⚠️ | $0 | Higher electricity |
-| **July** | $3,150 | $2,009 | **$1,141** 💰 | $0 | Standard month |
-| **August** | $14,000 | $26,792 | **-$12,792** ⚠️ | $0 | Tenant turnover + transition |
-| **September** | $0 | $0 | **$0** | $0 | Short-term rentals begin |
-| **October** | $0 | $0 | **$0** | $0 | |
-| **November** | $0 | $0 | **$0** | $0 | |
-| **December** | $0 | $0 | **$0** | $0 | |
+| Month | Rental Income | Total Expenses | Recurring Expenses | One-Time Expenses | Business Profit | Personal Income | Notes |
+|-------|---------------|----------------|-------------------|-------------------|-----------------|-----------------|--------|
+| **January** | $3,150 | $2,551 | $2,051 (80%) | $500 (20%) | **$599** 💰 | $0 | Stable long-term rental |
+| **February** | $3,150 | $4,612 | $2,051 (44%) | $2,561 (56%) | **-$1,462** ⚠️ | $0 | Higher one-time costs |
+| **March** | $3,150 | $5,291 | $4,033 (76%) | $1,258 (24%) | **-$2,141** ⚠️ | $0 | Mixed expenses |
+| **April** | $3,150 | $2,009 | $2,009 (100%) | $0 (0%) | **$1,141** 💰 | $0 | All recurring |
+| **May** | $3,150 | $398 | $0 (0%) | $398 (100%) | **$2,752** 💰 | $0 | One-time maintenance |
+| **June** | $3,150 | $4,017 | $4,017 (100%) | $0 (0%) | **-$867** ⚠️ | $0 | All recurring |
+| **July** | $3,150 | $2,009 | $2,009 (100%) | $0 (0%) | **$1,141** 💰 | $0 | All recurring |
+| **August** | $14,000 | $20,492 | $642 (3%) | $19,850 (97%) | **-$6,492** ⚠️ | $0 | High one-time turnover costs |
+| **September** | $0 | $0 | $0 (0%) | $0 (0%) | **$0** | $0 | Short-term rentals begin |
+| **October** | $0 | $0 | $0 (0%) | $0 (0%) | **$0** | $0 | |
+| **November** | $0 | $0 | $0 (0%) | $0 (0%) | **$0** | $0 | |
+| **December** | $0 | $0 | $0 (0%) | $0 (0%) | **$0** | $0 | |
 
 ---
 
@@ -33,10 +33,12 @@
 | Metric | Amount | Notes |
 |--------|--------|-------|
 | **Total Rental Income** | $36,050 | Includes transition payment |
-| **Total True Business Expenses** | $47,679 | Includes turnover costs |
-| **Total Business Profit** | **-$11,629** ⚠️ | Impacted by August transition |
+| **Total True Business Expenses** | $41,379 | Includes turnover costs |
+| **Recurring Expenses** | $16,811 (41%) | Mortgage, utilities |
+| **One-Time Expenses** | $24,568 (59%) | Repairs, maintenance, supplies |
+| **Total Business Profit** | **-$5,329** ⚠️ | Improved after excluding returned deposits |
 | **Total Personal Income** | $0 | No personal withdrawals |
-| **Overall Financial Result** | **-$11,629** | Transition period impact |
+| **Overall Financial Result** | **-$5,329** | Reduced transition period impact |
 
 ---
 
@@ -76,11 +78,12 @@
 - **Total True Expenses**: $2,009
 
 ### **August 2025 - TRANSITION PERIOD**
-- **Uncategorized**: $25,800 (Tenant deposits, furnishings, repairs)
+- **Uncategorized**: $19,500 (Furnishings, repairs - excludes $6,300 returned tenant deposits)
 - **Loan Payment**: $2,009 (Mortgage)
 - **Bills & Utilities**: $1,472 (Utilities)
 - **Shopping**: $296 (Supplies)
-- **Total True Expenses**: $26,792
+- **Returned Tenant Deposits**: $6,300 (NOT counted as business expense)
+- **Total True Expenses**: $20,492
 
 ### **September 2025**
 - **Rental Income**: $0 (Short-term transition)

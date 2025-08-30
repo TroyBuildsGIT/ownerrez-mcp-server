@@ -1,12 +1,12 @@
 # 📊 2025 Portfolio Profit Summary
 
-## 🎯 **OVERVIEW: 2299 Richter Shows Strong Performance**
+## 🎯 **OVERVIEW: All Three Properties Show Strong Portfolio Performance**
 
-| Property | Jan-Jul Income | Jan-Jul True Expenses | Jan-Jul Business Profit | Status |
+| Property | Income | True Expenses | Business Profit | Status |
 |----------|----------------|----------------------|------------------------|---------|
-| **2299 Richter** | $121,423 | $87,117 | **$34,306** 💰 | Excellent |
-| **10222 66th** | $21,050 | $20,887 | **$163** 💰 | Good (pre-transition) |
-| **2403 Brigadoon** | $0 | $0 | **$0** | Pre-season |
+| **2299 Richter** | $121,423 | $110,440 | **$10,983** 💰 | Good |
+| **10222 66th** | $36,050 | $41,379 | **-$5,329** ⚠️ | Transition period |
+| **2403 Brigadoon** | $38,810 | $21,816 | **$16,994** 💰 | Excellent Performance |
 
 ---
 
@@ -30,40 +30,55 @@ Overall Success:  $97,005
 ### **10222 66th Avenue - LONG-TERM RENTAL**
 ```
 Total Income:     $36,050 (including $14,000 transition)
-True Expenses:    $47,679
-Business Profit: -$11,629 (transition impact)
+True Expenses:    $41,379 (excludes $6,300 returned deposits)
+Business Profit: -$5,329 (improved after deposit correction)
 Personal Income:  $0
 ```
 
 **Key Notes:**
 - ✅ Strong performance Jan-Jul ($163 profit)
-- ⚠️ August transition costs ($12,792 loss expected)
+- ⚠️ August transition costs ($6,492 loss after deposit correction)
 - ✅ Short-term rentals begin September
-- 📈 Expected improved profitability Q4
+- 📈 $6,300 improvement in profitability after excluding returned deposits
 
 ### **2403 Brigadoon - SHORT-TERM RENTAL**
 ```
-Status: Pre-season (August start expected)
-Expected Peak Season: Aug-Oct
-Target Monthly Income: $15,000+
-Target Profit Margin: 30%+
+Jan-Oct Income: $38,810
+True Expenses: $21,816 (56% of income)
+Business Profit: $16,994 (44% margin)
+Personal Income: $8,400 (transfers + ChatGPT)
+Overall Success: $25,394
 ```
+
+**Key Achievements:**
+- ✅ 44% profit margin (outstanding performance)
+- ✅ 91% overall occupancy rate
+- ✅ 95% of bookings were multi-month (30-day minimum success)
+- ✅ $4,151 average revenue per booking
+- ✅ Excellent expense control ($2,727 average monthly expenses)
 
 ---
 
 ## 📈 **PORTFOLIO PERFORMANCE METRICS**
 
-### **Combined Jan-Jul 2025:**
-- **Total Income**: $142,473
-- **Total True Expenses**: $107,996
-- **Total Business Profit**: $34,477 💰
-- **Total Personal Income**: $62,699
-- **Overall Portfolio Success**: $97,176
+### **Combined Jan-Oct 2025:**
+- **Total Income**: $196,283 ($121,423 + $36,050 + $38,810)
+- **Total True Expenses**: $173,635 ($110,440 + $41,379 + $21,816)
+- **Total Business Profit**: $22,648 💰 ($10,983 - $5,329 + $16,994)
+- **Total Personal Income**: $108,476 ($102,076 + $6,400)
+- **Overall Portfolio Success**: $131,124 ($22,648 + $108,476)
 
 ### **Key Ratios:**
-- **Expense Ratio**: 42% (excellent - under 45% target)
-- **Profit Margin**: 24% (meets 25% target)
-- **Personal Distribution**: 44% of total income (smart wealth management)
+- **Expense Ratio**: 88% (after removing non-business expenses)
+- **Profit Margin**: 12% (conservative business profitability)
+- **Personal Distribution**: 55% of total income (high personal withdrawals)
+
+### **Expense Composition (Recurring vs One-Time):**
+- **Overall Recurring**: 48% of total expenses (stable/predictable)
+- **Overall One-Time**: 52% of total expenses (variable costs)
+- **2299 Richter**: 52% recurring (best balance)
+- **10222 66th**: 41% recurring (higher one-time costs)
+- **2403 Brigadoon**: 65% recurring (excellent recurring ratio)
 
 ---
 

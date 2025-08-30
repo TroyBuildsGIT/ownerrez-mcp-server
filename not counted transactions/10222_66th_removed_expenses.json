@@ -1,0 +1,30 @@
+{
+  "property": "10222 66th Avenue",
+  "totalRemoved": 6300,
+  "transactions": [
+    {
+      "type": "One-Time Expense",
+      "date": "2025-08-13",
+      "amount": 3150,
+      "description": "Zelle payment to AMANDA RETTENMAIER for '10222 66th tenant deposit release 1 month'; Conf# fizp8l78n",
+      "category": "Uncategorized",
+      "reason": "Returned tenant deposit (non-business expense)"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-08-14",
+      "amount": 3150,
+      "description": "Zelle Scheduled payment to AMANDA RETTENMAIER for '2nd deposit release'; Conf# bpxy3prwm",
+      "category": "Uncategorized",
+      "reason": "Returned tenant deposit (non-business expense)"
+    }
+  ],
+  "summary": {
+    "returnedTenantDeposits": 6300,
+    "businessServices": 0,
+    "foodExpenses": 0,
+    "personalTransfers": 0,
+    "total": 6300
+  },
+  "dateRemoved": "2024-12-19T00:00:00.000Z"
+}

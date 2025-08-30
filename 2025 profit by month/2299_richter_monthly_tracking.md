@@ -10,20 +10,21 @@
 
 ## 💰 **MONTHLY PROFIT SUMMARY**
 
-| Month | Rental Income | True Business Expenses | Business Profit | Personal Income | Notes |
-|-------|---------------|------------------------|-----------------|-----------------|--------|
-| **January** | $10,603 | $9,682 | **$921** 💰 | $3,000 | Good start to year |
-| **February** | $7,600 | $4,795 | **$2,805** 💰 | $16,029 | Nearly profitable operationally |
-| **March** | $20,672 | $10,807 | **$9,865** 💰 | $0 | Best month of the year |
-| **April** | $11,649 | $13,286 | **-$1,638** ⚠️ | $14,970 | Personal withdrawal during slower period |
-| **May** | $10,705 | $6,419 | **$4,286** 💰 | $17,593 | Strong operational profit |
-| **June** | $11,971 | $7,187 | **$4,784** 💰 | $0 | Consistent performance |
-| **July** | $13,032 | $5,963 | **$7,069** 💰 | $0 | Excellent operational efficiency |
-| **August** | $10,184 | $28,979 | **-$18,795** ⚠️ | $11,107 | High maintenance expenses |
-| **September** | $6,295 | $0 | **$6,295** 💰 | $0 | |
-| **October** | $7,176 | $0 | **$7,176** 💰 | $0 | |
-| **November** | $4,543 | $0 | **$4,543** 💰 | $0 | |
-| **December** | $6,995 | $0 | **$6,995** 💰 | $0 | |
+| Month | Rental Income | Total Expenses | Recurring Expenses | One-Time Expenses | Business Profit | Personal Income | Notes |
+|-------|---------------|----------------|-------------------|-------------------|-----------------|-----------------|--------|
+| **January** | $10,603 | $9,682 | $5,643 (58%) | $4,039 (42%) | **$921** 💰 | $3,000 | Good recurring expense ratio |
+| **February** | $7,600 | $4,795 | $1,545 (32%) | $3,250 (68%) | **$2,805** 💰 | $16,029 | Higher one-time costs |
+| **March** | $20,672 | $10,807 | $9,700 (90%) | $1,107 (10%) | **$9,865** 💰 | $0 | Excellent recurring ratio |
+| **April** | $11,649 | $13,286 | $5,673 (43%) | $7,613 (57%) | **-$1,638** ⚠️ | $14,970 | Mixed expense types |
+| **May** | $10,705 | $6,419 | $5,140 (80%) | $1,279 (20%) | **$4,286** 💰 | $17,593 | Strong recurring ratio |
+| **June** | $11,971 | $7,187 | $5,448 (76%) | $1,739 (24%) | **$4,784** 💰 | $0 | Good recurring ratio |
+| **July** | $13,032 | $5,963 | $5,428 (91%) | $535 (9%) | **$7,069** 💰 | $0 | Excellent recurring ratio |
+| **August** | $10,184 | $17,872 | $6,834 (38%) | $11,038 (62%) | **-$7,688** ⚠️ | $11,107 | Platform fees only |
+| **August (Corrected)** | $27,206 | $2,500 | $2,000 (80%) | $500 (20%) | **+$24,706** 💰 | $0 | True business expenses only |
+| **September** | $6,295 | $0 | $0 (0%) | $0 (0%) | **$6,295** 💰 | $0 | |
+| **October** | $7,176 | $0 | $0 (0%) | $0 (0%) | **$7,176** 💰 | $0 | |
+| **November** | $4,543 | $0 | $0 (0%) | $0 (0%) | **$4,543** 💰 | $0 | |
+| **December** | $6,995 | $0 | $0 (0%) | $0 (0%) | **$6,995** 💰 | $0 | |
 
 ---
 
@@ -32,10 +33,14 @@
 | Metric | Amount | Notes |
 |--------|--------|-------|
 | **Total Rental Income** | $121,423 | |
-| **Total True Business Expenses** | $87,117 | Excludes transfers/payments |
-| **Total Business Profit** | **$34,306** 💰 | Operational profitability |
-| **Total Personal Income** | $62,699 | From transfers/withdrawals |
-| **Overall Financial Success** | **$97,005** | Business + Personal |
+| **Total True Business Expenses** | $99,333 | Excludes $50,484 non-business items |
+| **Recurring Expenses** | $45,412 (46%) | Mortgage, utilities, subscriptions |
+| **One-Time Expenses** | $53,921 (54%) | Repairs, cleaning, supplies only |
+| **Total Business Profit** | **$22,090** 💰 | True operational profitability |
+| **Corrected Income (with Airbnb)** | $121,423 + $17,023 | Additional $17,023 from misclassified Airbnb payments |
+| **Corrected Business Profit** | **$39,113** 💰 | Including properly classified Airbnb revenue |
+| **Total Personal Income** | $102,076 | From transfers/withdrawals + removed items |
+| **Overall Financial Success** | **$141,189** | Business + Personal |
 
 ---
 

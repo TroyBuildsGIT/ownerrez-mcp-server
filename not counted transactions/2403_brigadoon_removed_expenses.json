@@ -1,0 +1,56 @@
+{
+  "property": "2403 Brigadoon",
+  "totalRemoved": 8700,
+  "transactions": [
+    {
+      "type": "One-Time Expense",
+      "date": "2025-01-03",
+      "amount": 3000,
+      "description": "Online Banking transfer from CHK 3189 Confirmation# XXXXX63519",
+      "category": "Internal Transfers",
+      "reason": "Personal transfer (non-business expense)"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-04-01",
+      "amount": 5000,
+      "description": "Online Banking transfer to CHK 2437 Confirmation# XXXXX98411",
+      "category": "Internal Transfers",
+      "reason": "Personal transfer (non-business expense)"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-07-24",
+      "amount": 200,
+      "description": "OPENAI DES:OPENAI *CH ID:ST-O8Z6Y2P0O3Z0 INDN:LINK CO ID:XXXXX48598 WEB",
+      "category": "Software & Tech",
+      "reason": "ChatGPT subscription (personal expense)"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-08-25",
+      "amount": 200,
+      "description": "OPENAI DES:OPENAI *CH ID:ST-Z5F5N3Q1O4V8 INDN:LINK CO ID:XXXXX48598 WEB",
+      "category": "Software & Tech",
+      "reason": "ChatGPT subscription (personal expense)"
+    },
+    {
+      "type": "One-Time Expense",
+      "date": "2025-03-04",
+      "amount": 30,
+      "description": "Online Banking transfer to SAV 3202 Confirmation# XXXXX55370",
+      "category": "Savings Transfer",
+      "reason": "Personal savings transfer (non-business expense)"
+    }
+  ],
+  "summary": {
+    "returnedTenantDeposits": 0,
+    "businessServices": 0,
+    "foodExpenses": 0,
+    "personalTransfers": 8030,
+    "chatGPT": 400,
+    "other": 270,
+    "total": 8700
+  },
+  "dateRemoved": "2024-12-19T00:00:00.000Z"
+}

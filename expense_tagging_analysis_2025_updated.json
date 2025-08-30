@@ -1,0 +1,2053 @@
+{
+  "summary": {
+    "2299 Richter": {
+      "totalExpenses": 110439.56000000004,
+      "recurringExpenses": 45412.16000000002,
+      "oneTimeExpenses": 65027.40000000002,
+      "transactionCount": 233,
+      "monthlyBreakdown": {
+        "January 2025": {
+          "total": 12681.699999999999,
+          "recurring": 5643.46,
+          "oneTime": 7038.239999999999
+        },
+        "February 2025": {
+          "total": 20824.070000000003,
+          "recurring": 1545.23,
+          "oneTime": 19278.840000000004
+        },
+        "March 2025": {
+          "total": 10806.619999999999,
+          "recurring": 9700.43,
+          "oneTime": 1106.1899999999987
+        },
+        "April 2025": {
+          "total": 28256.120000000003,
+          "recurring": 5673.17,
+          "oneTime": 22582.950000000004
+        },
+        "May 2025": {
+          "total": 24012.469999999998,
+          "recurring": 5140.41,
+          "oneTime": 18872.059999999998
+        },
+        "June 2025": {
+          "total": 7187.2300000000005,
+          "recurring": 5447.5599999999995,
+          "oneTime": 1739.670000000001
+        },
+        "July 2025": {
+          "total": 5962.59,
+          "recurring": 5427.87,
+          "oneTime": 534.7200000000003
+        },
+        "August 2025": {
+          "total": 40086.00000000001,
+          "recurring": 6834.03,
+          "oneTime": 33251.97000000001
+        }
+      }
+    },
+    "10222 66th": {
+      "totalExpenses": 69649.50000000001,
+      "recurringExpenses": 16811.459999999992,
+      "oneTimeExpenses": 52838.04,
+      "transactionCount": 37,
+      "monthlyBreakdown": {
+        "January 2025": {
+          "total": 5451.18,
+          "recurring": 2051.18,
+          "oneTime": 3400
+        },
+        "February 2025": {
+          "total": 7762.25,
+          "recurring": 2051.18,
+          "oneTime": 5711.07
+        },
+        "March 2025": {
+          "total": 7811.959999999999,
+          "recurring": 4032.96,
+          "oneTime": 3779
+        },
+        "April 2025": {
+          "total": 5158.48,
+          "recurring": 2008.48,
+          "oneTime": 3150
+        },
+        "May 2025": {
+          "total": 3548,
+          "recurring": 0,
+          "oneTime": 3548
+        },
+        "June 2025": {
+          "total": 7166.959999999999,
+          "recurring": 4016.96,
+          "oneTime": 3150
+        },
+        "July 2025": {
+          "total": 5158.48,
+          "recurring": 2008.48,
+          "oneTime": 3150
+        },
+        "August 2025": {
+          "total": 27592.189999999995,
+          "recurring": 642.2199999999999,
+          "oneTime": 26949.97
+        }
+      }
+    },
+    "2403 Brigadoon": {
+      "totalExpenses": 30727.730000000007,
+      "recurringExpenses": 14075.16,
+      "oneTimeExpenses": 16652.57,
+      "transactionCount": 76,
+      "monthlyBreakdown": {
+        "January 2025": {
+          "total": 4797.28,
+          "recurring": 1697.28,
+          "oneTime": 3100
+        },
+        "February 2025": {
+          "total": 1758.58,
+          "recurring": 1758.58,
+          "oneTime": 0
+        },
+        "March 2025": {
+          "total": 8296.33,
+          "recurring": 2936.33,
+          "oneTime": 5360
+        },
+        "April 2025": {
+          "total": 1703.6399999999999,
+          "recurring": 1703.6399999999999,
+          "oneTime": 0
+        },
+        "May 2025": {
+          "total": 1697.2800000000002,
+          "recurring": 533.21,
+          "oneTime": 1164.0700000000002
+        },
+        "June 2025": {
+          "total": 3306.5599999999995,
+          "recurring": 2971.56,
+          "oneTime": 335
+        },
+        "July 2025": {
+          "total": 3564.09,
+          "recurring": 1893.09,
+          "oneTime": 1671
+        },
+        "August 2025": {
+          "total": 5603.97,
+          "recurring": 581.47,
+          "oneTime": 5022.5
+        }
+      }
+    }
+  },
+  "monthlyBreakdown": {},
+  "recurringVsOneTime": {
+    "2299 Richter": {
+      "recurring": [
+        {
+          "date": "2025-01-02",
+          "amount": 88.27,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3141082 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-01-02",
+          "amount": 105.16,
+          "description": "WOW! DES:XXXXX69669 ID:5064750 INDN:TROY *NOWAK CO ID:XXXXX38582 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-01-02",
+          "amount": 447.13,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3143216 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-01-03",
+          "amount": 35,
+          "description": "ANTI-PESTO BUG KILLERS LL",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-01-13",
+          "amount": 35.21,
+          "description": "Netflix.com",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-01-24",
+          "amount": 94.33,
+          "description": "GOOGLE *YouTube TV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-01-28",
+          "amount": 150,
+          "description": "SQ *WATERS EDGE POOL SERV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-01-29",
+          "amount": 3974.25,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX09601 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-01-30",
+          "amount": 150,
+          "description": "\"Zelle Recurring payment to J loves lawn care for 'dunedin lawn'; Conf# blol610ai\"",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-01-31",
+          "amount": 105.16,
+          "description": "WOW! DES:XXXXX69669 ID:5908127 INDN:TROY *NOWAK CO ID:XXXXX38582 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-01-31",
+          "amount": 458.95,
+          "description": "P C UTILITIES DES:AUTO_PAY ID:XXXXX0024611 INDN:TROY NOWAK CO ID:XXXXX00800 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-02-03",
+          "amount": 102.37,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3141082 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-02-03",
+          "amount": 917.65,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3143216 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-02-04",
+          "amount": 35,
+          "description": "ANTI-PESTO BUG KILLERS LL",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-02-12",
+          "amount": 35.21,
+          "description": "Netflix",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-02-13",
+          "amount": 125,
+          "description": "SQ *WATERS EDGE POOL SERV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-02-27",
+          "amount": 150,
+          "description": "SQ *WATERS EDGE POOL SERV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-02-28",
+          "amount": 180,
+          "description": "\"Zelle Recurring payment to J loves lawn care for 'dunedin lawn'; Conf# iuk54svaw\"",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-03-03",
+          "amount": 105.16,
+          "description": "WOW! DES:XXXXX69669 ID:8356812 INDN:TROY *NOWAK CO ID:XXXXX38582 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-03-03",
+          "amount": 3974.25,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX09601 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-03-04",
+          "amount": 35,
+          "description": "ANTI-PESTO BUG KILLERS LL",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-03-06",
+          "amount": 115.94,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3141082 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-03-06",
+          "amount": 761.88,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3143216 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-03-13",
+          "amount": 38.62,
+          "description": "NETFLIX.COM",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-03-24",
+          "amount": 94.33,
+          "description": "GOOGLE *YouTube TV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-03-27",
+          "amount": 165.84,
+          "description": "WASTE PRO CLEARW DES:XXXXX25278 ID:XXXXX9819 INDN:REDS HOMES LLC CO ID:XXXXX70820 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-03-28",
+          "amount": 180,
+          "description": "\"Zelle Recurring payment to J loves lawn care for 'dunedin lawn'; Conf# guyctfdee\"",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-03-31",
+          "amount": 105.16,
+          "description": "WOW! DES:XXXXX69669 ID:8290311 INDN:TROY *NOWAK CO ID:XXXXX38582 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-03-31",
+          "amount": 3974.25,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX09601 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-03-31",
+          "amount": 150,
+          "description": "SQ *WATERS EDGE POOL SERV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-04-02",
+          "amount": 475.83,
+          "description": "P C UTILITIES DES:AUTO_PAY ID:XXXXX0024611 INDN:TROY NOWAK CO ID:XXXXX00800 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-04-02",
+          "amount": 36,
+          "description": "ANTI-PESTO BUG KILLERS LL",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-04-03",
+          "amount": 101.63,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3141082 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-04-03",
+          "amount": 442.35,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3143216 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-04-09",
+          "amount": 75,
+          "description": "SQ *WATERS EDGE POOL SERV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-04-14",
+          "amount": 38.62,
+          "description": "Netflix.com",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-04-24",
+          "amount": 94.33,
+          "description": "GOOGLE *YouTube TV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-04-28",
+          "amount": 180,
+          "description": "\"Zelle Recurring payment to J loves lawn care for 'dunedin lawn'; Conf# akx54cgwq\"",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-04-28",
+          "amount": 150,
+          "description": "SQ *WATERS EDGE POOL SERV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-04-29",
+          "amount": 3974.25,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX09601 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-05-01",
+          "amount": 105.16,
+          "description": "WOW! DES:XXXXX69669 ID:9538302 INDN:TROY *NOWAK CO ID:XXXXX38582 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-05-02",
+          "amount": 107.37,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3141082 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-05-02",
+          "amount": 559.84,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3143216 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-05-02",
+          "amount": 36,
+          "description": "ANTI-PESTO BUG KILLERS LL",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-05-13",
+          "amount": 38.62,
+          "description": "Netflix.com",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-05-26",
+          "amount": 94.33,
+          "description": "GOOGLE *YouTube TV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-05-28",
+          "amount": 180,
+          "description": "\"Zelle Recurring payment to J loves lawn care for 'dunedin lawn'; Conf# cxolie74z\"",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-05-28",
+          "amount": 150,
+          "description": "SQ *WATERS EDGE POOL SERV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-05-29",
+          "amount": 3974.25,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX09601 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-06-02",
+          "amount": 105.16,
+          "description": "WOW! DES:XXXXX69669 ID:0834013 INDN:TROY *NOWAK CO ID:XXXXX38582 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-06-02",
+          "amount": 127.04,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3141082 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-06-02",
+          "amount": 576.32,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3143216 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-06-03",
+          "amount": 36,
+          "description": "ANTI-PESTO BUG KILLERS LL",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-06-13",
+          "amount": 38.62,
+          "description": "Netflix.com",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-06-23",
+          "amount": 94.33,
+          "description": "Google YouTube TV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-06-27",
+          "amount": 150,
+          "description": "SQ *WATERS EDGE POOL SERV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-06-30",
+          "amount": 180,
+          "description": "\"Zelle Recurring payment to J loves lawn care for 'dunedin lawn'; Conf# eytuigfz8\"",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-06-30",
+          "amount": 165.84,
+          "description": "WASTE PRO CLEARW DES:XXXXX25278 ID:XXXXX30740 INDN:REDS HOMES LLC CO ID:XXXXX70820 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-06-30",
+          "amount": 3974.25,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX09601 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-07-02",
+          "amount": 36,
+          "description": "ANTI-PESTO BUG KILLERS LL",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-07-02",
+          "amount": 110.16,
+          "description": "WOW! DES:XXXXX69669 ID:2726052 INDN:TROY *NOWAK CO ID:XXXXX38582 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-07-02",
+          "amount": 163.34,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3141082 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-07-02",
+          "amount": 571.01,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3143216 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-07-14",
+          "amount": 38.62,
+          "description": "NETFLIX.COM",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-07-23",
+          "amount": 94.33,
+          "description": "Google YouTube TV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-07-28",
+          "amount": 150,
+          "description": "SQ *WATERS EDGE POOL SERV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-07-28",
+          "amount": 180,
+          "description": "\"Zelle Recurring payment to J loves lawn care for 'dunedin lawn'; Conf# gd2xkcgg0\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-07-29",
+          "amount": 3974.25,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX09601 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-07-31",
+          "amount": 110.16,
+          "description": "WOW! DES:XXXXX69669 ID:3969816 INDN:TROY *NOWAK CO ID:XXXXX38582 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-08-04",
+          "amount": 36,
+          "description": "ANTI-PESTO BUG KILLERS LL",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-04",
+          "amount": 203.04,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3141082 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-08-04",
+          "amount": 685.58,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX3143216 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-08-11",
+          "amount": 1472.21,
+          "description": "P C UTILITIES DES:AUTO_PAY ID:XXXXX0024611 INDN:TROY NOWAK CO ID:XXXXX00800 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-08-13",
+          "amount": 38.62,
+          "description": "NETFLIX.COM",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-08-25",
+          "amount": 94.33,
+          "description": "Google YouTube TV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-08-26",
+          "amount": 150,
+          "description": "SQ *WATERS EDGE POOL SERV",
+          "category": "Entertainment & Rec."
+        },
+        {
+          "date": "2025-08-28",
+          "amount": 180,
+          "description": "\"Zelle Recurring payment to J loves lawn care for 'dunedin lawn'; Conf# ct3u53h9a\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-29",
+          "amount": 3974.25,
+          "description": "ACH HOLD FREEDOM MTG PYMTS ON 08/29",
+          "category": "Loan Payment"
+        }
+      ],
+      "oneTime": [
+        {
+          "date": "2025-01-03",
+          "amount": 98,
+          "description": "OWNERREZ",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-01-06",
+          "amount": 350,
+          "description": "\"Zelle payment to Ada Busnea for 'cleaning'; Conf# hcd97hzfl\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-01-09",
+          "amount": 21.38,
+          "description": "BJS WHOLESALE #0221",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-01-10",
+          "amount": 350,
+          "description": "Zelle payment to Ada Busnea Conf# gik80t3x7",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-01-13",
+          "amount": 16,
+          "description": "WAVE PRO",
+          "category": "Auto & Transport"
+        },
+        {
+          "date": "2025-01-14",
+          "amount": 500,
+          "description": "\"Zelle payment to home improvement outlet for 'flooring for 2299 richter'; Conf# gud5jbqek\"",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-01-17",
+          "amount": 56.61,
+          "description": "BURLINGTON STORES 1357",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-01-20",
+          "amount": 34.98,
+          "description": "PRICELABSINC*DYNAPRICE",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-01-22",
+          "amount": 1146.5,
+          "description": "\"Zelle payment to dias transport services for 'flooring for 2299 richter'; Conf# elhptdkwx\"",
+          "category": "Cash & Checks"
+        },
+        {
+          "date": "2025-01-24",
+          "amount": 170,
+          "description": "NIC*-DEPT BUS & PROF R",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-01-27",
+          "amount": 42.56,
+          "description": "LOWES #00771*",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-01-27",
+          "amount": 496.64,
+          "description": "THE HOME DEPOT #6321",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-01-27",
+          "amount": 19.13,
+          "description": "THE HOME DEPOT #0247",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-01-30",
+          "amount": 700,
+          "description": "\"Zelle payment to Ada Busnea for 'cleaning'; Conf# fuzfi9521\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-01-31",
+          "amount": 19.99,
+          "description": "PRICELABSINC*DASHBOARD",
+          "category": "Dining & Drinks"
+        },
+        {
+          "date": "2025-02-03",
+          "amount": 75,
+          "description": "OWNERREZ",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-02-04",
+          "amount": 417.09,
+          "description": "FLA DEPT REVENUE DES:C01 ID:XXXXX3718 INDN:REDS HOMES LLC CO ID:XXXXX01874 CCD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-02-04",
+          "amount": 19.99,
+          "description": "PRICELABSINC*DASHBOARD",
+          "category": "Dining & Drinks"
+        },
+        {
+          "date": "2025-02-04",
+          "amount": 385.25,
+          "description": "PMT*PINELLAS COUNTY TAX",
+          "category": "Taxes"
+        },
+        {
+          "date": "2025-02-05",
+          "amount": 128.39,
+          "description": "AMAZON MKTPL*Z75WC6GG0",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-02-10",
+          "amount": 35.16,
+          "description": "PAYPAL *GODADDY.COM",
+          "category": "Software & Tech"
+        },
+        {
+          "date": "2025-02-11",
+          "amount": 79.68,
+          "description": "AMAZON MKTPL*IL1PV0EP3",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-02-12",
+          "amount": 199.99,
+          "description": "PAYPAL *GODADDY.COM",
+          "category": "Software & Tech"
+        },
+        {
+          "date": "2025-02-19",
+          "amount": 94.8,
+          "description": "LOWES #00771*",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-02-20",
+          "amount": 70.16,
+          "description": "BJS WHOLESALE #0221",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-02-20",
+          "amount": 34.98,
+          "description": "PRICELABSINC*DYNAPRICE",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-02-20",
+          "amount": 181.83,
+          "description": "THE HOME DEPOT #6321",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-02-20",
+          "amount": 427.98,
+          "description": "AMZN Mktp US*ZB53N8L73",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-02-24",
+          "amount": 96.24,
+          "description": "LOWES #00771*",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-02-24",
+          "amount": 12,
+          "description": "CASH EQUIVALENT FEE",
+          "category": "Fees"
+        },
+        {
+          "date": "2025-02-24",
+          "amount": 300,
+          "description": "BANK OF AMERICA",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-02-27",
+          "amount": 8.16,
+          "description": "CASH EQUIVALENT FEE",
+          "category": "Fees"
+        },
+        {
+          "date": "2025-02-27",
+          "amount": 203.99,
+          "description": "CK027630",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-02-28",
+          "amount": 571.8,
+          "description": "Online Banking payment to CRD 7171 Confirmation# XXXXX38881",
+          "category": "Credit Card Payment"
+        },
+        {
+          "date": "2025-02-28",
+          "amount": 571.8,
+          "description": "Online payment from CHK 3",
+          "category": "Credit Card Payment"
+        },
+        {
+          "date": "2025-03-03",
+          "amount": 350,
+          "description": "Zelle payment to Ada Busnea Conf# bl8a70f60",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-03-03",
+          "amount": 75,
+          "description": "OWNERREZ",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-03-11",
+          "amount": 21.34,
+          "description": "Amazon.com*YE77H8793",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-03-12",
+          "amount": 46.33,
+          "description": "AMAZON MKTPL*5L4YG0V63",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-03-14",
+          "amount": 138.75,
+          "description": "NIC*-FL SUNBIZ.ORG",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-03-17",
+          "amount": 0.33,
+          "description": "CASH * FINANCE CHARGE *",
+          "category": "Fees"
+        },
+        {
+          "date": "2025-03-18",
+          "amount": 15.98,
+          "description": "TST*TAYLOR SAMS - ST. P",
+          "category": "Dining & Drinks"
+        },
+        {
+          "date": "2025-03-20",
+          "amount": 34.98,
+          "description": "PRICELABSINC*DYNAPRICE",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-03-20",
+          "amount": 74.89,
+          "description": "Amazon.com*3L8E148W3",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-03-25",
+          "amount": 150,
+          "description": "\"Zelle payment to Ada Busnea for 'cleaning bonus'; Conf# a14ish4t2\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-03-31",
+          "amount": 19.99,
+          "description": "PRICELABSINC*DASHBOARD",
+          "category": "Dining & Drinks"
+        },
+        {
+          "date": "2025-04-03",
+          "amount": 98,
+          "description": "OWNERREZ",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-04-03",
+          "amount": 11.46,
+          "description": "NAME-CHEAP.COM* TQ7ABE",
+          "category": "Software & Tech"
+        },
+        {
+          "date": "2025-04-07",
+          "amount": 19.99,
+          "description": "PRICELABSINC*DASHBOARD",
+          "category": "Dining & Drinks"
+        },
+        {
+          "date": "2025-04-08",
+          "amount": 1157.38,
+          "description": "FLA DEPT REVENUE DES:C01 ID:XXXXX1656 INDN:REDS HOMES LLC CO ID:XXXXX01874 CCD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-04-09",
+          "amount": 995.77,
+          "description": "PMT*PINELLAS COUNTY TAX",
+          "category": "Taxes"
+        },
+        {
+          "date": "2025-04-10",
+          "amount": 49.99,
+          "description": "AMAZON MKTPL*881FD5FQ3",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-04-11",
+          "amount": 15.98,
+          "description": "TST*TAYLOR SAMS - ST. P",
+          "category": "Dining & Drinks"
+        },
+        {
+          "date": "2025-04-14",
+          "amount": 95.88,
+          "description": "PAYPAL *GODADDY.COM",
+          "category": "Software & Tech"
+        },
+        {
+          "date": "2025-04-14",
+          "amount": 39,
+          "description": "LATE PAYMENT FEE",
+          "category": "Fees"
+        },
+        {
+          "date": "2025-04-17",
+          "amount": 0.01,
+          "description": "CASH * FINANCE CHARGE *",
+          "category": "Fees"
+        },
+        {
+          "date": "2025-04-17",
+          "amount": 26.5,
+          "description": "PURCHASE *FINANCE CHARGE*",
+          "category": "Fees"
+        },
+        {
+          "date": "2025-04-21",
+          "amount": 2484.86,
+          "description": "Online Banking payment to CRD 7171 Confirmation# XXXXX03091",
+          "category": "Credit Card Payment"
+        },
+        {
+          "date": "2025-04-21",
+          "amount": 350,
+          "description": "Zelle payment to Ada Busnea Conf# ifqdeqh42",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-04-21",
+          "amount": 34.98,
+          "description": "PRICELABSINC*DYNAPRICE",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-04-21",
+          "amount": 2484.86,
+          "description": "Online payment from CHK 3",
+          "category": "Credit Card Payment"
+        },
+        {
+          "date": "2025-04-23",
+          "amount": 3500,
+          "description": "ANDERSON BUSINESS ADVI",
+          "category": "Dining & Drinks"
+        },
+        {
+          "date": "2025-04-29",
+          "amount": 51.28,
+          "description": "Amazon.com*EO1031JQ3",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-04-29",
+          "amount": 19.99,
+          "description": "PRICELABSINC*DASHBOARD",
+          "category": "Dining & Drinks"
+        },
+        {
+          "date": "2025-04-30",
+          "amount": 255.63,
+          "description": "4TE*PINELLAS COUNTY FL B",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-04-30",
+          "amount": 255.63,
+          "description": "4TE*PINELLAS COUNTY FL B",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-05-01",
+          "amount": 502.89,
+          "description": "Amazon.com*OQ5PB4VP3",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-05-02",
+          "amount": 345.93,
+          "description": "LOWES #00771*",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-05-05",
+          "amount": 171.78,
+          "description": "LOWES #00771*",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-05-05",
+          "amount": 98,
+          "description": "OWNERREZ",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-05-12",
+          "amount": 52.27,
+          "description": "Amazon.com*NI11Z1MB0",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-05-13",
+          "amount": 5,
+          "description": "Amazon Tips*NI0CG88F1",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-05-14",
+          "amount": 5864.39,
+          "description": "Online Banking payment to CRD 7171 Confirmation# XXXXX26402",
+          "category": "Credit Card Payment"
+        },
+        {
+          "date": "2025-05-14",
+          "amount": 5864.39,
+          "description": "Online payment from CHK 3",
+          "category": "Credit Card Payment"
+        },
+        {
+          "date": "2025-05-14",
+          "amount": 5864.39,
+          "description": "Online payment from CHK 8",
+          "category": "Credit Card Payment"
+        },
+        {
+          "date": "2025-05-16",
+          "amount": 350,
+          "description": "Zelle payment to Ada Busnea Conf# eepshfnje",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-05-16",
+          "amount": 1.01,
+          "description": "PURCHASE *FINANCE CHARGE*",
+          "category": "Fees"
+        },
+        {
+          "date": "2025-05-20",
+          "amount": 34.98,
+          "description": "PRICELABSINC*DYNAPRICE",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-05-22",
+          "amount": 68.21,
+          "description": "BJS WHOLESALE #0221",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-02",
+          "amount": 17.16,
+          "description": "TST*TAYLOR SAMS - ST. P",
+          "category": "Dining & Drinks"
+        },
+        {
+          "date": "2025-06-02",
+          "amount": 17.16,
+          "description": "TST*TAYLOR SAMS - ST. P",
+          "category": "Dining & Drinks"
+        },
+        {
+          "date": "2025-06-03",
+          "amount": 75,
+          "description": "OWNERREZ",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 17.16,
+          "description": "TST*TAYLOR SAMS - ST. P",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-10",
+          "amount": 66.33,
+          "description": "AMAZON MKTPL*NH5WK0WZ2",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-10",
+          "amount": 14.96,
+          "description": "AMAZON MKTPL*NH1H47WZ2",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-12",
+          "amount": 6.75,
+          "description": "Amazon.com*NA75Y9E82",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-17",
+          "amount": 229.22,
+          "description": "LOWES #00771*",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-06-17",
+          "amount": 36.84,
+          "description": "Amazon.com*NA0UM55U0",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-17",
+          "amount": 25.26,
+          "description": "Amazon.com*NO98E03Y2",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-18",
+          "amount": 14.92,
+          "description": "AMAZON MKTPL*NO5199AF2",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-18",
+          "amount": 26.97,
+          "description": "Amazon.com*NA9DX2880",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-19",
+          "amount": 26.97,
+          "description": "Amazon.com*NA6D57YI1",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-19",
+          "amount": 89.86,
+          "description": "AMAZON MKTPL*NO6617FL1",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-20",
+          "amount": 175.86,
+          "description": "LOWES #00771*",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-06-20",
+          "amount": 34.98,
+          "description": "PRICELABSINC*DYNAPRICE",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-06-23",
+          "amount": 43.86,
+          "description": "AMAZON MKTPL*NQ87S1LV2",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-23",
+          "amount": 175.7,
+          "description": "AMAZON MKTPL*NO96W4PD1",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-23",
+          "amount": 38.6,
+          "description": "AMAZON MKTPL*NO4AY0JT0",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-06-23",
+          "amount": 242.76,
+          "description": "THE HOME DEPOT #6321",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-07-01",
+          "amount": 1.14,
+          "description": "RENDER.COM",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-07-03",
+          "amount": 75,
+          "description": "OWNERREZ",
+          "category": "Business"
+        },
+        {
+          "date": "2025-07-21",
+          "amount": 34.98,
+          "description": "PRICELABSINC*DYNAPRICE",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-07-25",
+          "amount": 33.16,
+          "description": "Amazon.com*VH7F30ND3",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-07-25",
+          "amount": 14.92,
+          "description": "Amazon.com*JX9S32CP3",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-07-31",
+          "amount": 225,
+          "description": "\"Zelle payment to josh oconnor for 'Home repair'; Conf# bzl2g5nl3\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-04",
+          "amount": 75,
+          "description": "OWNERREZ",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-14",
+          "amount": 15446.62,
+          "description": "AIRBNB PAYMENTS DES:IMBNHQYY5K ID:G-GOX3IXF4YTSEK INDN:REDS HOMES LLC CO ID:XXXXX51428 PPD PMT INFO:RMR*IK*G-GOX3IXF4YTSEK\\",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-08-15",
+          "amount": 2504.76,
+          "description": "CREDIT BALANCE REFUND",
+          "category": "Cash & Checks"
+        },
+        {
+          "date": "2025-08-19",
+          "amount": 4.99,
+          "description": "RING BASIC PLAN",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-08-20",
+          "amount": 34.98,
+          "description": "PRICELABSINC*DYNAPRICE",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-08-25",
+          "amount": 590,
+          "description": "Zelle payment to Ada Busnea Conf# dn0i91zzo",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-25",
+          "amount": 1576.42,
+          "description": "AIRBNB PAYMENTS DES:WY4KMONGOO ID:G-DXATKISJNHYTM INDN:REDS HOMES LLC CO ID:XXXXX51428 PPD PMT INFO:RMR*IK*G-DXATKISJNHYTM\\",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-08-25",
+          "amount": 592.76,
+          "description": "BJS WHOLESALE #0221",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-08-25",
+          "amount": 18.16,
+          "description": "LOWES #00771*",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-08-25",
+          "amount": 531.59,
+          "description": "LOWES #00771*",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-08-26",
+          "amount": 480.53,
+          "description": "WHOLESALE APPLIANCES & MA",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-08-27",
+          "amount": 104.76,
+          "description": "BJS WHOLESALE #0221",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-08-28",
+          "amount": 1107.35,
+          "description": "STRIPE DES:TRANSFER ID:ST-K6U2R1D1M5B5 INDN:REDS HOMES LLC CO ID:XXXXX48598 CCD",
+          "category": "Internal Transfers"
+        },
+        {
+          "date": "2025-08-28",
+          "amount": 37.08,
+          "description": "PURCHASE",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-08-28",
+          "amount": 37.08,
+          "description": "PURCHASE",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-08-28",
+          "amount": 65.7,
+          "description": "PURCHASE",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-08-28",
+          "amount": 10,
+          "description": "MAIL/TELEPHONE ORDER",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-08-28",
+          "amount": 15,
+          "description": "MAIL/TELEPHONE ORDER",
+          "category": "Shopping"
+        }
+      ]
+    },
+    "10222 66th": {
+      "recurring": [
+        {
+          "date": "2025-01-02",
+          "amount": 2051.18,
+          "description": "US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-02-03",
+          "amount": 2051.18,
+          "description": "US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-03-03",
+          "amount": 16,
+          "description": "Monthly Fee Business Adv Fundamentals",
+          "category": "Fees"
+        },
+        {
+          "date": "2025-03-03",
+          "amount": 2008.48,
+          "description": "US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-04-01",
+          "amount": 2008.48,
+          "description": "US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-05-01",
+          "amount": 2008.48,
+          "description": "US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-06-02",
+          "amount": 2008.48,
+          "description": "US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-07-01",
+          "amount": 2008.48,
+          "description": "US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-08-01",
+          "amount": 2008.48,
+          "description": "US BANK HOME MTG DES:MTG PYMT ID:XXXXX46559 INDN:TROY NOWAK CO ID:XXXXX00022 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-08-14",
+          "amount": 300,
+          "description": "\"Zelle payment to J loves lawn care for 'lawn repair'; Conf# e8gkcfpsc\"",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-08-22",
+          "amount": 51.3,
+          "description": "AMAZON BUSINESS DES:INTERNET ID:XXXXXXXXXX88314 INDN:XXXXX1000XXXXX12895473 CO ID:XXXXX16352 CCD",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-08-22",
+          "amount": 245.03,
+          "description": "AMAZON BUSINESS DES:INTERNET ID:XXXXXXXXXX15714 INDN:XXXXX1000XXXXX11663730 CO ID:XXXXX16352 CCD",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-08-29",
+          "amount": 9.05,
+          "description": "ACH HOLD AMAZON BUSINESS INTERNET ON 08/29",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-08-29",
+          "amount": 9.05,
+          "description": "ACH HOLD AMAZON BUSINESS INTERNET ON 08/29",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-08-29",
+          "amount": 9.62,
+          "description": "ACH HOLD AMAZON BUSINESS INTERNET ON 08/29",
+          "category": "Shopping"
+        },
+        {
+          "date": "2025-08-29",
+          "amount": 18.17,
+          "description": "ACH HOLD AMAZON BUSINESS INTERNET ON 08/29",
+          "category": "Shopping"
+        }
+      ],
+      "oneTime": [
+        {
+          "date": "2025-01-08",
+          "amount": 3150,
+          "description": "RentSpree Payout DES:RentSpree ID:ST-F1U4D0L4Y2M4 INDN:REDS HOMES LLC CO ID:XXXXX65600 CCD",
+          "category": "Income"
+        },
+        {
+          "date": "2025-01-10",
+          "amount": 125,
+          "description": "\"Zelle payment to brian bowie for 'repairs'; Conf# dmwhx7y40\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-01-10",
+          "amount": 125,
+          "description": "\"Zelle payment to brian bowie for 'storm repair'; Conf# bjcax7rqo\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-02-07",
+          "amount": 2561.07,
+          "description": "Online Banking transfer to CHK 2437 Confirmation# XXXXX09068",
+          "category": "Internal Transfers"
+        },
+        {
+          "date": "2025-02-10",
+          "amount": 3150,
+          "description": "RentSpree Payout DES:RentSpree ID:ST-Q7P9P6P7O0O9 INDN:REDS HOMES LLC CO ID:XXXXX65600 CCD",
+          "category": "Income"
+        },
+        {
+          "date": "2025-03-11",
+          "amount": 3150,
+          "description": "RentSpree Payout DES:RentSpree ID:ST-R8K9F3Q8P2Q3 INDN:REDS HOMES LLC CO ID:XXXXX65600 CCD",
+          "category": "Income"
+        },
+        {
+          "date": "2025-03-18",
+          "amount": 629,
+          "description": "\"Zelle payment to same day repair inc for 'ac repair'; Conf# gza711ryc\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-04-10",
+          "amount": 3150,
+          "description": "RentSpree Payout DES:RentSpree ID:ST-Y2E1E3W9G3E2 INDN:REDS HOMES LLC CO ID:XXXXX48598 CCD",
+          "category": "Income"
+        },
+        {
+          "date": "2025-05-05",
+          "amount": 398,
+          "description": "ARADIANTPROPERTY DES:WEBPAYMENT ID: INDN:NOWAK CO ID:XXXXX93141 WEB",
+          "category": "Home & Garden"
+        },
+        {
+          "date": "2025-05-12",
+          "amount": 3150,
+          "description": "RentSpree Payout DES:RentSpree ID:ST-X4A3B7U4V0S0 INDN:REDS HOMES LLC CO ID:XXXXX65600 CCD",
+          "category": "Income"
+        },
+        {
+          "date": "2025-06-10",
+          "amount": 3150,
+          "description": "RENTSPREE PAYOUT DES:RENTSPREE ID:ST-T8K4T9W4W9D3 INDN:REDS HOMES LLC CO ID: XXXXX8598 CCD",
+          "category": "Income"
+        },
+        {
+          "date": "2025-07-10",
+          "amount": 3150,
+          "description": "RENTSPREE PAYOUT DES:RENTSPREE ID:ST-Y2M4F7U2I6Z5 INDN:REDS HOMES LLC CO ID: XXXXX8598 CCD",
+          "category": "Income"
+        },
+        {
+          "date": "2025-08-13",
+          "amount": 3150,
+          "description": "\"Zelle payment to AMANDA RETTENMAIER for '10222 66th tenant deposit release 1 month'; Conf# fizp8l78n\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-14",
+          "amount": 3150,
+          "description": "\"Zelle Scheduled payment to AMANDA RETTENMAIER for '2nd deposit release'; Conf# bpxy3prwm\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-14",
+          "amount": 7000,
+          "description": "Online Banking transfer from CHK 2437 Confirmation# XXXXX11030",
+          "category": "Internal Transfers"
+        },
+        {
+          "date": "2025-08-15",
+          "amount": 2500,
+          "description": "\"Zelle payment to josh oconnor for 'furnishing 10222 66th ave s'; Conf# a9yr3t482\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-22",
+          "amount": 3500,
+          "description": "Zelle payment to next gen rei Conf# f0lhl5gh8",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-28",
+          "amount": 300,
+          "description": "Zelle payment to jess doherty Conf# c4xcdp7pc",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-28",
+          "amount": 49.97,
+          "description": "Online Banking payment to CRD 0898 Confirmation# XXXXX13686",
+          "category": "Credit Card Payment"
+        },
+        {
+          "date": "2025-08-28",
+          "amount": 7000,
+          "description": "Online Banking transfer from CHK 2437 Confirmation# XXXXX04892",
+          "category": "Internal Transfers"
+        },
+        {
+          "date": "2025-08-29",
+          "amount": 300,
+          "description": "Zelle Transfer CONF# IQC5GRQE2; JESSICA DOHERTY",
+          "category": "Uncategorized"
+        }
+      ]
+    },
+    "2403 Brigadoon": {
+      "recurring": [
+        {
+          "date": "2025-01-02",
+          "amount": 1239.23,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-01-03",
+          "amount": 33,
+          "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-01-06",
+          "amount": 187,
+          "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-01-09",
+          "amount": 85.77,
+          "description": "CLEARWATER CITY DES:UTILITY ID:7998741 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-01-21",
+          "amount": 71.99,
+          "description": "SPECTRUM DES:SPECTRUM ID:2101697 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-01-23",
+          "amount": 80.29,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-02-03",
+          "amount": 1212.32,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-02-04",
+          "amount": 33,
+          "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-02-04",
+          "amount": 187,
+          "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-02-10",
+          "amount": 85.77,
+          "description": "CLEARWATER CITY DES:UTILITY ID:9218918 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-02-20",
+          "amount": 74.99,
+          "description": "SPECTRUM DES:SPECTRUM ID:3797831 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-02-24",
+          "amount": 165.5,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-03-03",
+          "amount": 16,
+          "description": "Monthly Fee Business Adv Fundamentals",
+          "category": "Fees"
+        },
+        {
+          "date": "2025-03-03",
+          "amount": 1212.32,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-03-04",
+          "amount": 33,
+          "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-03-04",
+          "amount": 187,
+          "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-03-13",
+          "amount": 85.77,
+          "description": "CLEARWATER CITY DES:UTILITY ID:1833132 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-03-20",
+          "amount": 74.99,
+          "description": "SPECTRUM DES:SPECTRUM ID:4458496 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-03-24",
+          "amount": 114.93,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-04-01",
+          "amount": 1212.32,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-04-02",
+          "amount": 35,
+          "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-04-04",
+          "amount": 187,
+          "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-04-11",
+          "amount": 85.77,
+          "description": "CLEARWATER CITY DES:UTILITY ID:2199692 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-04-21",
+          "amount": 74.99,
+          "description": "SPECTRUM DES:SPECTRUM ID:5606465 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-04-23",
+          "amount": 108.56,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-05-01",
+          "amount": 1212.32,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-05-02",
+          "amount": 35,
+          "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-05-06",
+          "amount": 187,
+          "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-05-12",
+          "amount": 85.77,
+          "description": "CLEARWATER CITY DES:UTILITY ID:2997716 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-05-20",
+          "amount": 74.99,
+          "description": "SPECTRUM DES:SPECTRUM ID:6695164 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-05-22",
+          "amount": 150.45,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-06-02",
+          "amount": 1212.32,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-06-03",
+          "amount": 35,
+          "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-06-04",
+          "amount": 187,
+          "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-06-09",
+          "amount": 85.77,
+          "description": "CLEARWATER CITY DES:UTILITY ID:3802995 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-06-20",
+          "amount": 74.99,
+          "description": "SPECTRUM DES:SPECTRUM ID:8215753 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-06-23",
+          "amount": 164.16,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-07-01",
+          "amount": 1212.32,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-07-02",
+          "amount": 35,
+          "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-07-07",
+          "amount": 187,
+          "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-07-10",
+          "amount": 85.77,
+          "description": "CLEARWATER CITY DES:UTILITY ID:5850248 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-07-14",
+          "amount": 150,
+          "description": "\"Zelle payment to Ada Busnea for 'Clearwater clsan'; Conf# iadfs4yrl\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-07-21",
+          "amount": 74.99,
+          "description": "SPECTRUM DES:SPECTRUM ID:9925045 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-07-21",
+          "amount": 148.01,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-08-01",
+          "amount": 1212.32,
+          "description": "FREEDOM DES:MTG PYMTS ID:XXXXX64656 INDN:TROY NOWAK CO ID:XXXXX39688 WEB",
+          "category": "Loan Payment"
+        },
+        {
+          "date": "2025-08-04",
+          "amount": 35,
+          "description": "ANTI-PESTO BUG K DES:ANTI-PESTO ID: INDN:Troy Nowak CO ID:XXXXX55714 CCD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-05",
+          "amount": 187,
+          "description": "Brigadoon of Cle DES:ASSN DUES ID:2623 INDN:Troy Nowak CO ID:XXXXX08905 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-08-11",
+          "amount": 85.77,
+          "description": "CLEARWATER CITY DES:UTILITY ID:7449635 INDN:TROY *NOWAK CO ID:XXXXX63576 CCD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-08-20",
+          "amount": 74.99,
+          "description": "SPECTRUM DES:SPECTRUM ID:1702538 INDN:TROY NOWAK CO ID:XXXXX58635 PPD",
+          "category": "Bills & Utilities"
+        },
+        {
+          "date": "2025-08-22",
+          "amount": 198.71,
+          "description": "DUKEENERGY DES:BILL PAY ID:XXXXX9737534 INDN:TROY NOWAK CO ID:DEFJPM4588 WEB",
+          "category": "Bills & Utilities"
+        }
+      ],
+      "oneTime": [
+        {
+          "date": "2025-01-03",
+          "amount": 3000,
+          "description": "Online Banking transfer from CHK 3189 Confirmation# XXXXX63519",
+          "category": "Internal Transfers"
+        },
+        {
+          "date": "2025-01-09",
+          "amount": 100,
+          "description": "\"Zelle payment to dmytro bichukov for 'home repair'; Conf# gba7fdmjj\"",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-03-03",
+          "amount": 180,
+          "description": "Zelle payment to Ada Busnea Conf# cidctm3dc",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-03-04",
+          "amount": 30,
+          "description": "Online Banking transfer to SAV 3202 Confirmation# XXXXX55370",
+          "category": "Savings Transfer"
+        },
+        {
+          "date": "2025-03-27",
+          "amount": 150,
+          "description": "Zelle payment to Ada Busnea Conf# aol1c60h0",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-04-01",
+          "amount": 5000,
+          "description": "Online Banking transfer to CHK 2437 Confirmation# XXXXX98411",
+          "category": "Internal Transfers"
+        },
+        {
+          "date": "2025-05-12",
+          "amount": 839.07,
+          "description": "VENMO DES:CASHOUT ID:XXXXX42875359 INDN:TROY NOWAK CO ID:XXXXX81992 PPD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-05-19",
+          "amount": 5,
+          "description": "VENMO DES:PAYMENT ID:XXXXX73766852 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-05-19",
+          "amount": 20,
+          "description": "VENMO DES:PAYMENT ID:XXXXX66388660 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-05-21",
+          "amount": 250,
+          "description": "VENMO DES:PAYMENT ID:XXXXX24191843 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-05-29",
+          "amount": 50,
+          "description": "VENMO DES:PAYMENT ID:XXXXX83287378 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-06-02",
+          "amount": 80,
+          "description": "VENMO DES:PAYMENT ID:XXXXX49086696 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-06-30",
+          "amount": 20,
+          "description": "VENMO DES:PAYMENT ID:XXXXX72292143 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-06-30",
+          "amount": 235,
+          "description": "VENMO DES:CASHOUT ID:XXXXX72286070 INDN:TROY NOWAK CO ID:XXXXX81992 PPD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-07-07",
+          "amount": 400,
+          "description": "VENMO DES:PAYMENT ID:XXXXX29440886 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-07-10",
+          "amount": 20,
+          "description": "VENMO DES:PAYMENT ID:XXXXX17084239 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-07-10",
+          "amount": 371,
+          "description": "VENMO DES:CASHOUT ID:XXXXX17082577 INDN:TROY NOWAK CO ID:XXXXX81992 PPD",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-07-15",
+          "amount": 200,
+          "description": "VENMO DES:PAYMENT ID:XXXXX03790049 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-07-21",
+          "amount": 100,
+          "description": "VENMO DES:PAYMENT ID:XXXXX11474089 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-07-24",
+          "amount": 200,
+          "description": "OPENAI DES:OPENAI *CH ID:ST-O8Z6Y2P0O3Z0 INDN:LINK CO ID:XXXXX48598 WEB",
+          "category": "Software & Tech"
+        },
+        {
+          "date": "2025-07-31",
+          "amount": 80,
+          "description": "VENMO DES:PAYMENT ID:XXXXX42994303 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-01",
+          "amount": 300,
+          "description": "VENMO DES:PAYMENT ID:XXXXX62710780 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        },
+        {
+          "date": "2025-08-14",
+          "amount": 1220.33,
+          "description": "AIRBNB PAYMENTS DES:G6BF5QIJBA ID:G-FMLA2Q3HDB4FX INDN:TROY NOWAK CO ID:XXXXX51428 PPD PMT INFO:RMR*IK*G-FMLA2Q3HDB4FX\\",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-08-14",
+          "amount": 2702.17,
+          "description": "AIRBNB PAYMENTS DES:IMBNHQYY5K ID:G-2OHMKRDZPO7CY INDN:TROY NOWAK CO ID:XXXXX51428 PPD PMT INFO:RMR*IK*G-2OHMKRDZPO7CY\\",
+          "category": "Travel & Vacation"
+        },
+        {
+          "date": "2025-08-25",
+          "amount": 200,
+          "description": "OPENAI DES:OPENAI *CH ID:ST-Z5F5N3Q1O4V8 INDN:LINK CO ID:XXXXX48598 WEB",
+          "category": "Software & Tech"
+        },
+        {
+          "date": "2025-08-26",
+          "amount": 900,
+          "description": "VENMO DES:PAYMENT ID:XXXXX54379655 INDN:TROY NOWAK CO ID:XXXXX81992 WEB",
+          "category": "Uncategorized"
+        }
+      ]
+    }
+  }
+}
